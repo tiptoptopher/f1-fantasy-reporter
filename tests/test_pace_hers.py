@@ -86,6 +86,37 @@ def test_falsification_test_ranks_spa_above_monaco_and_finds_mercedes_smallest_l
     assert result["correlation_severity_vs_delta"] > 0.9  # more clipping, more time lost
 
 
+def test_load_quali_laps_converts_a_post_load_failure_to_session_unavailable(monkeypatch):
+    """Regression test for the same real failure hit live in GitHub Actions
+    (see tests/test_pace_sessions.py's identical case for pace/sessions.py's
+    load_laps, which this function follows): FastF1's ``.load()`` can return
+    without raising even when a session's data genuinely isn't available
+    yet -- it swallows its own per-category SessionNotAvailableError
+    internally and just logs a warning, leaving ``_laps`` unset -- so the
+    real failure surfaces later, on the ``.laps`` property access
+    (DataNotLoadedError), which used to propagate uncaught past this
+    function's try/except instead of degrading to SessionUnavailable."""
+    import fastf1
+    from fastf1.exceptions import DataNotLoadedError
+
+    from f1_fantasy.pace import hers as hers_module
+    from f1_fantasy.pace.sessions import SessionUnavailable
+
+    class FakeSession:
+        def load(self, **kwargs):
+            return None  # "succeeds" without actually populating _laps
+
+        @property
+        def laps(self):
+            raise DataNotLoadedError("laps data has not been loaded yet")
+
+    monkeypatch.setattr(hers_module, "_ensure_cache", lambda: None)
+    monkeypatch.setattr(fastf1, "get_session", lambda season, rnd, session: FakeSession())
+
+    with pytest.raises(SessionUnavailable):
+        hers_module._load_quali_laps(2026, 13)
+
+
 def test_falsification_test_handles_a_session_that_cannot_be_loaded(monkeypatch):
     from f1_fantasy.pace.sessions import SessionUnavailable
 

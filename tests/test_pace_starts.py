@@ -9,6 +9,7 @@ from __future__ import annotations
 import pandas as pd
 import pytest
 
+from f1_fantasy.pace import starts as starts_module
 from f1_fantasy.pace.starts import detect_anti_stall, launch_time_to_speed
 
 
@@ -65,6 +66,51 @@ def test_detect_anti_stall_ignores_a_brief_sub_threshold_dip():
     tel = _telemetry([(0.0, 0.0, 80.0), (0.1, 1.0, 80.0), (0.2, 50.0, 80.0), (1.0, 100.0, 80.0)])
 
     assert detect_anti_stall(tel) is False
+
+
+def _fake_session_laps_raise():
+    from fastf1.exceptions import DataNotLoadedError
+
+    class FakeSession:
+        def load(self, **kwargs):
+            return None  # "succeeds" without actually populating _laps
+
+        @property
+        def laps(self):
+            raise DataNotLoadedError("laps data has not been loaded yet")
+
+    return FakeSession()
+
+
+def test_round_launch_performance_returns_empty_when_laps_fail_to_load_after_a_successful_load_call(monkeypatch):
+    """Regression test for the same real failure hit live in GitHub Actions
+    (see tests/test_pace_sessions.py's identical case): FastF1's ``.load()``
+    can return without raising even when a session's data genuinely isn't
+    available yet, so the real failure surfaces later on the ``.laps``
+    property access (DataNotLoadedError). This used to propagate uncaught
+    out of _load_race_lap1_telemetry; it must now degrade to the same empty
+    result this function already returns for "no lap data", not crash."""
+    import fastf1
+
+    from f1_fantasy.pace import sessions as sessions_module
+
+    monkeypatch.setattr(sessions_module, "_ensure_cache", lambda: None)
+    monkeypatch.setattr(fastf1, "get_session", lambda season, rnd, session: _fake_session_laps_raise())
+
+    assert starts_module.round_launch_performance(2026, 13) == {}
+
+
+def test_positions_gained_lap1_returns_empty_when_laps_fail_to_load_after_a_successful_load_call(monkeypatch):
+    """Same failure mode as above, for positions_gained_lap1's own inline
+    session loader."""
+    import fastf1
+
+    from f1_fantasy.pace import sessions as sessions_module
+
+    monkeypatch.setattr(sessions_module, "_ensure_cache", lambda: None)
+    monkeypatch.setattr(fastf1, "get_session", lambda season, rnd, session: _fake_session_laps_raise())
+
+    assert starts_module.positions_gained_lap1(2026, 13) == {}
 
 
 def test_detect_anti_stall_only_looks_within_the_launch_window():

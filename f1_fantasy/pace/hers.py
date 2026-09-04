@@ -57,9 +57,16 @@ def _load_quali_laps(season: int, round_number: int):
     try:
         session = fastf1.get_session(season, round_number, REFERENCE_SESSION)
         session.load(laps=True, telemetry=True, weather=False, messages=False)
+        # ``.load()`` can return without raising even when the session's
+        # data genuinely isn't available yet -- FastF1 swallows its own
+        # per-category SessionNotAvailableError internally and just logs a
+        # warning, leaving ``_laps`` unset. Accessing ``.laps`` is what
+        # actually raises in that case (fastf1.exceptions.DataNotLoadedError)
+        # -- kept inside this same try so it converts to SessionUnavailable
+        # too, instead of crashing every caller of this loader uncaught.
+        laps = session.laps
     except Exception as exc:  # FastF1 raises several distinct types for "no such session"
         raise SessionUnavailable(f"{REFERENCE_SESSION} R{round_number} {season}: {exc}") from exc
-    laps = session.laps
     if laps is None or laps.empty:
         raise SessionUnavailable(f"{REFERENCE_SESSION} R{round_number} {season}: no lap data")
     return laps

@@ -30,7 +30,11 @@ deferred per the approved plan until a real signal exists to justify it.
 
 from __future__ import annotations
 
+import logging
+
 import pandas as pd
+
+log = logging.getLogger(__name__)
 
 #: Launch speed FastF1's own telemetry channel reports in km/h. Bartolozzi's
 #: published launch analyses use a 0-100 km/h figure.
@@ -73,9 +77,21 @@ def _load_race_lap1_telemetry(season: int, round_number: int) -> dict[str, pd.Da
     from f1_fantasy.pace.sessions import _ensure_cache
 
     _ensure_cache()
-    session = fastf1.get_session(season, round_number, "R")
-    session.load(laps=True, telemetry=True, weather=False, messages=False)
-    laps = session.laps
+    try:
+        session = fastf1.get_session(season, round_number, "R")
+        session.load(laps=True, telemetry=True, weather=False, messages=False)
+        # ``.load()`` can return without raising even when the session's
+        # data genuinely isn't available yet -- FastF1 swallows its own
+        # per-category SessionNotAvailableError internally and just logs a
+        # warning, leaving ``_laps`` unset. Accessing ``.laps`` is what
+        # actually raises in that case (fastf1.exceptions.DataNotLoadedError)
+        # -- kept inside this same try so a load failure degrades to the
+        # same "no lap data" empty result below, instead of crashing the
+        # caller uncaught.
+        laps = session.laps
+    except Exception as exc:  # noqa: BLE001 -- FastF1 raises several distinct types for "no such session"
+        log.warning("R%d %s: could not load lap-1 telemetry: %s", round_number, season, exc)
+        return {}
     if laps is None or laps.empty:
         return {}
     lap1 = laps.pick_laps(1)
@@ -165,9 +181,21 @@ def positions_gained_lap1(season: int, round_number: int) -> dict[str, int]:
     from f1_fantasy.results import fetch_race_results
 
     _ensure_cache()
-    session = fastf1.get_session(season, round_number, "R")
-    session.load(laps=True, telemetry=False, weather=False, messages=False)
-    laps = session.laps
+    try:
+        session = fastf1.get_session(season, round_number, "R")
+        session.load(laps=True, telemetry=False, weather=False, messages=False)
+        # ``.load()`` can return without raising even when the session's
+        # data genuinely isn't available yet -- FastF1 swallows its own
+        # per-category SessionNotAvailableError internally and just logs a
+        # warning, leaving ``_laps`` unset. Accessing ``.laps`` is what
+        # actually raises in that case (fastf1.exceptions.DataNotLoadedError)
+        # -- kept inside this same try so a load failure degrades to the
+        # same "no lap data" empty result below, instead of crashing the
+        # caller uncaught.
+        laps = session.laps
+    except Exception as exc:  # noqa: BLE001 -- FastF1 raises several distinct types for "no such session"
+        log.warning("R%d %s: could not load lap-1 positions: %s", round_number, season, exc)
+        return {}
     if laps is None or laps.empty:
         return {}
     lap1 = laps.pick_laps(1).dropna(subset=["Position"])

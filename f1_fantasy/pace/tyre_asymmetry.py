@@ -127,9 +127,22 @@ def run_backfill(season: int, rounds: list[int]) -> dict:
 
         pace, _sessions_used = round_pace(season, round_number, sprint_weekend=event.is_sprint_weekend)
 
-        session = fastf1.get_session(season, round_number, "FP1")
-        session.load(laps=True, telemetry=False, weather=False, messages=False)
-        teams = team_by_driver(session.laps)
+        try:
+            session = fastf1.get_session(season, round_number, "FP1")
+            session.load(laps=True, telemetry=False, weather=False, messages=False)
+            # ``.load()`` can return without raising even when the session's
+            # data genuinely isn't available yet -- FastF1 swallows its own
+            # per-category SessionNotAvailableError internally and just logs
+            # a warning, leaving ``_laps`` unset. Accessing ``.laps`` is what
+            # actually raises in that case
+            # (fastf1.exceptions.DataNotLoadedError) -- kept inside this same
+            # try so one bad round is skipped like every other
+            # session-unavailable case in this backfill loop, instead of
+            # aborting the whole multi-round run.
+            teams = team_by_driver(session.laps)
+        except Exception as exc:  # noqa: BLE001 -- FastF1 raises several distinct types for "no such session"
+            skipped.append({"round": round_number, "reason": f"FP1 R{round_number} {season}: {exc}"})
+            continue
 
         degradation = {}
         for driver_pace in pace:
