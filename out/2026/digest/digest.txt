@@ -1,25 +1,24 @@
 F1 Fantasy daily digest -- 2026 round 16
-Generated 2026-09-30 13:43 UTC
+Generated 2026-10-01 14:28 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 16 (FP1 R16 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
   - The detail that impressed Red Bull the most about Hadjar's F1 return [Red Bull] (27 Sep) -- https://www.autosport.com/rss/f1/news/
   - How Isack Hadjar injured his wrist during F1 2026 summer break [Red Bull, Racing Bulls] (29 Sep) -- https://www.motorsport.com/rss/f1/news/
-  - The one detail that impresses Red Bull most about Isack Hadjar's "outstanding" F1 return [Red Bull] (27 Sep) -- https://www.motorsport.com/rss/f1/news/
-  - Hadjar says Red Bull made clear performance gain with car during his absence | Formula 1 [Red Bull] (27 Sep) -- https://www.racefans.net/feed/
 
 UPGRADE PACKAGES:
+  - Russell predicts impact of Mercedes’ Bahrain upgrades [Mercedes] -- https://www.formula1.com/en/latest/all.xml
+  - Why Honda secretly introduced its second F1 ADUO upgrade in Madrid [Aston Martin] (01 Oct) -- https://www.autosport.com/rss/f1/news/
   - Azerbaijan GP was a step forward for upgraded Williams - but real test is still to come [Williams] (29 Sep) -- https://www.autosport.com/rss/f1/news/
   - Why McLaren was so much slower than Mercedes on Baku's straights [McLaren, Mercedes] (28 Sep) -- https://www.autosport.com/rss/f1/news/
   - Verstappen reveals why Red Bull's engine problem in Baku was different than it seemed [Red Bull] (25 Sep) -- https://www.autosport.com/rss/f1/news/
   - Red Bull won't deliver any more major F1 car upgrades in 2026 [McLaren, Red Bull, Williams] (24 Sep) -- https://www.autosport.com/rss/f1/news/
   - Will the "big swing" Williams F1 car upgrade be a hit or a miss? [Williams] (24 Sep) -- https://www.autosport.com/rss/f1/news/
-  - What's next for Williams after Baku B-spec yields mixed fortunes [Williams] (29 Sep) -- https://www.motorsport.com/rss/f1/news/
-  - Why McLaren was so much slower than Mercedes on Baku's straights [McLaren, Mercedes] (28 Sep) -- https://www.motorsport.com/rss/f1/news/
-  - Charles Leclerc: “McLaren and Red Bull did a step forward that we didn’t do” [McLaren, Ferrari, Red Bull] (27 Sep) -- https://www.motorsport.com/rss/f1/news/
+  - Isack Hadjar confirms Red Bull grid penalty for F1 Bahrain GP in Malaysia [Red Bull, Mercedes] (01 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
+  - Why Honda secretly introduced its second F1 ADUO upgrade in Madrid [Aston Martin] (01 Oct) -- https://www.autosport.com/rss/f1/news/
   - Azerbaijan GP was a step forward for upgraded Williams - but real test is still to come [Williams] (29 Sep) -- https://www.autosport.com/rss/f1/news/
   - What made Red Bull so fast in the Azerbaijan GP after Verstappen’s qualifying issue [Red Bull] (28 Sep) -- https://www.autosport.com/rss/f1/news/
   - Why McLaren was so much slower than Mercedes on Baku's straights [McLaren, Mercedes] (28 Sep) -- https://www.autosport.com/rss/f1/news/
@@ -27,4 +26,3 @@ PENALTIES / RELIABILITY:
   - Colapinto handed Sepang penalty for causing Baku F1 pile-up [Alpine] (26 Sep) -- https://www.autosport.com/rss/f1/news/
   - Why Verstappen feels Baku was Red Bull's best chance to win in F1 2026 [Red Bull] (26 Sep) -- https://www.autosport.com/rss/f1/news/
   - Verstappen reveals why Red Bull's engine problem in Baku was different than it seemed [Red Bull] (25 Sep) -- https://www.autosport.com/rss/f1/news/
-  - F1 Azerbaijan GP: Verstappen beats Russell and Hamilton to top FP3 [Ferrari, Red Bull, Mercedes] (25 Sep) -- https://www.autosport.com/rss/f1/news/

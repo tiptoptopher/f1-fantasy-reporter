@@ -2,6 +2,34 @@
   "season": 2026,
   "mentions": [
     {
+      "source": "https://www.formula1.com/en/latest/all.xml",
+      "title": "Russell predicts impact of Mercedes\u2019 Bahrain upgrades",
+      "summary": "George Russell hopes that Mercedes\u2019 latest upgrades will help them open up a greater advantage over their rivals in the Bahrain Grand Prix.",
+      "link": "https://www.formula1.com/en/latest/article/bring-it-on-russell-predicts-mercedes-bahrain-upgrades-could-play-in-my-favour.2MrIZO0XrStD76V1fTLAlA",
+      "published_at": null,
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Mercedes"
+      ],
+      "attributed_round": null
+    },
+    {
+      "source": "https://www.autosport.com/rss/f1/news/",
+      "title": "Why Honda secretly introduced its second F1 ADUO upgrade in Madrid",
+      "summary": "Honda Racing Corporation president Koji Watanabe has revealed that Honda actually introduced its second ADUO (Additional Development and Upgrade Opportunities) upgrade as early as Formula 1\u2019s Spanish Grand Prix, with the upgrade focused on the power unit's turbocharger.<br />Aston Martin and Honda struggled from the start of the season, but their performance slightly improved after a major chassis ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/why-honda-secretly-introduced-its-second-f1-aduo-upgrade-in-madrid/10860367/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
+      "link": "https://www.autosport.com/f1/news/why-honda-secretly-introduced-its-second-f1-aduo-upgrade-in-madrid/10860367/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-10-01T03:56:47Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Aston Martin"
+      ],
+      "attributed_round": 16
+    },
+    {
       "source": "https://www.autosport.com/rss/f1/news/",
       "title": "Azerbaijan GP was a step forward for upgraded Williams - but real test is still to come",
       "summary": "If there is a definition of a mixed bag, that's what the Baku weekend was to Williams. It progressed to Q3 for the first time in 2026, but didn't start there due to a grid penalty for Carlos Sainz. It scored points for the first time since Monaco, with some fortune, but also saw Alex Albon crash out.<br />Azerbaijan was a key weekend circled in red on Williams' calendar as it finally upgraded an ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/azerbaijan-gp-step-forward-for-wiliams-real-test-still-to-come/10860001/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
@@ -79,6 +107,51 @@
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Isack Hadjar confirms Red Bull grid penalty for F1 Bahrain GP in Malaysia",
+      "summary": "After the double podium in Baku \u2013 a first for Red Bull since China 2024 \u2013 a considerable challenge awaits in Malaysia if the team is to repeat that result.\u00a0Not only can Mercedes count on its long-awaited upgrade for the W17, but\u00a0Isack Hadjar will also have to serve a grid penalty.<br />The Frenchman revealed it at\u00a0Sepang on Thursday, when Motorsport.com asked him whether the Baku race weekend ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/isack-hadjar-confirms-red-bull-grid-penalty-for-f1-bahrain-gp-in-malaysia/10860577/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/isack-hadjar-confirms-red-bull-grid-penalty-for-f1-bahrain-gp-in-malaysia/10860577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-01T11:17:03Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Red Bull",
+        "Mercedes"
+      ],
+      "attributed_round": 16
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Honda secretly introduced second F1 ADUO upgrade in Madrid",
+      "summary": "Honda Racing Corporation president Koji Watanabe has revealed that Honda actually introduced its second ADUO (Additional Development and Upgrade Opportunities) upgrade as early as Formula 1\u2019s Spanish Grand Prix, with the upgrade focused on the power unit's turbocharger.<br />Aston Martin and Honda struggled from the start of the season, but their performance slightly improved after a major chassis ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/why-honda-secretly-introduced-its-second-f1-aduo-upgrade-in-madrid/10860365/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/why-honda-secretly-introduced-its-second-f1-aduo-upgrade-in-madrid/10860365/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-01T03:56:39Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Aston Martin"
+      ],
+      "attributed_round": 16
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Alex Brundle questions McLaren F1 upgrade after Azerbaijan GP disappointment",
+      "summary": "F1 TV pundit Alex Brundle has questioned whether McLaren's latest Formula 1 upgrade package is already destined for the \"bin\".<br />The Woking outfit arrived at the Azerbaijan Grand Prix with a big upgrade package. But the reigning champion suffered a pointless weekend.<br />2025 Formula 1 champion Lando Norris crashed in a Turn 1 incident at a safety car\u00a0restart when Alpine's Franco Colapinto locked ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/alex-brundle-questions-mclaren-f1-upgrade-after-azerbaijan-gp-disappointment/10860292/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/alex-brundle-questions-mclaren-f1-upgrade-after-azerbaijan-gp-disappointment/10860292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-09-30T14:16:27Z",
+      "matched_keywords": [
+        "upgrade",
+        "upgrade package"
+      ],
+      "constructors": [
+        "McLaren",
+        "Alpine"
+      ],
+      "attributed_round": 16
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
       "title": "What's next for Williams after Baku B-spec yields mixed fortunes",
       "summary": "If there is a definition of a mixed bag, that's what the Baku weekend was to Williams. It progressed to Q3 for the first time in 2026, but didn't start there due to a grid penalty for Carlos Sainz. It scored points for the first time since Monaco, with some fortune, but also saw Alex Albon crash out.<br />Azerbaijan was a key weekend circled in red on Williams' calendar as it finally upgraded an ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/whats-next-for-williams-after-baku-b-spec-yields-mixed-fortunes/10859882/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
       "link": "https://www.motorsport.com/f1/news/whats-next-for-williams-after-baku-b-spec-yields-mixed-fortunes/10859882/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -89,39 +162,6 @@
       ],
       "constructors": [
         "Williams"
-      ],
-      "attributed_round": 15
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Why McLaren was so much slower than Mercedes on Baku's straights",
-      "summary": "For all the talk of rivals catching Mercedes, which has held fire on its more significant upgrades until next weekend's Formula 1 Bahrain Grand Prix in Malaysia, the Brackley team has been able to weather the storm by excelling on some of the most power sensitive circuits like Monza and Baku, vindicating its patience.\u00a0<br />But while Mercedes' dominant power unit package helps explain its gap to ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/why-mclaren-was-so-much-slower-than-mercedes-on-baku-straights/10859545/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/why-mclaren-was-so-much-slower-than-mercedes-on-baku-straights/10859545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-09-28T08:24:05Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "McLaren",
-        "Mercedes"
-      ],
-      "attributed_round": 15
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Charles Leclerc: \u201cMcLaren and Red Bull did a step forward that we didn\u2019t do\u201d",
-      "summary": "Red Bull now has a clear advantage over Ferrari in terms of chassis performance, with McLaren having also markedly improved, Charles Leclerc believes following the Formula 1 Azerbaijan Grand\u00a0Prix.<br />Both teams brought significant upgrade packages to Baku, focusing on the sidepods, floor and diffuser \u2013 McLaren\u2019s also included a revised engine cover, rear suspension and rear wing while Red ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/charles-leclerc-mclaren-and-red-bull-did-a-step-forward-that-we-didnt-do/10859495/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/charles-leclerc-mclaren-and-red-bull-did-a-step-forward-that-we-didnt-do/10859495/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-09-27T11:00:04Z",
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package",
-        "sidepod"
-      ],
-      "constructors": [
-        "McLaren",
-        "Ferrari",
-        "Red Bull"
       ],
       "attributed_round": 15
     }
