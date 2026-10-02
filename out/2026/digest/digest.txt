@@ -1,28 +1,30 @@
 F1 Fantasy daily digest -- 2026 round 16
-Generated 2026-10-01 14:28 UTC
+Generated 2026-10-02 13:52 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 16 (FP1 R16 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
   - The detail that impressed Red Bull the most about Hadjar's F1 return [Red Bull] (27 Sep) -- https://www.autosport.com/rss/f1/news/
-  - How Isack Hadjar injured his wrist during F1 2026 summer break [Red Bull, Racing Bulls] (29 Sep) -- https://www.motorsport.com/rss/f1/news/
+  - Isack Hadjar jokes he did a "good job on the couch" during F1 injury layoff [Red Bull] (02 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - F1 Bahrain GP in Malaysia: Friday schedule, weather forecast and how to watch (01 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Lando Norris takes firm F1 retirement stance after Fernando Alonso extension [Aston Martin] (01 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 UPGRADE PACKAGES:
-  - Russell predicts impact of Mercedes’ Bahrain upgrades [Mercedes] -- https://www.formula1.com/en/latest/all.xml
+  - Mercedes suffer one of the ‘toughest Fridays’ of the season [Mercedes] -- https://www.formula1.com/en/latest/all.xml
+  - Mercedes introduces new floor, sidepods for F1 Bahrain GP [McLaren, Ferrari, Red Bull, Mercedes] (02 Oct) -- https://www.autosport.com/rss/f1/news/
   - Why Honda secretly introduced its second F1 ADUO upgrade in Madrid [Aston Martin] (01 Oct) -- https://www.autosport.com/rss/f1/news/
   - Azerbaijan GP was a step forward for upgraded Williams - but real test is still to come [Williams] (29 Sep) -- https://www.autosport.com/rss/f1/news/
   - Why McLaren was so much slower than Mercedes on Baku's straights [McLaren, Mercedes] (28 Sep) -- https://www.autosport.com/rss/f1/news/
   - Verstappen reveals why Red Bull's engine problem in Baku was different than it seemed [Red Bull] (25 Sep) -- https://www.autosport.com/rss/f1/news/
-  - Red Bull won't deliver any more major F1 car upgrades in 2026 [McLaren, Red Bull, Williams] (24 Sep) -- https://www.autosport.com/rss/f1/news/
-  - Will the "big swing" Williams F1 car upgrade be a hit or a miss? [Williams] (24 Sep) -- https://www.autosport.com/rss/f1/news/
-  - Isack Hadjar confirms Red Bull grid penalty for F1 Bahrain GP in Malaysia [Red Bull, Mercedes] (01 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Mercedes finally brings big upgrade and F1 fans are asking if it's game over [Ferrari, Mercedes] (02 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Mercedes reveals F1 Bahrain GP updates [McLaren, Ferrari, Red Bull, Mercedes] (02 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
-  - Why Honda secretly introduced its second F1 ADUO upgrade in Madrid [Aston Martin] (01 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Azerbaijan GP was a step forward for upgraded Williams - but real test is still to come [Williams] (29 Sep) -- https://www.autosport.com/rss/f1/news/
-  - What made Red Bull so fast in the Azerbaijan GP after Verstappen’s qualifying issue [Red Bull] (28 Sep) -- https://www.autosport.com/rss/f1/news/
-  - Why McLaren was so much slower than Mercedes on Baku's straights [McLaren, Mercedes] (28 Sep) -- https://www.autosport.com/rss/f1/news/
-  - Alpine condemns abuse again following Colapinto's Azerbaijan GP crash [Alpine] (27 Sep) -- https://www.autosport.com/rss/f1/news/
-  - Colapinto handed Sepang penalty for causing Baku F1 pile-up [Alpine] (26 Sep) -- https://www.autosport.com/rss/f1/news/
-  - Why Verstappen feels Baku was Red Bull's best chance to win in F1 2026 [Red Bull] (26 Sep) -- https://www.autosport.com/rss/f1/news/
-  - Verstappen reveals why Red Bull's engine problem in Baku was different than it seemed [Red Bull] (25 Sep) -- https://www.autosport.com/rss/f1/news/
+  - What the teams said – Friday in Malaysia -- https://www.formula1.com/en/latest/all.xml
+  - Mercedes suffer one of the ‘toughest Fridays’ of the season [Mercedes] -- https://www.formula1.com/en/latest/all.xml
+  - Leclerc tops FP2 from Hadjar at Bahrain GP in Malaysia [Ferrari] -- https://www.formula1.com/en/latest/all.xml
+  - AS IT HAPPENED: Second Practice for the Bahrain GP in Malaysia -- https://www.formula1.com/en/latest/all.xml
+  - Why Verstappen’s unusual run plan highlights F1 teams’ biggest challenge in Malaysia [Mercedes] (02 Oct) -- https://www.autosport.com/rss/f1/news/
+  - F1 Bahrain GP in Malaysia: Leclerc tops FP2 with Mercedes seventh and eighth [Ferrari, Mercedes] (02 Oct) -- https://www.autosport.com/rss/f1/news/
+  - F1 Bahrain GP in Malaysia: Verstappen pips Russell to top FP1 [Red Bull, Mercedes] (02 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Colapinto handed extra grid penalty at F1 Bahrain GP [Mercedes, Alpine] (02 Oct) -- https://www.autosport.com/rss/f1/news/

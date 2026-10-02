@@ -3,9 +3,9 @@
   "mentions": [
     {
       "source": "https://www.formula1.com/en/latest/all.xml",
-      "title": "Russell predicts impact of Mercedes\u2019 Bahrain upgrades",
-      "summary": "George Russell hopes that Mercedes\u2019 latest upgrades will help them open up a greater advantage over their rivals in the Bahrain Grand Prix.",
-      "link": "https://www.formula1.com/en/latest/article/bring-it-on-russell-predicts-mercedes-bahrain-upgrades-could-play-in-my-favour.2MrIZO0XrStD76V1fTLAlA",
+      "title": "Mercedes suffer one of the \u2018toughest Fridays\u2019 of the season",
+      "summary": "Friday saw Mercedes\u2019 new package of upgrades break cover in Malaysia, but the day did not go entirely to plan for the Silver Arrows, with some of their rivals getting out of the blocks faster in both practice sessions.",
+      "link": "https://www.formula1.com/en/latest/article/mercedes-suffer-one-of-the-toughest-fridays-of-the-season-but-russell-hopeful-of-fighting-for-pole.49cB5B7TCBoAI4ar4zOJlZ",
       "published_at": null,
       "matched_keywords": [
         "upgrade"
@@ -14,6 +14,25 @@
         "Mercedes"
       ],
       "attributed_round": null
+    },
+    {
+      "source": "https://www.autosport.com/rss/f1/news/",
+      "title": "Mercedes introduces new floor, sidepods for F1 Bahrain GP",
+      "summary": "Mercedes has revealed its updates for Formula 1's Bahrain Grand Prix in Malaysia, introducing a vastly reworked floor and new sidepods as it seeks to increase its control in both 2026 championships.<br />The W17 has been the class of the field so far in 2026, although has faced competition from Ferrari, McLaren, and Red Bull intermittently throughout the season.<br />Although none of them has been ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mercedes-introduces-new-floor-sidepods-for-f1-bahrain-gp/10860785/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
+      "link": "https://www.autosport.com/f1/news/mercedes-introduces-new-floor-sidepods-for-f1-bahrain-gp/10860785/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-10-02T04:31:49Z",
+      "matched_keywords": [
+        "new floor",
+        "new sidepod",
+        "sidepod"
+      ],
+      "constructors": [
+        "McLaren",
+        "Ferrari",
+        "Red Bull",
+        "Mercedes"
+      ],
+      "attributed_round": 16
     },
     {
       "source": "https://www.autosport.com/rss/f1/news/",
@@ -73,37 +92,37 @@
       "attributed_round": 15
     },
     {
-      "source": "https://www.autosport.com/rss/f1/news/",
-      "title": "Red Bull won't deliver any more major F1 car upgrades in 2026",
-      "summary": "Red Bull has announced its Baku updates will be its final major Formula 1 car upgrade package as it shifts focus to 2027.<br />The Azerbaijan Grand Prix had already been circled in red for a long time as a venue for key upgrades to arrive, with Williams delivering a 'B-spec' car,\u00a0while McLaren has arrived with significantly revised sidepods, among other changes.<br />The\u00a0FIA\u2019s technical document ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/red-bull-wont-deliver-any-more-major-f1-car-upgrades-in-2026/10858535/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
-      "link": "https://www.autosport.com/f1/news/red-bull-wont-deliver-any-more-major-f1-car-upgrades-in-2026/10858535/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-09-24T12:30:02Z",
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Mercedes finally brings big upgrade and F1 fans are asking if it's game over",
+      "summary": "Mercedes went five months without touching the W17 and still built a 160-point lead over Ferrari in the constructors' championship. Six wins in ten races will do that. So when the team finally rolled out a serious upgrade package at Sepang for the Bahrain Grand Prix, the question isn't about whether it will be fast, it's how fast.<br />This upgrade package is the first serious change Mercedes has ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mercedes-finally-brings-big-upgrade-and-f1-fans-are-asking-if-its-game-over/10860843/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/mercedes-finally-brings-big-upgrade-and-f1-fans-are-asking-if-its-game-over/10860843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-02T06:10:52Z",
       "matched_keywords": [
         "upgrade",
-        "upgrade package",
-        "sidepod",
-        "b-spec"
+        "upgrade package"
+      ],
+      "constructors": [
+        "Ferrari",
+        "Mercedes"
+      ],
+      "attributed_round": 16
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Mercedes reveals F1 Bahrain GP updates",
+      "summary": "Mercedes has revealed its updates for Formula 1's Bahrain Grand Prix in Malaysia, introducing a vastly reworked floor and sidepods as it seeks to increase its control in both 2026 championships.<br />The W17 has been the class of the field so far in 2026, although has faced competition from Ferrari, McLaren, and Red Bull intermittently throughout the season.<br />Although none of them has been able to ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mercedes-reveals-f1-bahrain-gp-updates/10860779/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/mercedes-reveals-f1-bahrain-gp-updates/10860779/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-02T04:12:17Z",
+      "matched_keywords": [
+        "sidepod"
       ],
       "constructors": [
         "McLaren",
+        "Ferrari",
         "Red Bull",
-        "Williams"
+        "Mercedes"
       ],
-      "attributed_round": 15
-    },
-    {
-      "source": "https://www.autosport.com/rss/f1/news/",
-      "title": "Will the \"big swing\" Williams F1 car upgrade be a hit or a miss?",
-      "summary": "Williams is bringing a major update package to the Azerbaijan Grand Prix, one that team boss James Vowles promised earlier in the season would result in an \"almost completely new\" car.<br />What remains to be seen, at this late stage, is how useful it will be \u2013 both in terms of immediate performance uplift and the direction of 2027 development.<br />Alex Albon has described it as a \"big step\" but ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/will-the-big-swing-williams-f1-car-upgrade-be-a-hit-or-a-miss/10858412/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
-      "link": "https://www.autosport.com/f1/news/will-the-big-swing-williams-f1-car-upgrade-be-a-hit-or-a-miss/10858412/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-09-24T07:30:06Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "Williams"
-      ],
-      "attributed_round": 15
+      "attributed_round": 16
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
@@ -119,51 +138,6 @@
         "Mercedes"
       ],
       "attributed_round": 16
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Honda secretly introduced second F1 ADUO upgrade in Madrid",
-      "summary": "Honda Racing Corporation president Koji Watanabe has revealed that Honda actually introduced its second ADUO (Additional Development and Upgrade Opportunities) upgrade as early as Formula 1\u2019s Spanish Grand Prix, with the upgrade focused on the power unit's turbocharger.<br />Aston Martin and Honda struggled from the start of the season, but their performance slightly improved after a major chassis ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/why-honda-secretly-introduced-its-second-f1-aduo-upgrade-in-madrid/10860365/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/why-honda-secretly-introduced-its-second-f1-aduo-upgrade-in-madrid/10860365/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-01T03:56:39Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "Aston Martin"
-      ],
-      "attributed_round": 16
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Alex Brundle questions McLaren F1 upgrade after Azerbaijan GP disappointment",
-      "summary": "F1 TV pundit Alex Brundle has questioned whether McLaren's latest Formula 1 upgrade package is already destined for the \"bin\".<br />The Woking outfit arrived at the Azerbaijan Grand Prix with a big upgrade package. But the reigning champion suffered a pointless weekend.<br />2025 Formula 1 champion Lando Norris crashed in a Turn 1 incident at a safety car\u00a0restart when Alpine's Franco Colapinto locked ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/alex-brundle-questions-mclaren-f1-upgrade-after-azerbaijan-gp-disappointment/10860292/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/alex-brundle-questions-mclaren-f1-upgrade-after-azerbaijan-gp-disappointment/10860292/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-09-30T14:16:27Z",
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package"
-      ],
-      "constructors": [
-        "McLaren",
-        "Alpine"
-      ],
-      "attributed_round": 16
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "What's next for Williams after Baku B-spec yields mixed fortunes",
-      "summary": "If there is a definition of a mixed bag, that's what the Baku weekend was to Williams. It progressed to Q3 for the first time in 2026, but didn't start there due to a grid penalty for Carlos Sainz. It scored points for the first time since Monaco, with some fortune, but also saw Alex Albon crash out.<br />Azerbaijan was a key weekend circled in red on Williams' calendar as it finally upgraded an ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/whats-next-for-williams-after-baku-b-spec-yields-mixed-fortunes/10859882/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/whats-next-for-williams-after-baku-b-spec-yields-mixed-fortunes/10859882/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-09-29T10:22:20Z",
-      "matched_keywords": [
-        "upgrade",
-        "b-spec"
-      ],
-      "constructors": [
-        "Williams"
-      ],
-      "attributed_round": 15
     }
   ],
   "effects": []
