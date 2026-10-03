@@ -1,30 +1,29 @@
 F1 Fantasy daily digest -- 2026 round 16
-Generated 2026-10-02 13:52 UTC
+Generated 2026-10-03 12:34 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 16 (FP1 R16 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
+  - Hadjar 'enjoying' injury comeback despite Sepang race penalty [Red Bull] -- https://www.formula1.com/en/latest/all.xml
   - The detail that impressed Red Bull the most about Hadjar's F1 return [Red Bull] (27 Sep) -- https://www.autosport.com/rss/f1/news/
   - Isack Hadjar jokes he did a "good job on the couch" during F1 injury layoff [Red Bull] (02 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - F1 Bahrain GP in Malaysia: Friday schedule, weather forecast and how to watch (01 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Lando Norris takes firm F1 retirement stance after Fernando Alonso extension [Aston Martin] (01 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 UPGRADE PACKAGES:
-  - Mercedes suffer one of the ‘toughest Fridays’ of the season [Mercedes] -- https://www.formula1.com/en/latest/all.xml
+  - Why Mercedes' upgrade is still a "big question mark" [Mercedes] (03 Oct) -- https://www.autosport.com/rss/f1/news/
+  - F1 Bahrain GP in Malaysia: Antonelli recovers from tough Friday to top FP3 [Mercedes] (03 Oct) -- https://www.autosport.com/rss/f1/news/
   - Mercedes introduces new floor, sidepods for F1 Bahrain GP [McLaren, Ferrari, Red Bull, Mercedes] (02 Oct) -- https://www.autosport.com/rss/f1/news/
   - Why Honda secretly introduced its second F1 ADUO upgrade in Madrid [Aston Martin] (01 Oct) -- https://www.autosport.com/rss/f1/news/
   - Azerbaijan GP was a step forward for upgraded Williams - but real test is still to come [Williams] (29 Sep) -- https://www.autosport.com/rss/f1/news/
   - Why McLaren was so much slower than Mercedes on Baku's straights [McLaren, Mercedes] (28 Sep) -- https://www.autosport.com/rss/f1/news/
   - Verstappen reveals why Red Bull's engine problem in Baku was different than it seemed [Red Bull] (25 Sep) -- https://www.autosport.com/rss/f1/news/
-  - Mercedes finally brings big upgrade and F1 fans are asking if it's game over [Ferrari, Mercedes] (02 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Mercedes reveals F1 Bahrain GP updates [McLaren, Ferrari, Red Bull, Mercedes] (02 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Why Mercedes' Bahrain GP upgrade is still a "big question mark" [Mercedes] (03 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
-  - What the teams said – Friday in Malaysia -- https://www.formula1.com/en/latest/all.xml
-  - Mercedes suffer one of the ‘toughest Fridays’ of the season [Mercedes] -- https://www.formula1.com/en/latest/all.xml
-  - Leclerc tops FP2 from Hadjar at Bahrain GP in Malaysia [Ferrari] -- https://www.formula1.com/en/latest/all.xml
-  - AS IT HAPPENED: Second Practice for the Bahrain GP in Malaysia -- https://www.formula1.com/en/latest/all.xml
+  - Hadjar 'enjoying' injury comeback despite Sepang race penalty [Red Bull] -- https://www.formula1.com/en/latest/all.xml
+  - F1 Bahrain GP in Malaysia: Antonelli recovers from tough Friday to top FP3 [Mercedes] (03 Oct) -- https://www.autosport.com/rss/f1/news/
   - Why Verstappen’s unusual run plan highlights F1 teams’ biggest challenge in Malaysia [Mercedes] (02 Oct) -- https://www.autosport.com/rss/f1/news/
   - F1 Bahrain GP in Malaysia: Leclerc tops FP2 with Mercedes seventh and eighth [Ferrari, Mercedes] (02 Oct) -- https://www.autosport.com/rss/f1/news/
   - F1 Bahrain GP in Malaysia: Verstappen pips Russell to top FP1 [Red Bull, Mercedes] (02 Oct) -- https://www.autosport.com/rss/f1/news/
   - Colapinto handed extra grid penalty at F1 Bahrain GP [Mercedes, Alpine] (02 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Why Honda secretly introduced its second F1 ADUO upgrade in Madrid [Aston Martin] (01 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Azerbaijan GP was a step forward for upgraded Williams - but real test is still to come [Williams] (29 Sep) -- https://www.autosport.com/rss/f1/news/

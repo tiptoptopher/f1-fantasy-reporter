@@ -2,26 +2,26 @@
 Sepang International Circuit, Kuala Lumpur
 
 📊 Top expected points:
-  RUS: 27.4 (p10 -1.0 / p90 47.0)
-  ANT: 25.9 (p10 -1.0 / p90 46.0)
-  HAM: 22.0 (p10 -7.0 / p90 41.0)
-  LEC: 21.8 (p10 -7.0 / p90 42.0)
-  VER: 18.7 (p10 -10.0 / p90 40.0)
+  RUS: 27.2 (p10 -3.0 / p90 48.0)
+  ANT: 25.9 (p10 0.0 / p90 46.0)
+  LEC: 22.3 (p10 -6.1 / p90 43.0)
+  HAM: 21.1 (p10 -7.0 / p90 41.0)
+  NOR: 18.5 (p10 -10.0 / p90 39.0)
 
-🏗️ Captain suggestion: RUS (EV 54.8)
+🏗️ Captain suggestion: RUS (EV 54.4)
 
 📈 Likely price risers:
   ANT: 100% (Δ+0.30M)
   HUL: 100% (Δ+0.59M)
   VER: 100% (Δ+0.23M)
   RUS: 92% (Δ+0.19M)
-  LIN: 92% (Δ+0.41M)
+  LIN: 91% (Δ+0.40M)
 
 📉 Likely budget losers -- think twice before backing these:
   ALO: 100% (Δ-0.60M)
   HAM: 100% (Δ-0.24M)
-  LEC: 99% (Δ-0.24M)
-  GAS: 99% (Δ-0.55M)
+  LEC: 99% (Δ-0.23M)
+  GAS: 98% (Δ-0.55M)
   NOR: 98% (Δ-0.19M)
 
-🧩 Optimal team: BOR, HUL, BOT, LIN, HAD + Mercedes, Ferrari (169.8 pts, $99.9M)
+🧩 Optimal team: BOR, HUL, BOT, LIN, HAD + Mercedes, Ferrari (168.8 pts, $99.9M)
