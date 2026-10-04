@@ -92,18 +92,19 @@
       "attributed_round": 15
     },
     {
-      "source": "https://www.autosport.com/rss/f1/news/",
-      "title": "Verstappen reveals why Red Bull's engine problem in Baku was different than it seemed",
-      "summary": "After setting the fastest time in final practice and feeling good about the upgrades, Verstappen hoped to pull off a surprise in Baku, but an engine problem threw a spanner in the works.<br />Initially, it appeared to be related to deployment issues and therefore problems on the electrical side of the power unit, but speaking to the (very small) group of Dutch media in the Baku paddock, Verstappen ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/max-verstappen-reveals-why-red-bulls-engine-problem-in-baku-was-different-than-it-seemed/10858986/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
-      "link": "https://www.autosport.com/f1/news/max-verstappen-reveals-why-red-bulls-engine-problem-in-baku-was-different-than-it-seemed/10858986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-09-25T15:38:42Z",
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Five quick takeaways from Bahrain GP in Malaysia",
+      "summary": "Verstappen and Red Bull avoid first winless year since 2015<br />During the Dutch media session in Baku, Max Verstappen said Red Bull had \u201cdone a great job messing up\u201d its best chance to win a race in 2026. A day later, however, he already came extremely close, and a week on they have finally done it.<br />Red Bull\u2019s progress with its final upgrade package of the year has not been limited to the ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/five-quick-takeaways-from-bahrain-gp-in-malaysia/10861841/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-bahrain-gp-in-malaysia/10861841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-04T10:24:50Z",
       "matched_keywords": [
-        "upgrade"
+        "upgrade",
+        "upgrade package"
       ],
       "constructors": [
         "Red Bull"
       ],
-      "attributed_round": 15
+      "attributed_round": 16
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
@@ -145,36 +146,6 @@
         "upgrade package"
       ],
       "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 16
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "F1 Bahrain GP in Malaysia: Kimi Antonelli recovers from tough Friday to top FP3",
-      "summary": "Kimi Antonelli topped final practice at the Bahrain Grand Prix in Malaysia to recover from a disappointing Friday for the championship-leading Mercedes outfit.<br />The Silver Arrows brought a heavily upgraded W17 to Sepang, but only managed second and fifth in FP1 and seventh and eighth in FP2 with other teams looking stronger.<br />But the dominant outfit of 2026 responded perfectly on Saturday ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/f1-bahrain-gp-in-malaysia-fp3-report/10861273/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/f1-bahrain-gp-in-malaysia-fp3-report/10861273/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-03T05:40:06Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 16
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Mercedes finally brings big upgrade and F1 fans are asking if it's game over",
-      "summary": "Mercedes went five months without touching the W17 and still built a 160-point lead over Ferrari in the constructors' championship. Six wins in ten races will do that. So when the team finally rolled out a serious upgrade package at Sepang for the Bahrain Grand Prix, the question isn't about whether it will be fast, it's how fast.<br />This upgrade package is the first serious change Mercedes has ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mercedes-finally-brings-big-upgrade-and-f1-fans-are-asking-if-its-game-over/10860843/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/mercedes-finally-brings-big-upgrade-and-f1-fans-are-asking-if-its-game-over/10860843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-02T06:10:52Z",
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package"
-      ],
-      "constructors": [
-        "Ferrari",
         "Mercedes"
       ],
       "attributed_round": 16
