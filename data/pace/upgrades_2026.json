@@ -2,6 +2,20 @@
   "season": 2026,
   "mentions": [
     {
+      "source": "https://www.formula1.com/en/latest/all.xml",
+      "title": "How Red Bull cured weaknesses to give Verstappen his first 2026 victory",
+      "summary": "Michael Lamonato assesses how Red Bull's upgraded RB22, unveiled in Baku, secured the team their first win of the season with Max Verstappen behind the wheel.",
+      "link": "https://www.formula1.com/en/latest/article/how-red-bull-cured-weaknesses-to-give-verstappen-his-first-2026-victory.3IImAHC95xmYoRr8QDgQvy",
+      "published_at": null,
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Red Bull"
+      ],
+      "attributed_round": null
+    },
+    {
       "source": "https://www.autosport.com/rss/f1/news/",
       "title": "Why Mercedes' upgrade is still a \"big question mark\"",
       "summary": "The Mercedes team has taken a big swing by introducing a substantial aerodynamic update package at a circuit Formula 1 hasn't visited since 2017. Has it missed?<br />Probably not \u2013 but, because the upgrade is a major one, Mercedes has committed to it on both cars so it has been unable to run back-to-back comparisons between old and new in identical conditions. This has added to the challenges of ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/why-mercedes-upgrade-is-still-a-big-question-mark/10861516/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
@@ -77,19 +91,19 @@
       "attributed_round": 15
     },
     {
-      "source": "https://www.autosport.com/rss/f1/news/",
-      "title": "Why McLaren was so much slower than Mercedes on Baku's straights",
-      "summary": "For all the talk of rivals catching Mercedes, which has held fire on its more significant upgrades until next weekend's Formula 1 Bahrain Grand Prix in Malaysia, the Brackley team has been able to weather the storm by excelling on some of the most power sensitive circuits like Monza and Baku, vindicating its patience.\u00a0<br />But while Mercedes' dominant power unit package helps explain its gap to ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/why-mclaren-was-so-much-slower-than-mercedes-on-bakus-straights/10859723/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
-      "link": "https://www.autosport.com/f1/news/why-mclaren-was-so-much-slower-than-mercedes-on-bakus-straights/10859723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-09-28T08:34:17Z",
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Can Red Bull now fight for wins everywhere? \"It's difficult to be on par with Mercedes consistently\"",
+      "summary": "Laurent\u00a0Mekies says Red Bull Racing's first win of 2026 in Formula 1 is the culmination of the squad's gradual upturn in form, but felt it's too early to tell if it can now be in the mix everywhere.<br />From being over a second behind the frontrunners at the start of the campaign, Red Bull has gradually chipped away at its deficit with a relentless stream of upgrades. Its last such package of the ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/can-red-bull-now-fight-for-wins-everywhere-its-difficult-to-be-on-par-with-mercedes-consistently/10862272/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/can-red-bull-now-fight-for-wins-everywhere-its-difficult-to-be-on-par-with-mercedes-consistently/10862272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-05T14:54:10Z",
       "matched_keywords": [
         "upgrade"
       ],
       "constructors": [
-        "McLaren",
+        "Red Bull",
         "Mercedes"
       ],
-      "attributed_round": 15
+      "attributed_round": 16
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
@@ -107,57 +121,14 @@
       "attributed_round": 16
     },
     {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Why Mercedes' Bahrain GP upgrade is still a \"big question mark\"",
-      "summary": "The Mercedes team has taken a big swing by introducing a substantial aerodynamic update package at a circuit Formula 1 hasn't visited since 2017. Has it missed?<br />Probably not \u2013 but, because the upgrade is a major one, Mercedes has committed to it on both cars so it has been unable to run back-to-back comparisons between old and new in identical conditions. This has added to the challenges of ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/why-mercedes-bahrain-gp-upgrade-is-still-a-big-question-mark/10861508/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/why-mercedes-bahrain-gp-upgrade-is-still-a-big-question-mark/10861508/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-03T11:21:58Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 16
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Kimi Antonelli eyes aggressive undercut attack in F1 Malaysia",
-      "summary": "Kimi Antonelli will start third on the Bahrain Grand Prix grid thanks to Isack Hadjar's five-place grid penalty, but after Mercedes introduced a seven-piece upgrade package at Sepang, the driver's expectations were much higher before he started driving. He now places his hopes on using\u00a0the powerful\u00a0undercut this circuit may have to offer.<br />Antonelli looked like the man to beat after what ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/kimi-antonelli-eyes-aggressive-undercut-attack-in-f1-malaysia/10861499/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-eyes-aggressive-undercut-attack-in-f1-malaysia/10861499/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-03T11:03:29Z",
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 16
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Toto Wolff: \"Something else is going on\" after Bahrain qualifying troubles",
-      "summary": "Mercedes brought a substantial upgrade package to Sepang for the 2026 Bahrain Grand Prix, and pace was supposed to be strong for the Silver Arrows. Kimi Antonelli teased something special after he topped FP3, but qualifying proved to be difficult. Toto Wolff believes there is \"something else is going on\" that is hindering his team's pace.<br />Championship leader Antonelli\u00a0qualified on the second ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/toto-wolff-something-else-is-going-on-after-bahrain-qualifying-troubles/10861419/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/toto-wolff-something-else-is-going-on-after-bahrain-qualifying-troubles/10861419/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-03T09:58:28Z",
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 16
-    },
-    {
       "source": "https://www.racefans.net/feed/",
-      "title": "Mercedes expected to gain three-tenths from upgrade but lost five \u2013 Wolff | Formula 1",
-      "summary": "Mercedes team principal Toto Wolff says their car is too draggy and weak in low-speed corners following the changes they made in Malaysia.",
-      "link": "https://www.racefans.net/2026/10/03/mercedes-expected-to-gain-three-tenths-from-upgrade-but-lost-five-wolff/",
-      "published_at": "2026-10-03T09:38:20Z",
+      "title": "Mercedes \u2018don\u2019t know if upgrade made us faster or slower\u2019 \u2013 Antonelli | Formula 1",
+      "summary": "The long-awaited upgrade package Mercedes introduced last weekend may have made them less competitive, Andrea Kimi Antonelli has admitted.",
+      "link": "https://www.racefans.net/2026/10/05/mercedes-dont-know-if-upgrade-made-us-faster-or-slower-antonelli/",
+      "published_at": "2026-10-05T06:15:58Z",
       "matched_keywords": [
-        "upgrade"
+        "upgrade",
+        "upgrade package"
       ],
       "constructors": [
         "Mercedes"
@@ -165,5 +136,27 @@
       "attributed_round": 16
     }
   ],
-  "effects": []
+  "effects": [
+    {
+      "constructor": "Williams",
+      "upgrade_round": 15,
+      "before_rounds": [
+        14,
+        13,
+        12
+      ],
+      "after_rounds": [
+        16
+      ],
+      "constructor_before_mean": 3.1662392507993173,
+      "constructor_after_mean": 3.083674971092192,
+      "field_before_mean": 1.7942451789578118,
+      "field_after_mean": 1.9060997868944922,
+      "constructor_delta": -0.08256427970712554,
+      "field_delta": 0.11185460793668045,
+      "relative_delta": -0.194418887643806,
+      "n_before": 3,
+      "n_after": 1
+    }
+  ]
 }

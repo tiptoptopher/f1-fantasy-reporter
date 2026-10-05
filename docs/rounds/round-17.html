@@ -1,6 +1,6 @@
 <meta charset="utf-8">
-<title>Ciao Squadra 2026 — 2026</title>
-<meta name="description" content="Race-by-race fantasy analysis and results for the 2026 season.">
+<title>Singapore Grand Prix — Round 17</title>
+<meta name="description" content="Pre-race analysis and post-race results for the 2026 Singapore Grand Prix.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -169,16 +169,133 @@ footer.site-footer { font-size: 11px; color: var(--ink-muted); line-height: 1.6;
 </style>
 
 <div class="page">
+  <a class="nav-back" href="../index.html">&larr; All rounds</a>
   <header class="site-header">
-    <div class="eyebrow">2026 Season</div>
-    <h1>Ciao Squadra 2026</h1>
-    <div class="subtitle">Every race weekend this project has captured: pre-race analysis, post-race results, and how the expected-points model compared to what actually happened.</div>
+    <div class="eyebrow">Round 17 &middot; 2026</div>
+    <h1>Singapore Grand Prix</h1>
+    <div class="subtitle">Marina Bay Street Circuit</div>
   </header>
-  <div class="round-grid">
-    <a class="round-card" href="rounds/round-17.html"><span class="round-num">Round 17</span><span class="round-name">Singapore Grand Prix</span><span class="round-circuit">Marina Bay Street Circuit</span><span class="status-pill upcoming">Upcoming</span></a><a class="round-card" href="rounds/round-16.html"><span class="round-num">Round 16</span><span class="round-name">Bahrain Grand Prix in Malaysia</span><span class="round-circuit">Sepang International Circuit</span><span class="status-pill completed">Race weekend complete</span></a><a class="round-card" href="rounds/round-15.html"><span class="round-num">Round 15</span><span class="round-name">Azerbaijan Grand Prix</span><span class="round-circuit">Baku City Circuit</span><span class="status-pill completed">Race weekend complete</span></a><a class="round-card" href="rounds/round-14.html"><span class="round-num">Round 14</span><span class="round-name">Spanish Grand Prix</span><span class="round-circuit">Madring</span><span class="status-pill completed">Race weekend complete</span></a><a class="round-card" href="rounds/round-13.html"><span class="round-num">Round 13</span><span class="round-name">Italian Grand Prix</span><span class="round-circuit">Autodromo Nazionale di Monza</span><span class="status-pill completed">Race weekend complete</span></a><a class="round-card" href="rounds/round-12.html"><span class="round-num">Round 12</span><span class="round-name">Dutch Grand Prix</span><span class="round-circuit">Circuit Park Zandvoort</span><span class="status-pill completed">Race weekend complete</span></a>
-  </div>
-  <footer class="site-footer">Generated from this repository's own committed snapshots and cards -- see <a href="https://github.com/tiptoptopher/f1-fantasy-reporter">the source</a> for how.</footer>
+  <div class="section-title">Pre-race</div><div class="card-grid"><div class="card" data-lightbox-title="Picks"><div class="card-title">Picks</div><img src="../assets/2026/17/picks.png" alt="Picks" loading="lazy"><div class="card-caption">🏁 <strong>Race picks</strong> -- Singapore Grand Prix<br>Marina Bay Street Circuit, Marina Bay<br><br>📊 Top expected points:<br>  RUS: 20.2 (p10 4.0 / p90 35.0)<br>  ANT: 18.7 (p10 3.0 / p90 33.0)<br>  HAM: 16.5 (p10 2.0 / p90 30.0)<br>  LEC: 16.2 (p10 2.0 / p90 30.0)<br>  VER: 14.8 (p10 0.0 / p90 28.0)<br><br>🏗️ Captain suggestion: RUS (EV 40.4)<br><br>📈 Likely price risers:<br>  LIN: 100% (Δ+0.60M)<br>  HUL: 100% (Δ+0.60M)<br>  VER: 100% (Δ+0.30M)<br>  ANT: 90% (Δ+0.10M)<br>  HAD: 84% (Δ+0.22M)<br><br>📉 Likely budget losers -- think twice before backing these:<br>  NOR: 100% (Δ-0.29M)<br>  GAS: 100% (Δ-0.60M)<br>  ALB: 100% (Δ-0.60M)<br>  HAM: 100% (Δ-0.26M)<br>  PIA: 100% (Δ-0.24M)<br><br>🧩 Optimal team: HUL, PER, BEA, LIN, HAD + Mercedes, Ferrari (140.8 pts, $99.3M)<br></div></div></div>
+  <footer class="site-footer">Ciao Squadra 2026 &middot; generated from this repository's committed cards and snapshots.</footer>
 </div>
+
+<div class="lb-overlay" id="lbOverlay">
+  <div class="lb-toolbar">
+    <button type="button" class="lb-copy" id="lbCopyBtn">Copy image</button>
+    <button type="button" id="lbCloseBtn">Close</button>
+  </div>
+  <div class="lb-body"><img id="lbImg" src="" alt=""></div>
+</div>
+<script>
+(function () {
+  var COPY_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>';
+  var lbOverlay = document.getElementById('lbOverlay');
+  var lbImg = document.getElementById('lbImg');
+  var lbCopyBtn = document.getElementById('lbCopyBtn');
+  var lbCloseBtn = document.getElementById('lbCloseBtn');
+  var currentSrc = '';
+
+  function openLightbox(src, title) {
+    currentSrc = src;
+    lbImg.src = src;
+    lbImg.alt = title || '';
+    lbOverlay.classList.add('open');
+  }
+  function closeLightbox() {
+    lbOverlay.classList.remove('open');
+    lbImg.src = '';
+  }
+  lbCloseBtn.addEventListener('click', closeLightbox);
+  lbOverlay.addEventListener('click', function (e) { if (e.target === lbOverlay) closeLightbox(); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeLightbox(); });
+
+  function showToast(cardEl, message) {
+    var toast = cardEl.querySelector('.card-toast');
+    if (!toast) return;
+    toast.textContent = message;
+    toast.classList.add('show');
+    setTimeout(function () { toast.classList.remove('show'); }, 1800);
+  }
+
+  function copyImage(src, cardEl) {
+    if (!navigator.clipboard || typeof ClipboardItem === 'undefined') {
+      window.open(src, '_blank', 'noopener');
+      showToast(cardEl, 'Opened image \u2014 long-press to save');
+      return;
+    }
+    var item = new ClipboardItem({
+      'image/png': fetch(src).then(function (r) { return r.blob(); })
+    });
+    navigator.clipboard.write([item]).then(function () {
+      showToast(cardEl, 'Copied!');
+    }).catch(function () {
+      window.open(src, '_blank', 'noopener');
+      showToast(cardEl, 'Copy failed \u2014 opened image instead');
+    });
+  }
+
+  lbCopyBtn.addEventListener('click', function () {
+    if (!currentSrc) return;
+    var item = new ClipboardItem({
+      'image/png': fetch(currentSrc).then(function (r) { return r.blob(); })
+    });
+    if (!navigator.clipboard || typeof ClipboardItem === 'undefined') {
+      window.open(currentSrc, '_blank', 'noopener');
+      return;
+    }
+    navigator.clipboard.write([item]).then(function () {
+      lbCopyBtn.textContent = 'Copied!';
+      setTimeout(function () { lbCopyBtn.textContent = 'Copy image'; }, 1500);
+    }).catch(function () {
+      window.open(currentSrc, '_blank', 'noopener');
+    });
+  });
+
+  document.querySelectorAll('.card img').forEach(function (img) {
+    var card = img.closest('.card');
+    if (!card) return;
+
+    var toast = document.createElement('div');
+    toast.className = 'card-toast';
+    card.appendChild(toast);
+
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'card-copy-btn';
+    btn.setAttribute('aria-label', 'Copy image');
+    btn.innerHTML = COPY_ICON;
+    btn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      copyImage(img.src, card);
+    });
+    card.appendChild(btn);
+
+    img.addEventListener('click', function () {
+      openLightbox(img.src, card.getAttribute('data-lightbox-title') || img.alt);
+    });
+  });
+})();
+</script>
+
+
+<script>
+(function () {
+  document.querySelectorAll('.league-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var id = btn.getAttribute('data-league-tab');
+      document.querySelectorAll('.league-tab').forEach(function (b) {
+        var active = b === btn;
+        b.classList.toggle('active', active);
+        b.setAttribute('aria-selected', active ? 'true' : 'false');
+      });
+      document.querySelectorAll('.league-group').forEach(function (g) {
+        g.classList.toggle('active', g.getAttribute('data-league-group') === id);
+      });
+    });
+  });
+})();
+</script>
+
 
 <button type="button" class="fb-btn" id="fbOpenBtn" aria-haspopup="dialog">
   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 9V7a3 3 0 0 1 6 0v2"/><rect x="5" y="9" width="14" height="11" rx="4"/><path d="M2 13h3M19 13h3M9 3l1.5 2M15 3l-1.5 2M9 20v-4M15 20v-4"/></svg>

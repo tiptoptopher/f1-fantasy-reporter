@@ -1,0 +1,27 @@
+🏁 *Race picks* -- Singapore Grand Prix
+Marina Bay Street Circuit, Marina Bay
+
+📊 Top expected points:
+  RUS: 20.2 (p10 4.0 / p90 35.0)
+  ANT: 18.7 (p10 3.0 / p90 33.0)
+  HAM: 16.5 (p10 2.0 / p90 30.0)
+  LEC: 16.2 (p10 2.0 / p90 30.0)
+  VER: 14.8 (p10 0.0 / p90 28.0)
+
+🏗️ Captain suggestion: RUS (EV 40.4)
+
+📈 Likely price risers:
+  LIN: 100% (Δ+0.60M)
+  HUL: 100% (Δ+0.60M)
+  VER: 100% (Δ+0.30M)
+  ANT: 90% (Δ+0.10M)
+  HAD: 84% (Δ+0.22M)
+
+📉 Likely budget losers -- think twice before backing these:
+  NOR: 100% (Δ-0.29M)
+  GAS: 100% (Δ-0.60M)
+  ALB: 100% (Δ-0.60M)
+  HAM: 100% (Δ-0.26M)
+  PIA: 100% (Δ-0.24M)
+
+🧩 Optimal team: HUL, PER, BEA, LIN, HAD + Mercedes, Ferrari (140.8 pts, $99.3M)
