@@ -3,17 +3,33 @@
   "mentions": [
     {
       "source": "https://www.formula1.com/en/latest/all.xml",
-      "title": "How Red Bull cured weaknesses to give Verstappen his first 2026 victory",
-      "summary": "Michael Lamonato assesses how Red Bull's upgraded RB22, unveiled in Baku, secured the team their first win of the season with Max Verstappen behind the wheel.",
-      "link": "https://www.formula1.com/en/latest/article/how-red-bull-cured-weaknesses-to-give-verstappen-his-first-2026-victory.3IImAHC95xmYoRr8QDgQvy",
+      "title": "Why didn't Mercedes' upgrades provide a boost in Malaysia?",
+      "summary": "Mark Hughes and Giorgio Piola delve into the upgrade package Mercedes introduced at the Bahrain Grand Prix in Malaysia.",
+      "link": "https://www.formula1.com/en/latest/article/why-didnt-mercedes-upgrades-provide-the-boost-they-needed-in-malaysia.318cgHrdJJMfqbDdznI2PP",
       "published_at": null,
       "matched_keywords": [
-        "upgrade"
+        "upgrade",
+        "upgrade package"
       ],
       "constructors": [
-        "Red Bull"
+        "Mercedes"
       ],
       "attributed_round": null
+    },
+    {
+      "source": "https://www.autosport.com/rss/f1/news/",
+      "title": "What caused Mercedes' pace deficit at Sepang despite upgraded W17?",
+      "summary": "Mercedes' performance at Formula 1's Bahrain Grand Prix in Malaysia will require further investigation as the conditions around the Sepang circuit made it difficult for the team to get a read on its latest update package.<br />The team introduced a revised floor and sidepod package for F1's first visit to Sepang in nine years, but it became apparent that the team was struggling to unlock its usual ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862473/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
+      "link": "https://www.autosport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-10-06T09:54:48Z",
+      "matched_keywords": [
+        "upgrade",
+        "sidepod"
+      ],
+      "constructors": [
+        "Mercedes"
+      ],
+      "attributed_round": 16
     },
     {
       "source": "https://www.autosport.com/rss/f1/news/",
@@ -92,6 +108,34 @@
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "The mechanisms at play behind Mercedes' difficult Bahrain GP weekend",
+      "summary": "Mercedes' performance at Formula 1's Bahrain Grand Prix in Malaysia will require further investigation as the conditions around the Sepang circuit made it difficult for the team to get a read on its latest update package.<br />The team introduced a revised floor and sidepod package for F1's first visit to Sepang in nine years, but it became apparent that the team was struggling to unlock its usual ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862469/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-06T09:54:49Z",
+      "matched_keywords": [
+        "sidepod"
+      ],
+      "constructors": [
+        "Mercedes"
+      ],
+      "attributed_round": 16
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "What was \"weird\" about McLaren's poor performance at rough Sepang",
+      "summary": "The\u00a0McLaren Formula 1 team is digging for reasons why it suffered such a disappointing weekend at\u00a0Sepang, on a circuit that should have suited the MCL40.<br />On the back of a more difficult weekend on the streets of Baku despite the latest round of car upgrades,\u00a0McLaren went to the second part of the triple-header with confidence the higher downforce demands in Malaysia should play to its ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/what-was-weird-about-mclarens-poor-performance-at-rough-sepang/10862418/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/what-was-weird-about-mclarens-poor-performance-at-rough-sepang/10862418/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-06T07:20:58Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "McLaren"
+      ],
+      "attributed_round": 16
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
       "title": "Can Red Bull now fight for wins everywhere? \"It's difficult to be on par with Mercedes consistently\"",
       "summary": "Laurent\u00a0Mekies says Red Bull Racing's first win of 2026 in Formula 1 is the culmination of the squad's gradual upturn in form, but felt it's too early to tell if it can now be in the mix everywhere.<br />From being over a second behind the frontrunners at the start of the campaign, Red Bull has gradually chipped away at its deficit with a relentless stream of upgrades. Its last such package of the ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/can-red-bull-now-fight-for-wins-everywhere-its-difficult-to-be-on-par-with-mercedes-consistently/10862272/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
       "link": "https://www.motorsport.com/f1/news/can-red-bull-now-fight-for-wins-everywhere-its-difficult-to-be-on-par-with-mercedes-consistently/10862272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -102,21 +146,6 @@
       "constructors": [
         "Red Bull",
         "Mercedes"
-      ],
-      "attributed_round": 16
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Five quick takeaways from Bahrain GP in Malaysia",
-      "summary": "Verstappen and Red Bull avoid first winless year since 2015<br />During the Dutch media session in Baku, Max Verstappen said Red Bull had \u201cdone a great job messing up\u201d its best chance to win a race in 2026. A day later, however, he already came extremely close, and a week on they have finally done it.<br />Red Bull\u2019s progress with its final upgrade package of the year has not been limited to the ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/five-quick-takeaways-from-bahrain-gp-in-malaysia/10861841/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-bahrain-gp-in-malaysia/10861841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-04T10:24:50Z",
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package"
-      ],
-      "constructors": [
-        "Red Bull"
       ],
       "attributed_round": 16
     },

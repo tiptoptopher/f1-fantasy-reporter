@@ -1,24 +1,24 @@
 F1 Fantasy daily digest -- 2026 round 17
-Generated 2026-10-05 16:00 UTC
+Generated 2026-10-06 14:12 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 17 (FP1 R17 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 UPGRADE PACKAGES:
-  - How Red Bull cured weaknesses to give Verstappen his first 2026 victory [Red Bull] -- https://www.formula1.com/en/latest/all.xml
+  - Why didn't Mercedes' upgrades provide a boost in Malaysia? [Mercedes] -- https://www.formula1.com/en/latest/all.xml
+  - What caused Mercedes' pace deficit at Sepang despite upgraded W17? [Mercedes] (06 Oct) -- https://www.autosport.com/rss/f1/news/
   - Why Mercedes' upgrade is still a "big question mark" [Mercedes] (03 Oct) -- https://www.autosport.com/rss/f1/news/
   - F1 Bahrain GP in Malaysia: Antonelli recovers from tough Friday to top FP3 [Mercedes] (03 Oct) -- https://www.autosport.com/rss/f1/news/
   - Mercedes introduces new floor, sidepods for F1 Bahrain GP [McLaren, Ferrari, Red Bull, Mercedes] (02 Oct) -- https://www.autosport.com/rss/f1/news/
   - Why Honda secretly introduced its second F1 ADUO upgrade in Madrid [Aston Martin] (01 Oct) -- https://www.autosport.com/rss/f1/news/
   - Azerbaijan GP was a step forward for upgraded Williams - but real test is still to come [Williams] (29 Sep) -- https://www.autosport.com/rss/f1/news/
-  - Can Red Bull now fight for wins everywhere? "It's difficult to be on par with Mercedes consistently" [Red Bull, Mercedes] (05 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Five quick takeaways from Bahrain GP in Malaysia [Red Bull] (04 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - The mechanisms at play behind Mercedes' difficult Bahrain GP weekend [Mercedes] (06 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
+  - Audi unpick eventful weekend amid penalty and last-lap drama [Audi] -- https://www.formula1.com/en/latest/all.xml
+  - What caused Mercedes' pace deficit at Sepang despite upgraded W17? [Mercedes] (06 Oct) -- https://www.autosport.com/rss/f1/news/
   - The dire consequence of Russell's Bahrain GP in Malaysia retirement [Mercedes] (05 Oct) -- https://www.autosport.com/rss/f1/news/
   - Russell: “You’ve got to laugh” at bad luck as F1 title drifts away [Mercedes] (04 Oct) -- https://www.autosport.com/rss/f1/news/
   - F1 Bahrain GP in Malaysia descends into chaos as car trouble prompts red flag (04 Oct) -- https://www.autosport.com/rss/f1/news/
   - McLaren explains recurring Norris straightline speed issue after Bahrain GP qualifying [McLaren, Mercedes] (03 Oct) -- https://www.autosport.com/rss/f1/news/
   - F1 Bahrain GP in Malaysia: Antonelli recovers from tough Friday to top FP3 [Mercedes] (03 Oct) -- https://www.autosport.com/rss/f1/news/
   - Why Verstappen’s unusual run plan highlights F1 teams’ biggest challenge in Malaysia [Mercedes] (02 Oct) -- https://www.autosport.com/rss/f1/news/
-  - F1 Bahrain GP in Malaysia: Leclerc tops FP2 with Mercedes seventh and eighth [Ferrari, Mercedes] (02 Oct) -- https://www.autosport.com/rss/f1/news/
-  - F1 Bahrain GP in Malaysia: Verstappen pips Russell to top FP1 [Red Bull, Mercedes] (02 Oct) -- https://www.autosport.com/rss/f1/news/
