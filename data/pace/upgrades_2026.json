@@ -2,21 +2,6 @@
   "season": 2026,
   "mentions": [
     {
-      "source": "https://www.formula1.com/en/latest/all.xml",
-      "title": "Why didn't Mercedes' upgrades provide a boost in Malaysia?",
-      "summary": "Mark Hughes and Giorgio Piola delve into the upgrade package Mercedes introduced at the Bahrain Grand Prix in Malaysia.",
-      "link": "https://www.formula1.com/en/latest/article/why-didnt-mercedes-upgrades-provide-the-boost-they-needed-in-malaysia.318cgHrdJJMfqbDdznI2PP",
-      "published_at": null,
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": null
-    },
-    {
       "source": "https://www.autosport.com/rss/f1/news/",
       "title": "What caused Mercedes' pace deficit at Sepang despite upgraded W17?",
       "summary": "Mercedes' performance at Formula 1's Bahrain Grand Prix in Malaysia will require further investigation as the conditions around the Sepang circuit made it difficult for the team to get a read on its latest update package.<br />The team introduced a revised floor and sidepod package for F1's first visit to Sepang in nine years, but it became apparent that the team was struggling to unlock its usual ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862473/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
@@ -93,18 +78,32 @@
       "attributed_round": 16
     },
     {
-      "source": "https://www.autosport.com/rss/f1/news/",
-      "title": "Azerbaijan GP was a step forward for upgraded Williams - but real test is still to come",
-      "summary": "If there is a definition of a mixed bag, that's what the Baku weekend was to Williams. It progressed to Q3 for the first time in 2026, but didn't start there due to a grid penalty for Carlos Sainz. It scored points for the first time since Monaco, with some fortune, but also saw Alex Albon crash out.<br />Azerbaijan was a key weekend circled in red on Williams' calendar as it finally upgraded an ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/azerbaijan-gp-step-forward-for-wiliams-real-test-still-to-come/10860001/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
-      "link": "https://www.autosport.com/f1/news/azerbaijan-gp-step-forward-for-wiliams-real-test-still-to-come/10860001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-09-29T10:26:30Z",
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Mercedes defends its decision to reject crucial FIA driver aid",
+      "summary": "With the extreme heat and humidity of the Southeast Asian double-header taking a brutal physical toll on the 2026 grid, driver cooling systems have become a massive talking point. While the FIA specifically created a financial allowance for teams to develop liquid-cooled driver vests to prevent heat exhaustion, Mercedes shocked the paddock by confirming they opted out of the program ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mercedes-defends-its-controversial-decision-to-reject-a-crucial-fia-driver-upgrade/10862732/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/mercedes-defends-its-controversial-decision-to-reject-a-crucial-fia-driver-upgrade/10862732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-07T13:04:35Z",
       "matched_keywords": [
         "upgrade"
       ],
       "constructors": [
-        "Williams"
+        "Mercedes"
       ],
-      "attributed_round": 15
+      "attributed_round": 16
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Red Bull is overcoming ADUO restrictions but still calls on tweaks for F1 2027",
+      "summary": "Red Bull is working with the FIA on how to tweak Formula 1\u2019s Additional Development and Upgrades Opportunities system after its contentious findings, says team boss Laurent Mekies.<br />ADUO is new for 2026 and measures the V6 engine performance of all power units at the end of each quarter, handing at least one upgrade token to manufacturers lagging behind.<br />But it was initially assumed that ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/red-bull-is-overcoming-aduo-restrictions-but-still-calls-on-tweaks-for-f1-2027/10862326/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/red-bull-is-overcoming-aduo-restrictions-but-still-calls-on-tweaks-for-f1-2027/10862326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-06T15:51:13Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Red Bull"
+      ],
+      "attributed_round": 16
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
@@ -165,27 +164,5 @@
       "attributed_round": 16
     }
   ],
-  "effects": [
-    {
-      "constructor": "Williams",
-      "upgrade_round": 15,
-      "before_rounds": [
-        14,
-        13,
-        12
-      ],
-      "after_rounds": [
-        16
-      ],
-      "constructor_before_mean": 3.1662392507993173,
-      "constructor_after_mean": 3.083674971092192,
-      "field_before_mean": 1.7942451789578118,
-      "field_after_mean": 1.9060997868944922,
-      "constructor_delta": -0.08256427970712554,
-      "field_delta": 0.11185460793668045,
-      "relative_delta": -0.194418887643806,
-      "n_before": 3,
-      "n_after": 1
-    }
-  ]
+  "effects": []
 }
