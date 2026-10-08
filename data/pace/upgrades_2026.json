@@ -2,6 +2,21 @@
   "season": 2026,
   "mentions": [
     {
+      "source": "https://www.formula1.com/en/latest/all.xml",
+      "title": "Mercedes will 'find an answer' to unlocking upgrades \u2013 Antonelli",
+      "summary": "Mercedes are targeting a return to victory at the Singapore Grand Prix as they continue to extract performance from their latest upgrade package.",
+      "link": "https://www.formula1.com/en/latest/article/antonelli-explains-how-mercedes-will-find-an-answer-to-unlocking-upgrades-in-singapore.6wh8R3l6YtmHaT4J5M6W8T",
+      "published_at": null,
+      "matched_keywords": [
+        "upgrade",
+        "upgrade package"
+      ],
+      "constructors": [
+        "Mercedes"
+      ],
+      "attributed_round": null
+    },
+    {
       "source": "https://www.autosport.com/rss/f1/news/",
       "title": "What caused Mercedes' pace deficit at Sepang despite upgraded W17?",
       "summary": "Mercedes' performance at Formula 1's Bahrain Grand Prix in Malaysia will require further investigation as the conditions around the Sepang circuit made it difficult for the team to get a read on its latest update package.<br />The team introduced a revised floor and sidepod package for F1's first visit to Sepang in nine years, but it became apparent that the team was struggling to unlock its usual ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862473/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
@@ -79,6 +94,35 @@
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "George Russell: \"No-brainer\" to run previous car as Mercedes splits specifications for Singapore",
+      "summary": "Mercedes will run its W17 Formula 1 car in split specifications for the Singapore Grand Prix, with Kimi Antonelli primed to run its Sepang updates once more as George Russell switches back to the car he had in Baku.<br />The team introduced a new floor and bodywork package for the Bahrain Grand Prix in Malaysia, featuring revised floor boards behind the front wheels plus a ramped upper sidepod ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/russell-no-brainer-to-run-previous-car-as-mercedes-splits-specifications-for-singapore/10863042/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/russell-no-brainer-to-run-previous-car-as-mercedes-splits-specifications-for-singapore/10863042/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-08T12:36:39Z",
+      "matched_keywords": [
+        "new floor",
+        "sidepod"
+      ],
+      "constructors": [
+        "Mercedes"
+      ],
+      "attributed_round": 17
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Apple TV announces major F1 broadcast upgrade for United States Grand Prix",
+      "summary": "Formula 1 is about to become a little bit louder in the best way. Dolby Laboratories and Apple have announced that, from the United States Grand Prix race weekend that stars on the 23 October, Apple TV subscribers will have access to Dolby Atmos as well as Dolby Vision in their F1 coverage.<br />Both audio formats will be available to viewers who have compatible Apple devices as well as ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/apple-tv-announces-major-f1-broadcast-upgrade-for-united-states-grand-prix/10862810/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/apple-tv-announces-major-f1-broadcast-upgrade-for-united-states-grand-prix/10862810/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-07T23:38:45Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Audi"
+      ],
+      "attributed_round": 17
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
       "title": "Mercedes defends its decision to reject crucial FIA driver aid",
       "summary": "With the extreme heat and humidity of the Southeast Asian double-header taking a brutal physical toll on the 2026 grid, driver cooling systems have become a massive talking point. While the FIA specifically created a financial allowance for teams to develop liquid-cooled driver vests to prevent heat exhaustion, Mercedes shocked the paddock by confirming they opted out of the program ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mercedes-defends-its-controversial-decision-to-reject-a-crucial-fia-driver-upgrade/10862732/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
       "link": "https://www.motorsport.com/f1/news/mercedes-defends-its-controversial-decision-to-reject-a-crucial-fia-driver-upgrade/10862732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -102,49 +146,6 @@
       ],
       "constructors": [
         "Red Bull"
-      ],
-      "attributed_round": 16
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "The mechanisms at play behind Mercedes' difficult Bahrain GP weekend",
-      "summary": "Mercedes' performance at Formula 1's Bahrain Grand Prix in Malaysia will require further investigation as the conditions around the Sepang circuit made it difficult for the team to get a read on its latest update package.<br />The team introduced a revised floor and sidepod package for F1's first visit to Sepang in nine years, but it became apparent that the team was struggling to unlock its usual ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862469/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-06T09:54:49Z",
-      "matched_keywords": [
-        "sidepod"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 16
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "What was \"weird\" about McLaren's poor performance at rough Sepang",
-      "summary": "The\u00a0McLaren Formula 1 team is digging for reasons why it suffered such a disappointing weekend at\u00a0Sepang, on a circuit that should have suited the MCL40.<br />On the back of a more difficult weekend on the streets of Baku despite the latest round of car upgrades,\u00a0McLaren went to the second part of the triple-header with confidence the higher downforce demands in Malaysia should play to its ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/what-was-weird-about-mclarens-poor-performance-at-rough-sepang/10862418/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/what-was-weird-about-mclarens-poor-performance-at-rough-sepang/10862418/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-06T07:20:58Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "McLaren"
-      ],
-      "attributed_round": 16
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Can Red Bull now fight for wins everywhere? \"It's difficult to be on par with Mercedes consistently\"",
-      "summary": "Laurent\u00a0Mekies says Red Bull Racing's first win of 2026 in Formula 1 is the culmination of the squad's gradual upturn in form, but felt it's too early to tell if it can now be in the mix everywhere.<br />From being over a second behind the frontrunners at the start of the campaign, Red Bull has gradually chipped away at its deficit with a relentless stream of upgrades. Its last such package of the ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/can-red-bull-now-fight-for-wins-everywhere-its-difficult-to-be-on-par-with-mercedes-consistently/10862272/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/can-red-bull-now-fight-for-wins-everywhere-its-difficult-to-be-on-par-with-mercedes-consistently/10862272/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-05T14:54:10Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "Red Bull",
-        "Mercedes"
       ],
       "attributed_round": 16
     },
