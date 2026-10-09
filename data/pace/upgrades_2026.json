@@ -2,21 +2,6 @@
   "season": 2026,
   "mentions": [
     {
-      "source": "https://www.formula1.com/en/latest/all.xml",
-      "title": "Mercedes will 'find an answer' to unlocking upgrades \u2013 Antonelli",
-      "summary": "Mercedes are targeting a return to victory at the Singapore Grand Prix as they continue to extract performance from their latest upgrade package.",
-      "link": "https://www.formula1.com/en/latest/article/antonelli-explains-how-mercedes-will-find-an-answer-to-unlocking-upgrades-in-singapore.6wh8R3l6YtmHaT4J5M6W8T",
-      "published_at": null,
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": null
-    },
-    {
       "source": "https://www.autosport.com/rss/f1/news/",
       "title": "What caused Mercedes' pace deficit at Sepang despite upgraded W17?",
       "summary": "Mercedes' performance at Formula 1's Bahrain Grand Prix in Malaysia will require further investigation as the conditions around the Sepang circuit made it difficult for the team to get a read on its latest update package.<br />The team introduced a revised floor and sidepod package for F1's first visit to Sepang in nine years, but it became apparent that the team was struggling to unlock its usual ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862473/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
@@ -79,18 +64,67 @@
       "attributed_round": 16
     },
     {
-      "source": "https://www.autosport.com/rss/f1/news/",
-      "title": "Why Honda secretly introduced its second F1 ADUO upgrade in Madrid",
-      "summary": "Honda Racing Corporation president Koji Watanabe has revealed that Honda actually introduced its second ADUO (Additional Development and Upgrade Opportunities) upgrade as early as Formula 1\u2019s Spanish Grand Prix, with the upgrade focused on the power unit's turbocharger.<br />Aston Martin and Honda struggled from the start of the season, but their performance slightly improved after a major chassis ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/why-honda-secretly-introduced-its-second-f1-aduo-upgrade-in-madrid/10860367/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
-      "link": "https://www.autosport.com/f1/news/why-honda-secretly-introduced-its-second-f1-aduo-upgrade-in-madrid/10860367/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-10-01T03:56:47Z",
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "George Russell reveals the missing part that ruined Mercedes\u2019 massive F1 upgrade",
+      "summary": "When the Mercedes team arrived at the 2026 Bahrain Grand Prix in Malaysia, they expected their highly anticipated upgrade package to completely solidify their championship lead. Instead, the updates drastically underperformed, leaving team principal Toto Wolff scrambling to figure out why the real-world pace failed to match the factory wind tunnel data.<br />To solve the puzzle, Mercedes ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/george-russell-reveals-the-missing-part-that-ruined-mercedes-massive-f1-upgrade/10863268/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/george-russell-reveals-the-missing-part-that-ruined-mercedes-massive-f1-upgrade/10863268/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-09T11:57:57Z",
+      "matched_keywords": [
+        "upgrade",
+        "upgrade package"
+      ],
+      "constructors": [
+        "Mercedes"
+      ],
+      "attributed_round": 17
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "George Russell thinks the panic over Mercedes\u2019 failed F1 upgrades is completely wrong",
+      "summary": "When the Mercedes\u00a0announced they were actively splitting their aerodynamic packages for the Singapore Grand Prix, the paddock assumed it was a desperate, reactionary measure to salvage their championship lead. With Andrea Kimi Antonelli continuing to run the controversial new updates and George Russell reverting to an older specification, the move looked like a factory in total panic.<br />But ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/george-russell-thinks-the-panic-over-mercedes-failed-f1-upgrades-is-completely-wrong/10863302/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/george-russell-thinks-the-panic-over-mercedes-failed-f1-upgrades-is-completely-wrong/10863302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-09T11:40:05Z",
       "matched_keywords": [
         "upgrade"
       ],
       "constructors": [
-        "Aston Martin"
+        "Mercedes"
       ],
-      "attributed_round": 16
+      "attributed_round": 17
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Will Buxton raises alarm over Mercedes F1 upgrades ahead of Singapore GP",
+      "summary": "Formula 1 broadcaster Will Buxton has raised concerns over Mercedes' latest upgrade package, claiming team boss Toto Wolff suspects their major floor and sidepod changes may have cost them as much as half a second in lap time.<br />The Brackley outfit introduced major upgrades at the Bahrain Grand Prix in Malaysia. The upgrades, which resulted in modifications to almost every body surface, were ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/will-buxton-raises-alarm-over-mercedes-f1-upgrades-ahead-of-singapore-gp/10863178/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/will-buxton-raises-alarm-over-mercedes-f1-upgrades-ahead-of-singapore-gp/10863178/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-08T23:25:08Z",
+      "matched_keywords": [
+        "upgrade",
+        "upgrade package",
+        "sidepod",
+        "major upgrade"
+      ],
+      "constructors": [
+        "Mercedes"
+      ],
+      "attributed_round": 17
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Oscar Piastri: Red Bull has become \u201cthe class of the field\u201d in F1 2026",
+      "summary": "Oscar Piastri now views Red Bull as \u201cthe class of the field\u201d alongside Mercedes, as McLaren loses ground in Formula 1\u2019s 2026 pecking order.<br />Red Bull brought a significant upgrade to its RB22 at the Azerbaijan Grand Prix, with revamped sidepods, floor, mirrors, halo and diffuser.<br />This led to the team\u2019s best two results of the season so far, with Max Verstappen hounding George Russell ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/oscar-piastri-red-bull-has-become-the-class-of-the-field-in-f1-2026/10863147/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/oscar-piastri-red-bull-has-become-the-class-of-the-field-in-f1-2026/10863147/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-08T20:05:02Z",
+      "matched_keywords": [
+        "upgrade",
+        "sidepod"
+      ],
+      "constructors": [
+        "McLaren",
+        "Red Bull",
+        "Mercedes"
+      ],
+      "attributed_round": 17
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
@@ -120,49 +154,6 @@
         "Audi"
       ],
       "attributed_round": 17
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Mercedes defends its decision to reject crucial FIA driver aid",
-      "summary": "With the extreme heat and humidity of the Southeast Asian double-header taking a brutal physical toll on the 2026 grid, driver cooling systems have become a massive talking point. While the FIA specifically created a financial allowance for teams to develop liquid-cooled driver vests to prevent heat exhaustion, Mercedes shocked the paddock by confirming they opted out of the program ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mercedes-defends-its-controversial-decision-to-reject-a-crucial-fia-driver-upgrade/10862732/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/mercedes-defends-its-controversial-decision-to-reject-a-crucial-fia-driver-upgrade/10862732/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-07T13:04:35Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 16
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Red Bull is overcoming ADUO restrictions but still calls on tweaks for F1 2027",
-      "summary": "Red Bull is working with the FIA on how to tweak Formula 1\u2019s Additional Development and Upgrades Opportunities system after its contentious findings, says team boss Laurent Mekies.<br />ADUO is new for 2026 and measures the V6 engine performance of all power units at the end of each quarter, handing at least one upgrade token to manufacturers lagging behind.<br />But it was initially assumed that ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/red-bull-is-overcoming-aduo-restrictions-but-still-calls-on-tweaks-for-f1-2027/10862326/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/red-bull-is-overcoming-aduo-restrictions-but-still-calls-on-tweaks-for-f1-2027/10862326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-06T15:51:13Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "Red Bull"
-      ],
-      "attributed_round": 16
-    },
-    {
-      "source": "https://www.racefans.net/feed/",
-      "title": "Mercedes \u2018don\u2019t know if upgrade made us faster or slower\u2019 \u2013 Antonelli | Formula 1",
-      "summary": "The long-awaited upgrade package Mercedes introduced last weekend may have made them less competitive, Andrea Kimi Antonelli has admitted.",
-      "link": "https://www.racefans.net/2026/10/05/mercedes-dont-know-if-upgrade-made-us-faster-or-slower-antonelli/",
-      "published_at": "2026-10-05T06:15:58Z",
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 16
     }
   ],
   "effects": []
