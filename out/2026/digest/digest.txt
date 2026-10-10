@@ -1,27 +1,24 @@
 F1 Fantasy daily digest -- 2026 round 17
-Generated 2026-10-09 14:22 UTC
+Generated 2026-10-10 13:41 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 17 (FP1 R17 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
-
-LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
-  - Monaco rules out making changes to its Formula 1 track layout | Formula 1 (07 Oct) -- https://www.racefans.net/feed/
 
 UPGRADE PACKAGES:
   - What caused Mercedes' pace deficit at Sepang despite upgraded W17? [Mercedes] (06 Oct) -- https://www.autosport.com/rss/f1/news/
   - Why Mercedes' upgrade is still a "big question mark" [Mercedes] (03 Oct) -- https://www.autosport.com/rss/f1/news/
   - F1 Bahrain GP in Malaysia: Antonelli recovers from tough Friday to top FP3 [Mercedes] (03 Oct) -- https://www.autosport.com/rss/f1/news/
   - Mercedes introduces new floor, sidepods for F1 Bahrain GP [McLaren, Ferrari, Red Bull, Mercedes] (02 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Mercedes drivers speak out after bitterly divided F1 qualifying session in Singapore [Mercedes] (10 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Mercedes boss admits team is baffled by failed 2026 F1 upgrades [Mercedes] (10 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Kimi Antonelli pessimistic for F1 Singapore GP with upgraded Mercedes [Mercedes] (09 Oct) -- https://www.motorsport.com/rss/f1/news/
   - George Russell reveals the missing part that ruined Mercedes’ massive F1 upgrade [Mercedes] (09 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - George Russell thinks the panic over Mercedes’ failed F1 upgrades is completely wrong [Mercedes] (09 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Will Buxton raises alarm over Mercedes F1 upgrades ahead of Singapore GP [Mercedes] (08 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Oscar Piastri: Red Bull has become “the class of the field” in F1 2026 [McLaren, Red Bull, Mercedes] (08 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
-  - Russell beats Leclerc and Norris in sole Singapore GP practice [Mercedes] -- https://www.formula1.com/en/latest/all.xml
-  - AS IT HAPPENED: FP1 for the Singapore Grand Prix -- https://www.formula1.com/en/latest/all.xml
-  - Play Higher or Lower for your chance to win 2027 GP tickets -- https://www.formula1.com/en/latest/all.xml
+  - Why Wolff is backing Mercedes’ split-spec strategy [Mercedes] -- https://www.formula1.com/en/latest/all.xml
   - Is Antonelli favoured by Mercedes? Wolff responds to latest claims [Mercedes] (09 Oct) -- https://www.autosport.com/rss/f1/news/
   - F1 Singapore GP: Russell tops FP1 with Verstappen also impressing (09 Oct) -- https://www.autosport.com/rss/f1/news/
   - McLaren targets Norris’ costly fuel system issue with Singapore F1 power unit fixes [McLaren, Mercedes] (08 Oct) -- https://www.autosport.com/rss/f1/news/
   - Audi F1 drivers reveal biggest engine limitation – and why they’re not worried [Audi] (08 Oct) -- https://www.autosport.com/rss/f1/news/
   - FIA completes investigation into F1 chaos in Malaysia and announces measures (08 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Mercedes confirms Russell's Singapore GP grid penalty following Sepang retirement [Mercedes] (07 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Russell to take grid penalty in Singapore due to Sepang retirement [Mercedes] (06 Oct) -- https://www.autosport.com/rss/f1/news/
