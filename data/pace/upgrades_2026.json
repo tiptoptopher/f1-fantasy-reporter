@@ -45,15 +45,13 @@
       "attributed_round": 16
     },
     {
-      "source": "https://www.autosport.com/rss/f1/news/",
-      "title": "Mercedes introduces new floor, sidepods for F1 Bahrain GP",
-      "summary": "Mercedes has revealed its updates for Formula 1's Bahrain Grand Prix in Malaysia, introducing a vastly reworked floor and new sidepods as it seeks to increase its control in both 2026 championships.<br />The W17 has been the class of the field so far in 2026, although has faced competition from Ferrari, McLaren, and Red Bull intermittently throughout the season.<br />Although none of them has been ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mercedes-introduces-new-floor-sidepods-for-f1-bahrain-gp/10860785/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
-      "link": "https://www.autosport.com/f1/news/mercedes-introduces-new-floor-sidepods-for-f1-bahrain-gp/10860785/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-10-02T04:31:49Z",
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Five quick takeaways from Singapore GP",
+      "summary": "Red Bull's Baku upgrade was \"the good stuff\"<br />\"Whatever Red Bull's upgrade in Azerbaijan was, it was good stuff,\" McLaren's Oscar Piastri said with a wry smile when we asked him about the state of play in F1 right now. Following brief spells for Ferrari and McLaren at the top as Mercedes' main challengers, Red Bull's improved RB22 is not only quicker but also more predictable to drive.<br />\"Say ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/five-quick-conclusions-from-singapore-gp/10864297/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/five-quick-conclusions-from-singapore-gp/10864297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-11T13:49:27Z",
       "matched_keywords": [
-        "new floor",
-        "new sidepod",
-        "sidepod"
+        "upgrade"
       ],
       "constructors": [
         "McLaren",
@@ -61,7 +59,22 @@
         "Red Bull",
         "Mercedes"
       ],
-      "attributed_round": 16
+      "attributed_round": 17
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "How Mercedes\u2019 tricky F1 upgrade has been working at Singapore GP",
+      "summary": "Formula 1 championship leader Kimi Antonelli believes the upgraded Mercedes W17 works better, despite uncertainty regarding the new parts\u2019 actual performance.<br />Mercedes made the decision \u2013 an unusual one for a top team \u2013 to split its cars in terms of upgrades in Singapore. Antonelli has been running the updated Silver Arrow, with revised floor and sidepods, while George Russell, condemned ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/how-mercedes-tricky-f1-upgrade-has-been-working-at-singapore-gp/10864023/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/how-mercedes-tricky-f1-upgrade-has-been-working-at-singapore-gp/10864023/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-10T16:47:30Z",
+      "matched_keywords": [
+        "upgrade",
+        "sidepod"
+      ],
+      "constructors": [
+        "Mercedes"
+      ],
+      "attributed_round": 17
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
@@ -85,66 +98,6 @@
       "published_at": "2026-10-10T08:29:04Z",
       "matched_keywords": [
         "upgrade"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 17
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Kimi Antonelli pessimistic for F1 Singapore GP with upgraded Mercedes",
-      "summary": "Formula 1 championship leader Kimi Antonelli has been left bemoaning his updated Mercedes package after qualifying just seventh for the Singapore Grand Prix sprint race.<br />The 20-year-old has been the dominant driver of 2026 as he holds an 86-point advantage over team-mate George Russell in second, but the last week has been difficult for\u00a0Antonelli.<br />That\u2019s because Sepang last weekend saw ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/kimi-antonelli-pessimistic-for-f1-singapore-gp-with-upgraded-mercedes/10863482/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-pessimistic-for-f1-singapore-gp-with-upgraded-mercedes/10863482/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-09T14:37:18Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 17
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "George Russell reveals the missing part that ruined Mercedes\u2019 massive F1 upgrade",
-      "summary": "When the Mercedes team arrived at the 2026 Bahrain Grand Prix in Malaysia, they expected their highly anticipated upgrade package to completely solidify their championship lead. Instead, the updates drastically underperformed, leaving team principal Toto Wolff scrambling to figure out why the real-world pace failed to match the factory wind tunnel data.<br />To solve the puzzle, Mercedes ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/george-russell-reveals-the-missing-part-that-ruined-mercedes-massive-f1-upgrade/10863268/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/george-russell-reveals-the-missing-part-that-ruined-mercedes-massive-f1-upgrade/10863268/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-09T11:57:57Z",
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 17
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "George Russell thinks the panic over Mercedes\u2019 failed F1 upgrades is completely wrong",
-      "summary": "When the Mercedes\u00a0announced they were actively splitting their aerodynamic packages for the Singapore Grand Prix, the paddock assumed it was a desperate, reactionary measure to salvage their championship lead. With Andrea Kimi Antonelli continuing to run the controversial new updates and George Russell reverting to an older specification, the move looked like a factory in total panic.<br />But ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/george-russell-thinks-the-panic-over-mercedes-failed-f1-upgrades-is-completely-wrong/10863302/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/george-russell-thinks-the-panic-over-mercedes-failed-f1-upgrades-is-completely-wrong/10863302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-09T11:40:05Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 17
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Will Buxton raises alarm over Mercedes F1 upgrades ahead of Singapore GP",
-      "summary": "Formula 1 broadcaster Will Buxton has raised concerns over Mercedes' latest upgrade package, claiming team boss Toto Wolff suspects their major floor and sidepod changes may have cost them as much as half a second in lap time.<br />The Brackley outfit introduced major upgrades at the Bahrain Grand Prix in Malaysia. The upgrades, which resulted in modifications to almost every body surface, were ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/will-buxton-raises-alarm-over-mercedes-f1-upgrades-ahead-of-singapore-gp/10863178/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/will-buxton-raises-alarm-over-mercedes-f1-upgrades-ahead-of-singapore-gp/10863178/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-08T23:25:08Z",
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package",
-        "sidepod",
-        "major upgrade"
       ],
       "constructors": [
         "Mercedes"
