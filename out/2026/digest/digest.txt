@@ -1,16 +1,21 @@
-F1 Fantasy daily digest -- 2026 round 17
-Generated 2026-10-11 14:03 UTC
+F1 Fantasy daily digest -- 2026 round 18
+Generated 2026-10-12 16:44 UTC
+
+Confirmed lineup changes: no qualifying or practice session data yet for round 18 (FP1 R18 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
+
+LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
+  - Toto Wolff explains the strict transparency keeping Mercedes F1 united [Mercedes] (11 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 UPGRADE PACKAGES:
   - What caused Mercedes' pace deficit at Sepang despite upgraded W17? [Mercedes] (06 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Why Mercedes' upgrade is still a "big question mark" [Mercedes] (03 Oct) -- https://www.autosport.com/rss/f1/news/
-  - F1 Bahrain GP in Malaysia: Antonelli recovers from tough Friday to top FP3 [Mercedes] (03 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Mercedes confirms Kimi Antonelli’s upgrades are “clearly faster” after Singapore split strategy [Mercedes] (12 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - George Russell calls Red Bull "the team to beat" in F1, but Kimi Antonelli adds a key caveat [Red Bull, Mercedes] (12 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Toto Wolff praises Red Bull as Mercedes faces upgrade concerns [Red Bull, Mercedes] (11 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Charles Leclerc demands Ferrari upgrades after agonising Singapore GP [Ferrari, Red Bull] (11 Oct) -- https://www.motorsport.com/rss/f1/news/
   - Five quick takeaways from Singapore GP [McLaren, Ferrari, Red Bull, Mercedes] (11 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - How Mercedes’ tricky F1 upgrade has been working at Singapore GP [Mercedes] (10 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Mercedes drivers speak out after bitterly divided F1 qualifying session in Singapore [Mercedes] (10 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Mercedes boss admits team is baffled by failed 2026 F1 upgrades [Mercedes] (10 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
+  - Why Antonelli avoided a penalty despite four track limits incidents in Singapore GP (12 Oct) -- https://www.autosport.com/rss/f1/news/
   - A "better job" or more engine power? Verstappen's Singapore pole unpicked [Ferrari] (10 Oct) -- https://www.autosport.com/rss/f1/news/
   - McLaren to talk internally after "simply not acceptable" Norris-Piastri clash [McLaren] (10 Oct) -- https://www.autosport.com/rss/f1/news/
   - Is Antonelli favoured by Mercedes? Wolff responds to latest claims [Mercedes] (09 Oct) -- https://www.autosport.com/rss/f1/news/
@@ -18,4 +23,3 @@ PENALTIES / RELIABILITY:
   - McLaren targets Norris’ costly fuel system issue with Singapore F1 power unit fixes [McLaren, Mercedes] (08 Oct) -- https://www.autosport.com/rss/f1/news/
   - Audi F1 drivers reveal biggest engine limitation – and why they’re not worried [Audi] (08 Oct) -- https://www.autosport.com/rss/f1/news/
   - FIA completes investigation into F1 chaos in Malaysia and announces measures (08 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Mercedes confirms Russell's Singapore GP grid penalty following Sepang retirement [Mercedes] (07 Oct) -- https://www.autosport.com/rss/f1/news/

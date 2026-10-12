@@ -1,0 +1,27 @@
+🏁 *Race picks* -- United States Grand Prix
+Circuit of the Americas, Austin
+
+📊 Top expected points:
+  RUS: 25.7 (p10 -4.1 / p90 46.0)
+  ANT: 24.8 (p10 -5.0 / p90 45.0)
+  HAM: 23.0 (p10 0.0 / p90 42.0)
+  LEC: 21.8 (p10 -6.0 / p90 42.0)
+  VER: 19.2 (p10 -9.0 / p90 40.0)
+
+🏗️ Captain suggestion: RUS (EV 51.4)
+
+📈 Likely price risers:
+  HUL: 100% (Δ+0.60M)
+  VER: 100% (Δ+0.30M)
+  LIN: 99% (Δ+0.57M)
+  LEC: 93% (Δ+0.21M)
+  BEA: 86% (Δ+0.44M)
+
+📉 Likely budget losers -- think twice before backing these:
+  NOR: 100% (Δ-0.28M)
+  ALB: 100% (Δ-0.60M)
+  COL: 100% (Δ-0.60M)
+  GAS: 99% (Δ-0.58M)
+  BOR: 99% (Δ-0.59M)
+
+🧩 Optimal team: HUL, PER, BOT, LIN, HAD + Mercedes, Ferrari (162.7 pts, $99.0M)

@@ -1,9 +1,12 @@
 🔧 *2026 upgrade tracker*
-7 mentions checked · 0 measured effects
+6 mentions checked · 1 measured effects
+
+📈 Measured effects:
+  Mercedes R16: -0.022pp (n=3/1) -- improved vs field
 
 📰 Recent mentions:
+  [motorsport.com] Mercedes confirms Kimi Antonelli’s upgrades are “clearly faster” after Singapore split strategy (Mercedes)
+  [motorsport.com] George Russell calls Red Bull "the team to beat" in F1, but Kimi Antonelli adds a key caveat (Red Bull, Mercedes)
+  [motorsport.com] Toto Wolff praises Red Bull as Mercedes faces upgrade concerns (Red Bull, Mercedes)
+  [motorsport.com] Charles Leclerc demands Ferrari upgrades after agonising Singapore GP (Ferrari, Red Bull)
   [motorsport.com] Five quick takeaways from Singapore GP (McLaren, Ferrari, Red Bull, Mercedes)
-  [motorsport.com] How Mercedes’ tricky F1 upgrade has been working at Singapore GP (Mercedes)
-  [motorsport.com] Mercedes drivers speak out after bitterly divided F1 qualifying session in Singapore (Mercedes)
-  [motorsport.com] Mercedes boss admits team is baffled by failed 2026 F1 upgrades (Mercedes)
-  [autosport.com] What caused Mercedes' pace deficit at Sepang despite upgraded W17? (Mercedes)
