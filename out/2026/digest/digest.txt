@@ -1,5 +1,5 @@
 F1 Fantasy daily digest -- 2026 round 18
-Generated 2026-10-12 16:44 UTC
+Generated 2026-10-13 15:03 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 18 (FP1 R18 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
@@ -8,13 +8,14 @@ LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
 
 UPGRADE PACKAGES:
   - What caused Mercedes' pace deficit at Sepang despite upgraded W17? [Mercedes] (06 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Fred Vasseur "not sure" if Red Bull is currently F1's best team [Ferrari, Red Bull] (13 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - McLaren to phase upgrades for 2026 fight and next year's F1 development [McLaren] (13 Oct) -- https://www.motorsport.com/rss/f1/news/
   - Mercedes confirms Kimi Antonelli’s upgrades are “clearly faster” after Singapore split strategy [Mercedes] (12 Oct) -- https://www.motorsport.com/rss/f1/news/
   - George Russell calls Red Bull "the team to beat" in F1, but Kimi Antonelli adds a key caveat [Red Bull, Mercedes] (12 Oct) -- https://www.motorsport.com/rss/f1/news/
   - Toto Wolff praises Red Bull as Mercedes faces upgrade concerns [Red Bull, Mercedes] (11 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Charles Leclerc demands Ferrari upgrades after agonising Singapore GP [Ferrari, Red Bull] (11 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Five quick takeaways from Singapore GP [McLaren, Ferrari, Red Bull, Mercedes] (11 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
+  - Why McLaren cannot fix its F1 car handling until 2027 [McLaren] (13 Oct) -- https://www.autosport.com/rss/f1/news/
   - Why Antonelli avoided a penalty despite four track limits incidents in Singapore GP (12 Oct) -- https://www.autosport.com/rss/f1/news/
   - A "better job" or more engine power? Verstappen's Singapore pole unpicked [Ferrari] (10 Oct) -- https://www.autosport.com/rss/f1/news/
   - McLaren to talk internally after "simply not acceptable" Norris-Piastri clash [McLaren] (10 Oct) -- https://www.autosport.com/rss/f1/news/
@@ -22,4 +23,3 @@ PENALTIES / RELIABILITY:
   - F1 Singapore GP: Russell tops FP1 with Verstappen also impressing (09 Oct) -- https://www.autosport.com/rss/f1/news/
   - McLaren targets Norris’ costly fuel system issue with Singapore F1 power unit fixes [McLaren, Mercedes] (08 Oct) -- https://www.autosport.com/rss/f1/news/
   - Audi F1 drivers reveal biggest engine limitation – and why they’re not worried [Audi] (08 Oct) -- https://www.autosport.com/rss/f1/news/
-  - FIA completes investigation into F1 chaos in Malaysia and announces measures (08 Oct) -- https://www.autosport.com/rss/f1/news/
