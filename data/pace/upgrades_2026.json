@@ -2,6 +2,20 @@
   "season": 2026,
   "mentions": [
     {
+      "source": "https://www.formula1.com/en/latest/all.xml",
+      "title": "The upgrades behind Red Bull\u2019s breakthrough in Singapore",
+      "summary": "Mark Hughes and Giorgio Piola identify how Red Bull's recent upgrades helped Max Verstappen clinch back-to-back wins in Malaysia and Singapore.",
+      "link": "https://www.formula1.com/en/latest/article/the-fruitful-upgrades-behind-red-bulls-breakthrough-in-malaysia-and-singapore.LXbRuqocItGbDGABOI9JG",
+      "published_at": null,
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Red Bull"
+      ],
+      "attributed_round": null
+    },
+    {
       "source": "https://www.autosport.com/rss/f1/news/",
       "title": "What caused Mercedes' pace deficit at Sepang despite upgraded W17?",
       "summary": "Mercedes' performance at Formula 1's Bahrain Grand Prix in Malaysia will require further investigation as the conditions around the Sepang circuit made it difficult for the team to get a read on its latest update package.<br />The team introduced a revised floor and sidepod package for F1's first visit to Sepang in nine years, but it became apparent that the team was struggling to unlock its usual ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862473/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
@@ -15,6 +29,20 @@
         "Mercedes"
       ],
       "attributed_round": 16
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "FIA could outlaw Red Bull\u2019s clever sidepod loophole ahead of 2027 season",
+      "summary": "If there's one thing Formula 1 engineers love more than coffee, it's finding a tiny gray area in the rulebook and driving a championship-contending race car straight through it. But as Milton Keynes just learned, the fun doesn't last forever.<br />According to a scoop from Rosario Giuliana at AutoRacer.it, the FIA has officially moved to shut down a clever aerodynamic trick Red Bull Racing ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/fia-outlaws-red-bulls-clever-sidepod-aerodynamic-loophole-ahead-of-2027-season/10864930/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/fia-outlaws-red-bulls-clever-sidepod-aerodynamic-loophole-ahead-of-2027-season/10864930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-13T21:50:37Z",
+      "matched_keywords": [
+        "sidepod"
+      ],
+      "constructors": [
+        "Red Bull"
+      ],
+      "attributed_round": 17
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
@@ -68,21 +96,6 @@
       "matched_keywords": [
         "upgrade",
         "major upgrade"
-      ],
-      "constructors": [
-        "Red Bull",
-        "Mercedes"
-      ],
-      "attributed_round": 17
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Toto Wolff praises Red Bull as Mercedes faces upgrade concerns",
-      "summary": "Mercedes has a new upgrade for it to analyse, but team principal Toto Wolff has briefly turned his focus to Red Bull who have shown incredible improvement over the last few races. The Austrian believes the gains have come from three aspects: the car, the development path, and Max Verstappen - a driver who has the ability to extract everything from what he's driving.<br />The Brackley outfit is yet ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/toto-wolff-praises-max-verstappen-and-red-bull-as-mercedes-faces-upgrade-concerns/10864424/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/toto-wolff-praises-max-verstappen-and-red-bull-as-mercedes-faces-upgrade-concerns/10864424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-11T16:28:39Z",
-      "matched_keywords": [
-        "upgrade"
       ],
       "constructors": [
         "Red Bull",
