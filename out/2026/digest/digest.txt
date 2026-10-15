@@ -1,5 +1,5 @@
 F1 Fantasy daily digest -- 2026 round 18
-Generated 2026-10-14 12:53 UTC
+Generated 2026-10-15 12:39 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 18 (FP1 R18 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
@@ -12,8 +12,6 @@ UPGRADE PACKAGES:
   - FIA could outlaw Red Bull’s clever sidepod loophole ahead of 2027 season [Red Bull] (13 Oct) -- https://www.motorsport.com/rss/f1/news/
   - Fred Vasseur "not sure" if Red Bull is currently F1's best team [Ferrari, Red Bull] (13 Oct) -- https://www.motorsport.com/rss/f1/news/
   - McLaren to phase upgrades for 2026 fight and next year's F1 development [McLaren] (13 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Mercedes confirms Kimi Antonelli’s upgrades are “clearly faster” after Singapore split strategy [Mercedes] (12 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - George Russell calls Red Bull "the team to beat" in F1, but Kimi Antonelli adds a key caveat [Red Bull, Mercedes] (12 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
   - Why McLaren cannot fix its F1 car handling until 2027 [McLaren] (13 Oct) -- https://www.autosport.com/rss/f1/news/
