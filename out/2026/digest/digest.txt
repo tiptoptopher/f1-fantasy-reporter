@@ -1,17 +1,15 @@
 F1 Fantasy daily digest -- 2026 round 18
-Generated 2026-10-15 12:39 UTC
+Generated 2026-10-16 12:24 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 18 (FP1 R18 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
-  - GT World Challenge Portimao: All you need to know about season finale featuring Max Verstappen (13 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Ferrari promotes F2 racer to F1 reserve driver role [Ferrari] (16 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 UPGRADE PACKAGES:
-  - The upgrades behind Red Bull’s breakthrough in Singapore [Red Bull] -- https://www.formula1.com/en/latest/all.xml
   - What caused Mercedes' pace deficit at Sepang despite upgraded W17? [Mercedes] (06 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Karun Chandhok raises concerns about Mercedes F1 upgrade performance [Red Bull, Mercedes] (16 Oct) -- https://www.motorsport.com/rss/f1/news/
   - FIA could outlaw Red Bull’s clever sidepod loophole ahead of 2027 season [Red Bull] (13 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Fred Vasseur "not sure" if Red Bull is currently F1's best team [Ferrari, Red Bull] (13 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - McLaren to phase upgrades for 2026 fight and next year's F1 development [McLaren] (13 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
   - Why McLaren cannot fix its F1 car handling until 2027 [McLaren] (13 Oct) -- https://www.autosport.com/rss/f1/news/
