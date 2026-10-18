@@ -3,6 +3,20 @@
   "mentions": [
     {
       "source": "https://www.autosport.com/rss/f1/news/",
+      "title": "Mercedes explains why its upgrade made its F1 car harder to drive",
+      "summary": "If Mercedes left\u00a0Sepang with more questions than answers, the Singapore Grand Prix weekend finally provided the engineering team with the first real clues to unlocking their new package. Although it was a sprint weekend, the reopening of parc ferme and the decision to split configurations between the two drivers offered a valuable opportunity to experiment and gather critical data.<br />The data ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mercedes-explains-why-its-upgrade-made-its-f1-car-harder-to-drive/10866035/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
+      "link": "https://www.autosport.com/f1/news/mercedes-explains-why-its-upgrade-made-its-f1-car-harder-to-drive/10866035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-10-18T11:00:03Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Mercedes"
+      ],
+      "attributed_round": 17
+    },
+    {
+      "source": "https://www.autosport.com/rss/f1/news/",
       "title": "What Verstappen knew about Red Bull\u2019s big upgrade when he signed his new F1 deal",
       "summary": "While Max\u00a0Verstappen was still seriously considering the possibility of ending this Formula 1 season without winning a single race at Monza, things now look considerably different.<br />Verstappen came remarkably close to victory in Baku before actually coming out on top in the subsequent races of the triple-header in Malaysia and Singapore.<br />It marks a huge contrast with the beginning of this ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865791/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
       "link": "https://www.autosport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -14,21 +28,6 @@
         "Red Bull"
       ],
       "attributed_round": 17
-    },
-    {
-      "source": "https://www.autosport.com/rss/f1/news/",
-      "title": "What caused Mercedes' pace deficit at Sepang despite upgraded W17?",
-      "summary": "Mercedes' performance at Formula 1's Bahrain Grand Prix in Malaysia will require further investigation as the conditions around the Sepang circuit made it difficult for the team to get a read on its latest update package.<br />The team introduced a revised floor and sidepod package for F1's first visit to Sepang in nine years, but it became apparent that the team was struggling to unlock its usual ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862473/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
-      "link": "https://www.autosport.com/f1/news/the-mechanisms-at-play-behind-mercedes-difficult-bahrain-gp-weekend/10862473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-10-06T09:54:48Z",
-      "matched_keywords": [
-        "upgrade",
-        "sidepod"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 16
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
@@ -92,27 +91,5 @@
       "attributed_round": 17
     }
   ],
-  "effects": [
-    {
-      "constructor": "Mercedes",
-      "upgrade_round": 16,
-      "before_rounds": [
-        15,
-        14,
-        13
-      ],
-      "after_rounds": [
-        17
-      ],
-      "constructor_before_mean": 0.5768813614408794,
-      "constructor_after_mean": 0.30807787858557134,
-      "field_before_mean": 1.908836416427601,
-      "field_after_mean": 1.6620684646250128,
-      "constructor_delta": -0.2688034828553081,
-      "field_delta": -0.24676795180258826,
-      "relative_delta": -0.022035531052719826,
-      "n_before": 3,
-      "n_after": 1
-    }
-  ]
+  "effects": []
 }
