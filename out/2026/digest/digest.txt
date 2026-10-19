@@ -1,25 +1,21 @@
 F1 Fantasy daily digest -- 2026 round 18
-Generated 2026-10-18 12:04 UTC
+Generated 2026-10-19 14:40 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 18 (FP1 R18 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
-
-LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
-  - Ferrari promotes F2 racer to F1 reserve driver role [Ferrari] (16 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 UPGRADE PACKAGES:
   - Mercedes explains why its upgrade made its F1 car harder to drive [Mercedes] (18 Oct) -- https://www.autosport.com/rss/f1/news/
   - What Verstappen knew about Red Bull’s big upgrade when he signed his new F1 deal [Red Bull] (17 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Honda ADUO engine upgrade pegged driveability back near Spec 1 level (19 Oct) -- https://www.motorsport.com/rss/f1/news/
   - Ferrari expected to introduce major upgrade package at United States GP [Ferrari] (17 Oct) -- https://www.motorsport.com/rss/f1/news/
   - Did Max Verstappen already know the impact of Red Bull’s big upgrade when he signed his new deal? [Red Bull] (17 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Why Mercedes switched George Russell to its old F1 car spec in Singapore [Mercedes] (16 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Karun Chandhok raises concerns about Mercedes F1 upgrade performance [Red Bull, Mercedes] (16 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
+  - Fornaroli set for McLaren FP1 runs after latest F1 test [McLaren] -- https://www.formula1.com/en/latest/all.xml
+  - Inside the competition building F1’s future engineering talent [Audi] (19 Oct) -- https://www.autosport.com/rss/f1/news/
   - Mercedes explains why its upgrade made its F1 car harder to drive [Mercedes] (18 Oct) -- https://www.autosport.com/rss/f1/news/
   - Colapinto urges fans to stop online abuse: “You’re not helping me or my future” [Alpine] (16 Oct) -- https://www.autosport.com/rss/f1/news/
   - Why McLaren cannot fix its F1 car handling until 2027 [McLaren] (13 Oct) -- https://www.autosport.com/rss/f1/news/
   - Why Antonelli avoided a penalty despite four track limits incidents in Singapore GP (12 Oct) -- https://www.autosport.com/rss/f1/news/
   - A "better job" or more engine power? Verstappen's Singapore pole unpicked [Ferrari] (10 Oct) -- https://www.autosport.com/rss/f1/news/
   - McLaren to talk internally after "simply not acceptable" Norris-Piastri clash [McLaren] (10 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Is Antonelli favoured by Mercedes? Wolff responds to latest claims [Mercedes] (09 Oct) -- https://www.autosport.com/rss/f1/news/
-  - F1 Singapore GP: Russell tops FP1 with Verstappen also impressing (09 Oct) -- https://www.autosport.com/rss/f1/news/

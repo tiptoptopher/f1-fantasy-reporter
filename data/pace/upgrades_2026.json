@@ -31,6 +31,18 @@
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Honda ADUO engine upgrade pegged driveability back near Spec 1 level",
+      "summary": "Honda Racing Corporation president Koji Watanabe admits the manufacturer\u2019s Formula 1 power unit upgrade brought its driveability close to its troubled first specification\u2019s level.<br />Honda has struggled on his full-fledged return to the world championship, as new technical regulations were adopted with power units featuring near-50% electrical energy.<br />While the Adrian Newey-designed AMR26 ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/honda-aduo-engine-upgrade-pegged-driveability-back-near-spec-1-level/10866261/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/honda-aduo-engine-upgrade-pegged-driveability-back-near-spec-1-level/10866261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-19T14:05:26Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
       "title": "Ferrari expected to introduce major upgrade package at United States GP",
       "summary": "Ferrari will likely introduce a new floor at the United States Grand\u00a0Prix as part of its final major upgrade of the 2026 season, Motorsport.com understands.<br />While the Maranello outfit has already shifted its focus to 2027, the team is expected to bring a new floor to the race at the Circuit of the Americas in Austin, Texas, next week.<br />The aim of the new floor is to produce the same or more ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/ferrari-expected-to-introduce-major-upgrade-package-at-united-states-gp/10865819/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
       "link": "https://www.motorsport.com/f1/news/ferrari-expected-to-introduce-major-upgrade-package-at-united-states-gp/10865819/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -57,36 +69,6 @@
       ],
       "constructors": [
         "Red Bull"
-      ],
-      "attributed_round": 17
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Why Mercedes switched George Russell to its old F1 car spec in Singapore",
-      "summary": "When Mercedes arguably underperformed in Formula 1\u2019s Bahrain Grand Prix in Malaysia despite introducing a brand-new floor and bodywork package at Sepang, the team had to figure out its next steps.<br />The Anglo-German squad eventually opted for split specifications at the next round in Singapore, with George Russell switching back to the previous version, which he had won in Baku with. That was a ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/why-mercedes-switched-george-russell-to-its-old-f1-car-spec-in-singapore/10865660/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/why-mercedes-switched-george-russell-to-its-old-f1-car-spec-in-singapore/10865660/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-16T14:14:09Z",
-      "matched_keywords": [
-        "new floor"
-      ],
-      "constructors": [
-        "Mercedes"
-      ],
-      "attributed_round": 17
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Karun Chandhok raises concerns about Mercedes F1 upgrade performance",
-      "summary": "Sky Sports pundit and former Formula 1 driver Karun Chandhok believes Mercedes should be \"concerned\" by its latest upgrade package, warning that the new aerodynamic parts have failed to deliver the desired jump in performance.<br />Despite Kimi Antonelli closing in on his maiden drivers' championship title, Mercedes' form has plateaued in recent races. As Red Bull's Max Verstappen\u00a0won the last two ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/karun-chandhok-raises-concerns-about-mercedes-f1-upgrade-performance/10865623/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/karun-chandhok-raises-concerns-about-mercedes-f1-upgrade-performance/10865623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-16T12:07:19Z",
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package"
-      ],
-      "constructors": [
-        "Red Bull",
-        "Mercedes"
       ],
       "attributed_round": 17
     }
