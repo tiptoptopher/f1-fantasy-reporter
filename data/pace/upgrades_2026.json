@@ -31,6 +31,20 @@
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "McLaren to use final 2026 developments to test 2027 F1 car concepts",
+      "summary": "McLaren has revealed that its last run of upgrades for its 2026 Formula 1 car will also act as tests for \u201cfundamental concepts that will carry into next year\u2019s car\u201d.<br />After the Singapore Grand\u00a0Prix, team principal Andrea Stella explained its late-season upgrade plan, indicating its final updates will be delivered across the following three rounds \u2013 Austin, Mexico City and Sao Paulo \u2013 ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mclaren-to-use-final-2026-developments-to-test-2027-f1-car-concepts/10866094/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/mclaren-to-use-final-2026-developments-to-test-2027-f1-car-concepts/10866094/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-19T16:11:26Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "McLaren"
+      ],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
       "title": "Honda ADUO engine upgrade pegged driveability back near Spec 1 level",
       "summary": "Honda Racing Corporation president Koji Watanabe admits the manufacturer\u2019s Formula 1 power unit upgrade brought its driveability close to its troubled first specification\u2019s level.<br />Honda has struggled on his full-fledged return to the world championship, as new technical regulations were adopted with power units featuring near-50% electrical energy.<br />While the Adrian Newey-designed AMR26 ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/honda-aduo-engine-upgrade-pegged-driveability-back-near-spec-1-level/10866261/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
       "link": "https://www.motorsport.com/f1/news/honda-aduo-engine-upgrade-pegged-driveability-back-near-spec-1-level/10866261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -40,37 +54,6 @@
       ],
       "constructors": [],
       "attributed_round": 18
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Ferrari expected to introduce major upgrade package at United States GP",
-      "summary": "Ferrari will likely introduce a new floor at the United States Grand\u00a0Prix as part of its final major upgrade of the 2026 season, Motorsport.com understands.<br />While the Maranello outfit has already shifted its focus to 2027, the team is expected to bring a new floor to the race at the Circuit of the Americas in Austin, Texas, next week.<br />The aim of the new floor is to produce the same or more ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/ferrari-expected-to-introduce-major-upgrade-package-at-united-states-gp/10865819/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/ferrari-expected-to-introduce-major-upgrade-package-at-united-states-gp/10865819/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-17T10:27:45Z",
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package",
-        "new floor",
-        "major upgrade"
-      ],
-      "constructors": [
-        "Ferrari"
-      ],
-      "attributed_round": 17
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "Did Max Verstappen already know the impact of Red Bull\u2019s big upgrade when he signed his new deal?",
-      "summary": "While Max\u00a0Verstappen was still seriously considering the possibility of ending this Formula 1 season without winning a single race at Monza, things now look considerably different.<br />Verstappen came remarkably close to victory in Baku before actually coming out on top in the subsequent races of the triple-header in Malaysia and Singapore.<br />It marks a huge contrast with the beginning of this ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865786/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-17T08:15:22Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "Red Bull"
-      ],
-      "attributed_round": 17
     }
   ],
   "effects": []
