@@ -2,6 +2,21 @@
   "season": 2026,
   "mentions": [
     {
+      "source": "https://www.formula1.com/en/latest/all.xml",
+      "title": "Why Red Bull and Audi\u2019s floor stay trick is banned for 2027",
+      "summary": "Mark Hughes explains how a floor stay exemption has allowed Red Bull and Audi to run sharper sidepod undercuts in 2026 \u2013 and how the FIA\u2019s rule change will curb the benefit from 2027.",
+      "link": "https://www.formula1.com/en/latest/article/the-floor-stay-loophole-behind-red-bull-and-audis-sidepods-and-why-it-is-being-closed-for-2027.4rwr2rImgcIIHLCLed473w",
+      "published_at": null,
+      "matched_keywords": [
+        "sidepod"
+      ],
+      "constructors": [
+        "Red Bull",
+        "Audi"
+      ],
+      "attributed_round": null
+    },
+    {
       "source": "https://www.autosport.com/rss/f1/news/",
       "title": "Mercedes explains why its upgrade made its F1 car harder to drive",
       "summary": "If Mercedes left\u00a0Sepang with more questions than answers, the Singapore Grand Prix weekend finally provided the engineering team with the first real clues to unlocking their new package. Although it was a sprint weekend, the reopening of parc ferme and the decision to split configurations between the two drivers offered a valuable opportunity to experiment and gather critical data.<br />The data ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mercedes-explains-why-its-upgrade-made-its-f1-car-harder-to-drive/10866035/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
@@ -28,6 +43,36 @@
         "Red Bull"
       ],
       "attributed_round": 17
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "The figures that show Mercedes has lost its supremacy in F1 2026",
+      "summary": "Mercedes is confident it can win again in the 2026 Formula 1 season, but is aware it has been facing a bigger challenge than ever from the other top teams.<br />The Silver Arrows triumphed in the opening six grands prix of the campaign, as F1 switched to new technical regulations. Later on, rival upgrades meant Ferrari claimed two victories in Austria and Great Britain, then McLaren\u2019s Lando Norris ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/the-figures-that-show-mercedes-has-lost-its-supremacy-in-f1-2026/10866657/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/the-figures-that-show-mercedes-has-lost-its-supremacy-in-f1-2026/10866657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-21T11:28:56Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "McLaren",
+        "Ferrari",
+        "Mercedes"
+      ],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Charles Leclerc makes worrying Ferrari admission ahead of major F1 upgrade",
+      "summary": "After a mixed season for the Ferrari Formula 1 team, Charles Leclerc says their problem is the \"raw performance\" of its car, not its set-up. This comes as the outfit is expected to bring its largest upgrade of the season to the United States Grand Prix.<br />Ferrari has often looked competitive in practice sessions, but as qualifying begins, it seemingly slips backwards in comparison to its rivals ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/charles-leclerc-makes-worrying-ferrari-admission-ahead-of-major-f1-upgrade/10866596/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/charles-leclerc-makes-worrying-ferrari-admission-ahead-of-major-f1-upgrade/10866596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-21T08:00:04Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Ferrari"
+      ],
+      "attributed_round": 18
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",

@@ -2,26 +2,26 @@
 Circuit of the Americas, Austin
 
 📊 Top expected points:
-  RUS: 25.4 (p10 -6.0 / p90 46.0)
-  ANT: 24.5 (p10 -6.0 / p90 45.0)
-  LEC: 22.5 (p10 -3.0 / p90 42.0)
-  HAM: 22.0 (p10 -5.0 / p90 41.0)
-  VER: 19.9 (p10 -9.0 / p90 40.0)
+  ANT: 24.9 (p10 -5.0 / p90 45.0)
+  RUS: 24.8 (p10 -7.0 / p90 46.0)
+  HAM: 22.1 (p10 -6.0 / p90 41.0)
+  LEC: 21.8 (p10 -6.0 / p90 41.0)
+  VER: 19.8 (p10 -8.1 / p90 40.0)
 
-🏗️ Captain suggestion: RUS (EV 50.7)
+🏗️ Captain suggestion: ANT (EV 49.9)
 
 📈 Likely price risers:
   HUL: 100% (Δ+0.60M)
   VER: 100% (Δ+0.30M)
   LIN: 99% (Δ+0.57M)
-  LEC: 94% (Δ+0.22M)
-  BEA: 86% (Δ+0.45M)
+  LEC: 93% (Δ+0.21M)
+  HAD: 87% (Δ+0.40M)
 
 📉 Likely budget losers -- think twice before backing these:
   ALB: 100% (Δ-0.60M)
   COL: 100% (Δ-0.60M)
   NOR: 100% (Δ-0.28M)
-  GAS: 99% (Δ-0.58M)
   BOR: 99% (Δ-0.59M)
+  GAS: 99% (Δ-0.58M)
 
-🧩 Optimal team: HUL, PER, BOT, LIN, HAD + Mercedes, Ferrari (162.0 pts, $99.0M)
+🧩 Optimal team: HUL, PER, BOT, LIN, HAD + Mercedes, Ferrari (162.6 pts, $99.0M)

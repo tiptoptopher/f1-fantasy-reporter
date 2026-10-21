@@ -1,16 +1,18 @@
 F1 Fantasy daily digest -- 2026 round 18
-Generated 2026-10-20 12:43 UTC
+Generated 2026-10-21 12:56 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 18 (FP1 R18 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 UPGRADE PACKAGES:
+  - Why Red Bull and Audi’s floor stay trick is banned for 2027 [Red Bull, Audi] -- https://www.formula1.com/en/latest/all.xml
   - Mercedes explains why its upgrade made its F1 car harder to drive [Mercedes] (18 Oct) -- https://www.autosport.com/rss/f1/news/
   - What Verstappen knew about Red Bull’s big upgrade when he signed his new F1 deal [Red Bull] (17 Oct) -- https://www.autosport.com/rss/f1/news/
+  - The figures that show Mercedes has lost its supremacy in F1 2026 [McLaren, Ferrari, Mercedes] (21 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Charles Leclerc makes worrying Ferrari admission ahead of major F1 upgrade [Ferrari] (21 Oct) -- https://www.motorsport.com/rss/f1/news/
   - McLaren to use final 2026 developments to test 2027 F1 car concepts [McLaren] (19 Oct) -- https://www.motorsport.com/rss/f1/news/
   - Honda ADUO engine upgrade pegged driveability back near Spec 1 level (19 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
-  - Fornaroli set for McLaren FP1 runs after latest F1 test [McLaren] -- https://www.formula1.com/en/latest/all.xml
   - Inside the competition building F1’s future engineering talent [Audi] (19 Oct) -- https://www.autosport.com/rss/f1/news/
   - Mercedes explains why its upgrade made its F1 car harder to drive [Mercedes] (18 Oct) -- https://www.autosport.com/rss/f1/news/
   - Colapinto urges fans to stop online abuse: “You’re not helping me or my future” [Alpine] (16 Oct) -- https://www.autosport.com/rss/f1/news/
@@ -18,3 +20,4 @@ PENALTIES / RELIABILITY:
   - Why Antonelli avoided a penalty despite four track limits incidents in Singapore GP (12 Oct) -- https://www.autosport.com/rss/f1/news/
   - A "better job" or more engine power? Verstappen's Singapore pole unpicked [Ferrari] (10 Oct) -- https://www.autosport.com/rss/f1/news/
   - McLaren to talk internally after "simply not acceptable" Norris-Piastri clash [McLaren] (10 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Is Antonelli favoured by Mercedes? Wolff responds to latest claims [Mercedes] (09 Oct) -- https://www.autosport.com/rss/f1/news/
