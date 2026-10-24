@@ -2,6 +2,79 @@
   "season": 2026,
   "mentions": [
     {
+      "source": "https://www.formula1.com/en/latest/all.xml",
+      "title": "Antonelli explains \u2018steps forward\u2019 with Mercedes\u2019 upgrades",
+      "summary": "Kimi Antonelli is confident that Mercedes have begun to get the most out of their recent upgrade package at the Circuit of The Americas.",
+      "link": "https://www.formula1.com/en/latest/article/antonelli-explains-steps-forward-with-mercedes-upgrades-during-free-practice-at-us-gp.2XV6b0WII3eonLYi1DamuL",
+      "published_at": null,
+      "matched_keywords": [
+        "upgrade",
+        "upgrade package"
+      ],
+      "constructors": [
+        "Mercedes"
+      ],
+      "attributed_round": null
+    },
+    {
+      "source": "https://www.autosport.com/rss/f1/news/",
+      "title": "The unexpected issue Honda faced with upgraded F1 power unit",
+      "summary": "Following a surprisingly successful Formula 1 weekend in Malaysia, expectations were also high at Aston Martin for Singapore, a venue that should have suited the AMR26 on paper.<br />However, the competitive picture at the Marina Bay Street Circuit proved rather disappointing, with Fernando\u00a0Alonso pointing to problems with the Honda power unit after the race, particularly in terms of ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/the-unexpected-issue-honda-faced-with-upgraded-f1-power-unit/10867646/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
+      "link": "https://www.autosport.com/f1/news/the-unexpected-issue-honda-faced-with-upgraded-f1-power-unit/10867646/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-10-24T09:30:02Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Aston Martin"
+      ],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.autosport.com/rss/f1/news/",
+      "title": "McLaren's aims for its final F1 2026 upgrades amid decline in form",
+      "summary": "\"To get the car to be quick, we just have to try so hard to be perfect, and you cannot be perfect,\" said Lando Norris after practice for the Formula 1 United States Grand Prix in Austin.<br />\"We're just a step behind.\"<br />Two mid-season wins for Norris now appear to be a 'purple patch' rather than harbingers of a competitive renaissance for McLaren after a troubled start to the 2026 season. At the ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mclarens-aims-for-final-f1-2026-upgrades/10867609/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
+      "link": "https://www.autosport.com/f1/news/mclarens-aims-for-final-f1-2026-upgrades/10867609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-10-23T23:04:52Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "McLaren"
+      ],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.autosport.com/rss/f1/news/",
+      "title": "The reasons behind Ferrari's US GP upgrades",
+      "summary": "Ferrari's latest clutch of updates for the Formula 1 United States Grand Prix feature a unique approach to the 'fingers' situated at the front edge of the floor, although both drivers have played down the significance of the new parts.<br />The SF-26 has also been given a minor rework to the sidepods, with a small change to the inlet and the undercut to link up with a minor change to the floor board ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/the-reasons-behind-ferraris-us-gp-upgrades/10867545/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
+      "link": "https://www.autosport.com/f1/news/the-reasons-behind-ferraris-us-gp-upgrades/10867545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-10-23T20:05:02Z",
+      "matched_keywords": [
+        "upgrade",
+        "sidepod"
+      ],
+      "constructors": [
+        "Ferrari"
+      ],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.autosport.com/rss/f1/news/",
+      "title": "F1 United States GP: Leclerc beats Verstappen to top FP1 in upgraded Ferrari",
+      "summary": "Ferrari driver Charles Leclerc pipped Red Bull's Max Verstappen to top first practice at Formula 1's United States Grand Prix in Austin.<br />Leclerc was just under a tenth faster than Verstappen in an upgraded Ferrari as he aims to deny the Dutchman and his in-form Red Bull team a hat-track of grand prix wins.<br />On a hot Circuit of the Americas, Ferrari hit the ground running as it trialled its ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/f1-united-states-gp-leclerc-beats-verstappen-to-top-fp1/10867509/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
+      "link": "https://www.autosport.com/f1/news/f1-united-states-gp-leclerc-beats-verstappen-to-top-fp1/10867509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-10-23T18:40:35Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Ferrari",
+        "Red Bull"
+      ],
+      "attributed_round": 18
+    },
+    {
       "source": "https://www.autosport.com/rss/f1/news/",
       "title": "Mercedes explains why its upgrade made its F1 car harder to drive",
       "summary": "If Mercedes left\u00a0Sepang with more questions than answers, the Singapore Grand Prix weekend finally provided the engineering team with the first real clues to unlocking their new package. Although it was a sprint weekend, the reopening of parc ferme and the decision to split configurations between the two drivers offered a valuable opportunity to experiment and gather critical data.<br />The data ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mercedes-explains-why-its-upgrade-made-its-f1-car-harder-to-drive/10866035/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
@@ -31,6 +104,111 @@
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "The unexpected problem Honda encountered despite its second F1 power unit upgrade",
+      "summary": "Following a surprisingly successful Formula 1 weekend in Malaysia, expectations were also high at Aston Martin for Singapore, a venue that should have suited the AMR26 on paper.<br />However, the competitive picture at the Marina Bay Street Circuit proved rather disappointing, with Fernando\u00a0Alonso pointing to problems with the Honda power unit after the race, particularly in terms of ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/the-unexpected-problem-honda-encountered-despite-its-second-f1-power-unit-upgrade/10867644/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/the-unexpected-problem-honda-encountered-despite-its-second-f1-power-unit-upgrade/10867644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-24T09:30:02Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Aston Martin"
+      ],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Kimi Antonelli hails \"step forward\" at United States GP as Mercedes chips away at upgrades",
+      "summary": "Formula 1 championship leader Kimi Antonelli reckons Mercedes has made another step trying to extract performance from its recent upgrade package at the United States Grand Prix.<br />Mercedes arrived at Austin's challenging Circuit of the Americas with a new front wing option to further complement its significant upgrade package introduced in Malaysia two races ago.\u00a0That initial upgrade raised the ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/kimi-antonelli-hails-austin-fp2-step-forward-as-mercedes-chips-away-at-upgrades/10867656/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/kimi-antonelli-hails-austin-fp2-step-forward-as-mercedes-chips-away-at-upgrades/10867656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-24T06:00:02Z",
+      "matched_keywords": [
+        "upgrade",
+        "upgrade package",
+        "new front wing"
+      ],
+      "constructors": [
+        "Mercedes"
+      ],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "\"We're just a step behind\" - what McLaren is trying to solve with its final 2026 upgrades",
+      "summary": "\"To get the car to be quick, we just have to try so hard to be perfect, and you cannot be perfect,\" said Lando Norris after practice for the Formula 1 United States Grand Prix in Austin.<br />\"We're just a step behind.\"<br />Two mid-season wins for Norris now appear to be a 'purple patch' rather than harbingers of a competitive renaissance for McLaren after a troubled start to the 2026 season. At the ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/were-just-a-step-behind-what-mclaren-is-trying-to-solve-with-its-final-2026-upgrades-10867601/10867601/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/were-just-a-step-behind-what-mclaren-is-trying-to-solve-with-its-final-2026-upgrades-10867601/10867601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-23T23:00:28Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "McLaren"
+      ],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Exploring Ferrari's 'less than a tenth' US GP update package",
+      "summary": "Ferrari's latest clutch of updates for the Formula 1 United States Grand Prix feature a unique approach to the 'fingers' situated at the front edge of the floor, although both drivers have played down the significance of the new parts.<br />The SF-26 has also been given a minor rework to the sidepods, with a small change to the inlet and the undercut to link up with a minor change to the floor board ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/exploring-ferraris-less-than-a-tenth-us-gp-update-package/10867537/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/exploring-ferraris-less-than-a-tenth-us-gp-update-package/10867537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-23T20:02:03Z",
+      "matched_keywords": [
+        "sidepod"
+      ],
+      "constructors": [
+        "Ferrari"
+      ],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Ferrari drivers deliver disappointing verdict on much-hyped United States GP upgrade",
+      "summary": "Both Lewis Hamilton and Charles Leclerc have played down the expectations surrounding the upgrade the Ferrari team is bringing for this race weekend in Austin.<br />The Scuderia has arrived at the Circuit of the Americas with what looks like a substantial upgrade package that includes a new floor along with modified sidepods and bodywork with an aim to reduce drag. While fans of the Scuderia may be ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/ferrari-drivers-deliver-disappointing-verdict-on-much-hyped-united-states-gp-upgrade/10867525/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/ferrari-drivers-deliver-disappointing-verdict-on-much-hyped-united-states-gp-upgrade/10867525/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-23T19:14:14Z",
+      "matched_keywords": [
+        "upgrade",
+        "upgrade package",
+        "new floor",
+        "sidepod"
+      ],
+      "constructors": [
+        "Ferrari"
+      ],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "F1 United States GP: Charles Leclerc pips Max Verstappen to top FP1",
+      "summary": "Ferrari driver Charles Leclerc pipped Red Bull's Max Verstappen to top first practice at Formula 1's United States Grand Prix in Austin.<br />Leclerc was just under a tenth faster than Verstappen in an upgraded Ferrari as he aims to deny the Dutchman and his in-form Red Bull team a hat-track of grand prix wins.<br />On a hot Circuit of the Americas, Ferrari hit the ground running as it trialled its ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/f1-united-states-gp-charles-leclerc-pips-max-verstappen-to-top-fp1/10867489/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-charles-leclerc-pips-max-verstappen-to-top-fp1/10867489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-23T18:38:10Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Ferrari",
+        "Red Bull"
+      ],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "George Russell admits Mercedes still needs time to \u201cfine-tune\u201d problematic upgrade package",
+      "summary": "When your team-mate is on the verge of sealing the Formula 1 World Championship, the absolute last thing you want to admit is that your team\u2019s latest multi-million-dollar upgrade package is a bit of a dud. But as the F1 paddock descends on the Circuit of the Americas for the United States Grand Prix, George Russell is keeping things brutally honest about the current state of Mercedes.<br />During ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/george-russell-admits-mercedes-still-needs-time-to-fine-tune-problematic-upgrade-package/10867446/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/george-russell-admits-mercedes-still-needs-time-to-fine-tune-problematic-upgrade-package/10867446/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-23T17:18:11Z",
+      "matched_keywords": [
+        "upgrade",
+        "upgrade package"
+      ],
+      "constructors": [
+        "Mercedes"
+      ],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
       "title": "Red Bull is now F1's \u201cmost consistently quick car\u201d says Oscar Piastri",
       "summary": "After what was a very successful couple of weekends from Max Verstappen, McLaren's Oscar Piastri believes that Red Bull is now the most consistently fast team on the Formula 1 grid after its recent upgrades rocketed it to the top of the timesheets.<br />The Milton Keynes outfit now arrives in Austin for the United States Grand Prix just seven points behind the papaya-coloured cars in the battle for ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/red-bull-is-now-f1s-most-consistently-quick-car-says-oscar-piastri/10867135/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
       "link": "https://www.motorsport.com/f1/news/red-bull-is-now-f1s-most-consistently-quick-car-says-oscar-piastri/10867135/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
@@ -41,6 +219,20 @@
       "constructors": [
         "McLaren",
         "Red Bull"
+      ],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.racefans.net/feed/",
+      "title": "Leclerc puts upgraded Ferrari on top ahead of Verstappen in first practice | Formula 1",
+      "summary": "Charles Leclerc led the opening practice session at the Circuit of the Americas with Max Verstappen close behind.",
+      "link": "https://www.racefans.net/2026/10/23/leclerc-puts-upgraded-ferrari-on-top-ahead-of-verstappen-in-first-practice/",
+      "published_at": "2026-10-23T18:36:51Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "Ferrari"
       ],
       "attributed_round": 18
     }

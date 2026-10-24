@@ -1,24 +1,28 @@
 F1 Fantasy daily digest -- 2026 round 18
-Generated 2026-10-23 12:37 UTC
+Generated 2026-10-24 12:00 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 18 (FP1 R18 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
   - Horner reveals Red Bull call to thank him for F1 engine project after maiden win [Red Bull] (22 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Christian Horner reveals what led up to his 'abrupt and brutal' Red Bull F1 exit [Red Bull] (22 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Red Bull called Christian Horner to thank him for F1 engine project after maiden win [Red Bull] (22 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Charles Leclerc addresses potential F1 race absence ahead of first child's birth [Ferrari] (23 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 UPGRADE PACKAGES:
+  - Antonelli explains ‘steps forward’ with Mercedes’ upgrades [Mercedes] -- https://www.formula1.com/en/latest/all.xml
+  - The unexpected issue Honda faced with upgraded F1 power unit [Aston Martin] (24 Oct) -- https://www.autosport.com/rss/f1/news/
+  - McLaren's aims for its final F1 2026 upgrades amid decline in form [McLaren] (23 Oct) -- https://www.autosport.com/rss/f1/news/
+  - The reasons behind Ferrari's US GP upgrades [Ferrari] (23 Oct) -- https://www.autosport.com/rss/f1/news/
+  - F1 United States GP: Leclerc beats Verstappen to top FP1 in upgraded Ferrari [Ferrari, Red Bull] (23 Oct) -- https://www.autosport.com/rss/f1/news/
   - Mercedes explains why its upgrade made its F1 car harder to drive [Mercedes] (18 Oct) -- https://www.autosport.com/rss/f1/news/
   - What Verstappen knew about Red Bull’s big upgrade when he signed his new F1 deal [Red Bull] (17 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Red Bull is now F1's “most consistently quick car” says Oscar Piastri [McLaren, Red Bull] (22 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - The unexpected problem Honda encountered despite its second F1 power unit upgrade [Aston Martin] (24 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
-  - Renault to sell former F1 engine facility in Viry [Alpine] (23 Oct) -- https://www.autosport.com/rss/f1/news/
-  - When Cadillac will open its F1 engine factory [Cadillac] (22 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Slater set for F1 practice debut with Audi in Mexico [Audi] (22 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Horner reveals Red Bull call to thank him for F1 engine project after maiden win [Red Bull] (22 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Inside the competition building F1’s future engineering talent [Audi] (19 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Mercedes explains why its upgrade made its F1 car harder to drive [Mercedes] (18 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Colapinto urges fans to stop online abuse: “You’re not helping me or my future” [Alpine] (16 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Why McLaren cannot fix its F1 car handling until 2027 [McLaren] (13 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Hadjar rues ‘undriveable’ Red Bull in Austin [Red Bull] -- https://www.formula1.com/en/latest/all.xml
+  - What the teams said – Friday in the United States -- https://www.formula1.com/en/latest/all.xml
+  - Leclerc warns against ‘high expectations’ at US GP [Ferrari] -- https://www.formula1.com/en/latest/all.xml
+  - Leclerc sets the pace in FP2 at the United States GP -- https://www.formula1.com/en/latest/all.xml
+  - AS IT HAPPENED: Second practice in the United States -- https://www.formula1.com/en/latest/all.xml
+  - The unexpected issue Honda faced with upgraded F1 power unit [Aston Martin] (24 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Red Bull identifies two "key focus" areas after Max Verstappen's promising start in Austin [Red Bull] (24 Oct) -- https://www.autosport.com/rss/f1/news/
+  - McLaren's aims for its final F1 2026 upgrades amid decline in form [McLaren] (23 Oct) -- https://www.autosport.com/rss/f1/news/
