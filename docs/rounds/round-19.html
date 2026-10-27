@@ -1,0 +1,370 @@
+<meta charset="utf-8">
+<title>Mexico City Grand Prix — Round 19</title>
+<meta name="description" content="Pre-race analysis and post-race results for the 2026 Mexico City Grand Prix.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --page: #0d0d0d; --surface: #1a1a19; --surface-raised: #232322;
+  --ink: #ffffff; --ink-secondary: #c3c2b7; --ink-muted: #898781;
+  --grid: #2c2c2a; --baseline: #383835; --hairline: rgba(255,255,255,0.10);
+  --pos: #0ca30c; --neg: #d03b3b; --accent: #e10600;
+  --status-upcoming: #fab219; --status-completed: #0ca30c;
+  --font-display: 'Barlow Condensed', 'Liberation Sans', system-ui, sans-serif;
+  --font-body: 'Inter', 'Liberation Sans', system-ui, sans-serif;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--page); color: var(--ink); font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased; margin: 0; padding: 20px 16px 48px;
+  display: flex; justify-content: center;
+}
+.page { width: 100%; max-width: 1080px; display: flex; flex-direction: column; gap: 22px; }
+a { color: inherit; }
+.eyebrow {
+  font-family: var(--font-display); font-weight: 700; font-size: 13px;
+  letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent);
+}
+header.site-header { border-bottom: 2px solid var(--accent); padding-bottom: 16px; display: flex; flex-direction: column; gap: 8px; }
+h1 {
+  font-family: var(--font-display); font-weight: 700; font-size: clamp(30px, 5.5vw, 44px);
+  line-height: 0.98; letter-spacing: -0.01em; text-transform: uppercase; margin: 0; text-wrap: balance;
+}
+.subtitle { color: var(--ink-secondary); font-size: 14px; max-width: 700px; }
+.nav-back { font-size: 13px; color: var(--ink-secondary); text-decoration: none; display: inline-flex; align-items: center; gap: 6px; }
+.nav-back:hover { color: var(--ink); }
+
+.round-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 14px; }
+.round-card {
+  background: var(--surface); border-radius: 4px; padding: 18px; text-decoration: none;
+  display: flex; flex-direction: column; gap: 8px; border: 1px solid var(--hairline);
+  transition: border-color 0.15s, transform 0.15s;
+}
+.round-card:hover { border-color: var(--baseline); transform: translateY(-1px); }
+.round-num { font-family: var(--font-display); font-weight: 700; font-size: 13px; color: var(--ink-muted); letter-spacing: 0.08em; text-transform: uppercase; }
+.round-name { font-family: var(--font-display); font-weight: 700; font-size: 22px; text-transform: uppercase; line-height: 1.05; }
+.round-circuit { font-size: 12px; color: var(--ink-muted); }
+.status-pill {
+  align-self: flex-start; font-size: 10px; font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase;
+  padding: 3px 9px; border-radius: 999px; margin-top: 4px;
+}
+.status-pill.completed { background: rgba(12,163,12,0.16); color: var(--status-completed); }
+.status-pill.upcoming { background: rgba(250,178,25,0.16); color: var(--status-upcoming); }
+
+.section-title {
+  font-family: var(--font-display); font-weight: 700; font-size: 15px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--ink-muted); border-bottom: 1px solid var(--hairline); padding-bottom: 8px; margin: 6px 0 -4px;
+}
+.league-title {
+  font-family: var(--font-display); font-weight: 700; font-size: 13px; letter-spacing: 0.08em;
+  text-transform: uppercase; color: var(--ink-secondary); margin: 8px 0 -4px;
+}
+.league-tabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 2px 0 -2px; }
+.league-tab {
+  font-family: var(--font-body); font-weight: 600; font-size: 13px; padding: 8px 16px; border-radius: 999px;
+  cursor: pointer; border: 1px solid var(--hairline); background: var(--surface); color: var(--ink-secondary);
+}
+.league-tab.active { border-color: var(--accent); color: var(--ink); background: rgba(225,6,0,0.14); }
+.league-group { display: none; }
+.league-group.active { display: block; }
+.card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 14px; }
+.card {
+  background: var(--surface); border-radius: 4px; padding: 18px; display: flex; flex-direction: column; gap: 10px;
+  position: relative;
+}
+.card-title { font-family: var(--font-display); font-weight: 700; font-size: 16px; text-transform: uppercase; letter-spacing: 0.02em; }
+.card-caption { font-size: 13px; line-height: 1.6; color: var(--ink-secondary); }
+.card img { max-width: 100%; border-radius: 3px; display: block; cursor: zoom-in; }
+.card-copy-btn {
+  position: absolute; top: 14px; right: 14px; z-index: 3;
+  width: 30px; height: 30px; border-radius: 999px; border: none;
+  background: rgba(0,0,0,0.55); color: #fff; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+}
+.card-copy-btn:hover { background: var(--accent); }
+.card-copy-btn svg { width: 14px; height: 14px; }
+.card-toast {
+  position: absolute; top: 16px; right: 52px; z-index: 3;
+  background: rgba(0,0,0,0.8); color: #fff; font-size: 11px; font-weight: 600; padding: 5px 9px; border-radius: 4px;
+  opacity: 0; pointer-events: none; transition: opacity 0.2s; white-space: nowrap;
+}
+.card-toast.show { opacity: 1; }
+.lb-overlay {
+  position: fixed; inset: 0; background: rgba(0,0,0,0.88); z-index: 1002;
+  display: none; flex-direction: column; align-items: center; padding: 16px;
+}
+.lb-overlay.open { display: flex; }
+.lb-toolbar { display: flex; justify-content: flex-end; gap: 8px; width: 100%; max-width: 1100px; margin-bottom: 10px; flex-shrink: 0; }
+.lb-toolbar button {
+  font-family: var(--font-body); font-weight: 600; font-size: 13px; padding: 8px 14px; border-radius: 999px;
+  cursor: pointer; border: 1px solid var(--hairline); background: var(--surface); color: var(--ink);
+}
+.lb-toolbar .lb-copy { background: var(--accent); border-color: var(--accent); }
+.lb-body { flex: 1; width: 100%; max-width: 1100px; overflow: auto; text-align: center; }
+.lb-body img { max-width: 100%; border-radius: 4px; }
+
+.metric-row { display: flex; flex-wrap: wrap; gap: 10px; }
+.metric {
+  background: var(--surface-raised); border-radius: 4px; padding: 12px 16px; min-width: 130px; flex: 1;
+}
+.metric-label { font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-muted); margin-bottom: 4px; }
+.metric-value { font-family: var(--font-display); font-weight: 700; font-size: 24px; font-variant-numeric: tabular-nums; }
+.metric-value.good { color: var(--status-completed); }
+.metric-value.warn { color: var(--status-upcoming); }
+
+.extras-list { display: flex; flex-wrap: wrap; gap: 10px; }
+.extras-list a {
+  background: var(--accent); color: var(--ink); font-family: var(--font-body); font-weight: 600; font-size: 13px;
+  text-decoration: none; padding: 9px 16px; border-radius: 999px;
+}
+.empty-note { color: var(--ink-muted); font-size: 13px; padding: 8px 0; }
+
+footer.site-footer { font-size: 11px; color: var(--ink-muted); line-height: 1.6; padding-top: 8px; border-top: 1px solid var(--hairline); }
+
+@media (max-width: 560px) { .card, .round-card { padding: 14px; } }
+
+.fb-btn {
+  position: fixed; right: 18px; bottom: 18px; z-index: 1000;
+  display: inline-flex; align-items: center; gap: 8px;
+  background: var(--accent); color: #fff; border: none; border-radius: 999px;
+  padding: 12px 18px; font-family: var(--font-body); font-weight: 600; font-size: 13px;
+  cursor: pointer; box-shadow: 0 4px 14px rgba(0,0,0,0.4);
+  transition: transform 0.15s, box-shadow 0.15s;
+}
+.fb-btn:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,0,0,0.5); }
+.fb-btn svg { width: 16px; height: 16px; flex-shrink: 0; }
+.fb-overlay {
+  position: fixed; inset: 0; background: rgba(0,0,0,0.6); z-index: 1001;
+  display: none; align-items: center; justify-content: center; padding: 16px;
+}
+.fb-overlay.open { display: flex; }
+.fb-modal {
+  background: var(--surface); border-radius: 6px; padding: 22px; width: 100%; max-width: 440px;
+  border: 1px solid var(--hairline); display: flex; flex-direction: column; gap: 14px;
+  max-height: 90vh; overflow-y: auto;
+}
+.fb-modal-title { font-family: var(--font-display); font-weight: 700; font-size: 18px; text-transform: uppercase; }
+.fb-modal-context { font-size: 11px; color: var(--ink-muted); background: var(--surface-raised); border-radius: 4px; padding: 8px 10px; word-break: break-word; }
+.fb-type-row { display: flex; gap: 8px; }
+.fb-type-btn {
+  flex: 1; padding: 8px; border-radius: 4px; border: 1px solid var(--hairline); background: var(--surface-raised);
+  color: var(--ink-secondary); font-family: var(--font-body); font-weight: 600; font-size: 13px; cursor: pointer;
+}
+.fb-type-btn.active { border-color: var(--accent); color: var(--ink); background: rgba(225,6,0,0.14); }
+.fb-modal textarea {
+  width: 100%; min-height: 110px; resize: vertical; background: var(--surface-raised); color: var(--ink);
+  border: 1px solid var(--hairline); border-radius: 4px; padding: 10px; font-family: var(--font-body); font-size: 13px;
+  box-sizing: border-box;
+}
+.fb-modal-note { font-size: 11px; color: var(--ink-muted); line-height: 1.5; }
+.fb-modal-actions { display: flex; justify-content: flex-end; gap: 8px; }
+.fb-modal-actions button { font-family: var(--font-body); font-weight: 600; font-size: 13px; padding: 9px 16px; border-radius: 999px; cursor: pointer; border: none; }
+.fb-cancel { background: transparent; color: var(--ink-secondary); }
+.fb-cancel:hover { color: var(--ink); }
+.fb-submit { background: var(--accent); color: #fff; }
+.fb-submit:disabled { opacity: 0.5; cursor: not-allowed; }
+@media (max-width: 560px) { .fb-btn span.fb-btn-label { display: none; } .fb-btn { padding: 14px; } }
+</style>
+
+<div class="page">
+  <a class="nav-back" href="../index.html">&larr; All rounds</a>
+  <header class="site-header">
+    <div class="eyebrow">Round 19 &middot; 2026</div>
+    <h1>Mexico City Grand Prix</h1>
+    <div class="subtitle">Autódromo Hermanos Rodríguez</div>
+  </header>
+  <div class="section-title">Pre-race</div><div class="card-grid"><div class="card" data-lightbox-title="Picks"><div class="card-title">Picks</div><img src="../assets/2026/19/picks.png" alt="Picks" loading="lazy"><div class="card-caption">🏁 <strong>Race picks</strong> -- Mexico City Grand Prix<br>Autódromo Hermanos Rodríguez, Mexico City<br><br>📊 Top expected points:<br>  ANT: 25.6 (p10 -1.0 / p90 45.0)<br>  RUS: 24.8 (p10 -5.0 / p90 45.1)<br>  LEC: 23.0 (p10 -2.0 / p90 42.0)<br>  HAM: 22.1 (p10 -5.0 / p90 42.1)<br>  VER: 19.3 (p10 -9.1 / p90 40.0)<br><br>🏗️ Captain suggestion: ANT (EV 51.2)<br><br>📈 Likely price risers:<br>  LEC: 100% (Δ+0.30M)<br>  HUL: 100% (Δ+0.60M)<br>  VER: 100% (Δ+0.27M)<br>  LIN: 95% (Δ+0.50M)<br>  ANT: 90% (Δ+0.16M)<br><br>📉 Likely budget losers -- think twice before backing these:<br>  RUS: 100% (Δ-0.28M)<br>  COL: 100% (Δ-0.60M)<br>  TSU: 98% (Δ-0.56M)<br>  ALB: 97% (Δ-0.56M)<br>  BOR: 96% (Δ-0.54M)<br><br>🧩 Optimal team: BOR, HUL, BOT, HAD, ALB + Mercedes, Ferrari (161.1 pts, $99.7M)<br></div></div></div>
+  <footer class="site-footer">Ciao Squadra 2026 &middot; generated from this repository's committed cards and snapshots.</footer>
+</div>
+
+<div class="lb-overlay" id="lbOverlay">
+  <div class="lb-toolbar">
+    <button type="button" class="lb-copy" id="lbCopyBtn">Copy image</button>
+    <button type="button" id="lbCloseBtn">Close</button>
+  </div>
+  <div class="lb-body"><img id="lbImg" src="" alt=""></div>
+</div>
+<script>
+(function () {
+  var COPY_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="12" height="12" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>';
+  var lbOverlay = document.getElementById('lbOverlay');
+  var lbImg = document.getElementById('lbImg');
+  var lbCopyBtn = document.getElementById('lbCopyBtn');
+  var lbCloseBtn = document.getElementById('lbCloseBtn');
+  var currentSrc = '';
+
+  function openLightbox(src, title) {
+    currentSrc = src;
+    lbImg.src = src;
+    lbImg.alt = title || '';
+    lbOverlay.classList.add('open');
+  }
+  function closeLightbox() {
+    lbOverlay.classList.remove('open');
+    lbImg.src = '';
+  }
+  lbCloseBtn.addEventListener('click', closeLightbox);
+  lbOverlay.addEventListener('click', function (e) { if (e.target === lbOverlay) closeLightbox(); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeLightbox(); });
+
+  function showToast(cardEl, message) {
+    var toast = cardEl.querySelector('.card-toast');
+    if (!toast) return;
+    toast.textContent = message;
+    toast.classList.add('show');
+    setTimeout(function () { toast.classList.remove('show'); }, 1800);
+  }
+
+  function copyImage(src, cardEl) {
+    if (!navigator.clipboard || typeof ClipboardItem === 'undefined') {
+      window.open(src, '_blank', 'noopener');
+      showToast(cardEl, 'Opened image \u2014 long-press to save');
+      return;
+    }
+    var item = new ClipboardItem({
+      'image/png': fetch(src).then(function (r) { return r.blob(); })
+    });
+    navigator.clipboard.write([item]).then(function () {
+      showToast(cardEl, 'Copied!');
+    }).catch(function () {
+      window.open(src, '_blank', 'noopener');
+      showToast(cardEl, 'Copy failed \u2014 opened image instead');
+    });
+  }
+
+  lbCopyBtn.addEventListener('click', function () {
+    if (!currentSrc) return;
+    var item = new ClipboardItem({
+      'image/png': fetch(currentSrc).then(function (r) { return r.blob(); })
+    });
+    if (!navigator.clipboard || typeof ClipboardItem === 'undefined') {
+      window.open(currentSrc, '_blank', 'noopener');
+      return;
+    }
+    navigator.clipboard.write([item]).then(function () {
+      lbCopyBtn.textContent = 'Copied!';
+      setTimeout(function () { lbCopyBtn.textContent = 'Copy image'; }, 1500);
+    }).catch(function () {
+      window.open(currentSrc, '_blank', 'noopener');
+    });
+  });
+
+  document.querySelectorAll('.card img').forEach(function (img) {
+    var card = img.closest('.card');
+    if (!card) return;
+
+    var toast = document.createElement('div');
+    toast.className = 'card-toast';
+    card.appendChild(toast);
+
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'card-copy-btn';
+    btn.setAttribute('aria-label', 'Copy image');
+    btn.innerHTML = COPY_ICON;
+    btn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      copyImage(img.src, card);
+    });
+    card.appendChild(btn);
+
+    img.addEventListener('click', function () {
+      openLightbox(img.src, card.getAttribute('data-lightbox-title') || img.alt);
+    });
+  });
+})();
+</script>
+
+
+<script>
+(function () {
+  document.querySelectorAll('.league-tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      var id = btn.getAttribute('data-league-tab');
+      document.querySelectorAll('.league-tab').forEach(function (b) {
+        var active = b === btn;
+        b.classList.toggle('active', active);
+        b.setAttribute('aria-selected', active ? 'true' : 'false');
+      });
+      document.querySelectorAll('.league-group').forEach(function (g) {
+        g.classList.toggle('active', g.getAttribute('data-league-group') === id);
+      });
+    });
+  });
+})();
+</script>
+
+
+<button type="button" class="fb-btn" id="fbOpenBtn" aria-haspopup="dialog">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 9V7a3 3 0 0 1 6 0v2"/><rect x="5" y="9" width="14" height="11" rx="4"/><path d="M2 13h3M19 13h3M9 3l1.5 2M15 3l-1.5 2M9 20v-4M15 20v-4"/></svg>
+  <span class="fb-btn-label">Bug / Feature</span>
+</button>
+<div class="fb-overlay" id="fbOverlay">
+  <div class="fb-modal" role="dialog" aria-modal="true" aria-labelledby="fbTitle">
+    <div class="fb-modal-title" id="fbTitle">Report a bug or request a change</div>
+    <div class="fb-modal-context" id="fbContext"></div>
+    <div class="fb-type-row">
+      <button type="button" class="fb-type-btn active" data-type="Bug" id="fbTypeBug">Bug</button>
+      <button type="button" class="fb-type-btn" data-type="Feature" id="fbTypeFeature">Feature</button>
+    </div>
+    <textarea id="fbText" placeholder="What's wrong, or what would you like changed?"></textarea>
+    <div class="fb-modal-note">Opens a pre-filled GitHub issue with this page's title and URL attached, so Claude has the context -- you'll just need to hit "Submit new issue" on GitHub to send it.</div>
+    <div class="fb-modal-actions">
+      <button type="button" class="fb-cancel" id="fbCancel">Cancel</button>
+      <button type="button" class="fb-submit" id="fbSubmit">Open issue</button>
+    </div>
+  </div>
+</div>
+<script>
+(function () {
+  var GITHUB_REPO = "tiptoptopher/f1-fantasy-reporter";
+  var openBtn = document.getElementById('fbOpenBtn');
+  var overlay = document.getElementById('fbOverlay');
+  var cancelBtn = document.getElementById('fbCancel');
+  var submitBtn = document.getElementById('fbSubmit');
+  var textEl = document.getElementById('fbText');
+  var contextEl = document.getElementById('fbContext');
+  var typeBtns = [document.getElementById('fbTypeBug'), document.getElementById('fbTypeFeature')];
+  var currentType = 'Bug';
+
+  function openModal() {
+    contextEl.textContent = document.title + ' \u2014 ' + window.location.href;
+    overlay.classList.add('open');
+    textEl.focus();
+  }
+  function closeModal() {
+    overlay.classList.remove('open');
+  }
+  openBtn.addEventListener('click', openModal);
+  cancelBtn.addEventListener('click', closeModal);
+  overlay.addEventListener('click', function (e) { if (e.target === overlay) closeModal(); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeModal(); });
+
+  typeBtns.forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      currentType = btn.getAttribute('data-type');
+      typeBtns.forEach(function (b) { b.classList.toggle('active', b === btn); });
+    });
+  });
+
+  submitBtn.addEventListener('click', function () {
+    var text = textEl.value.trim();
+    if (!text) { textEl.focus(); return; }
+    var title = '[' + currentType + '] ' + text.split('\n')[0].slice(0, 80);
+    var body = '**Type:** ' + currentType + '\n' +
+      '**Page:** ' + document.title + '\n' +
+      '**URL:** ' + window.location.href + '\n\n' +
+      text;
+    var url = 'https://github.com/' + GITHUB_REPO + '/issues/new'
+      + '?title=' + encodeURIComponent(title)
+      + '&body=' + encodeURIComponent(body)
+      + '&labels=' + encodeURIComponent('site-feedback');
+    window.open(url, '_blank', 'noopener');
+    textEl.value = '';
+    closeModal();
+  });
+})();
+</script>
+

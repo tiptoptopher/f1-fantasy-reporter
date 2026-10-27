@@ -1,5 +1,7 @@
-F1 Fantasy daily digest -- 2026 round 18
-Generated 2026-10-26 14:15 UTC
+F1 Fantasy daily digest -- 2026 round 19
+Generated 2026-10-27 13:21 UTC
+
+Confirmed lineup changes: no qualifying or practice session data yet for round 19 (FP1 R19 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
   - Inside COTA's Turn 1 clubhouse and its plans to build a second track (25 Oct) -- https://www.autosport.com/rss/f1/news/
@@ -13,10 +15,11 @@ UPGRADE PACKAGES:
   - The reasons behind Ferrari's US GP upgrades [Ferrari] (23 Oct) -- https://www.autosport.com/rss/f1/news/
   - F1 United States GP: Leclerc beats Verstappen to top FP1 in upgraded Ferrari [Ferrari, Red Bull] (23 Oct) -- https://www.autosport.com/rss/f1/news/
   - Mercedes explains why its upgrade made its F1 car harder to drive [Mercedes] (18 Oct) -- https://www.autosport.com/rss/f1/news/
-  - What Verstappen knew about Red Bull’s big upgrade when he signed his new F1 deal [Red Bull] (17 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Fred Vasseur reveals two costly moments that denied Ferrari US GP double podium [Ferrari, Mercedes, Cadillac] (26 Oct) -- https://www.motorsport.com/rss/f1/news/
   - George Russell confused by lack of pace at F1 US GP despite upgraded W17 (25 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
+  - Bearman and Gasly reflect on US GP collision -- https://www.formula1.com/en/latest/all.xml
   - Russell scrambling for answers after "not being quick enough" at US GP (25 Oct) -- https://www.autosport.com/rss/f1/news/
   - Leclerc and Hamilton's differing theories behind Ferrari's Austin qualifying disappointment [Ferrari] (24 Oct) -- https://www.autosport.com/rss/f1/news/
   - F1 United States GP: Ferrari completes perfect practice record as Hamilton tops FP3 [Ferrari] (24 Oct) -- https://www.autosport.com/rss/f1/news/
@@ -24,4 +27,3 @@ PENALTIES / RELIABILITY:
   - Verstappen enjoys promising start to US GP - but Red Bull pinpoints areas of improvement [Red Bull] (24 Oct) -- https://www.autosport.com/rss/f1/news/
   - McLaren's aims for its final F1 2026 upgrades amid decline in form [McLaren] (23 Oct) -- https://www.autosport.com/rss/f1/news/
   - F1 United States GP: Leclerc pips Antonelli to top FP2 while McLaren struggles [McLaren, Ferrari] (23 Oct) -- https://www.autosport.com/rss/f1/news/
-  - F1 United States GP: Leclerc beats Verstappen to top FP1 in upgraded Ferrari [Ferrari, Red Bull] (23 Oct) -- https://www.autosport.com/rss/f1/news/
