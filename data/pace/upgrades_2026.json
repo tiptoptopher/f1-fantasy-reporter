@@ -2,6 +2,33 @@
   "season": 2026,
   "mentions": [
     {
+      "source": "https://www.formula1.com/en/latest/all.xml",
+      "title": "What went into Ferrari's upgrade package in the US?",
+      "summary": "Mark Hughes and Giorgio Piola delve into the upgrades Ferrari introduced at the United States Grand Prix.",
+      "link": "https://www.formula1.com/en/latest/article/what-went-into-ferraris-latest-upgrade-package-in-the-united-states.3I72X1Dos3Nty2sNxMfDD4",
+      "published_at": null,
+      "matched_keywords": [
+        "upgrade",
+        "upgrade package"
+      ],
+      "constructors": [
+        "Ferrari"
+      ],
+      "attributed_round": null
+    },
+    {
+      "source": "https://www.autosport.com/rss/f1/news/",
+      "title": "FIA announces new partnership to help drive future F1 regulations",
+      "summary": "The FIA has announced a wide-ranging partnership with Amazon Web Services as it aims to upgrade its digital capabilities.<br />AWS will join as its Official AI and Cloud Computing Partner, as the governing body will use AWS's suite of AI tools to improve its capability to produce future technical regulations.<br />The FIA also runs its aerodynamic simulations on AWS\u2019s High Performance Computing ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/fia-announces-new-partnership-to-help-drive-future-f1-regulations/10868916/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
+      "link": "https://www.autosport.com/f1/news/fia-announces-new-partnership-to-help-drive-future-f1-regulations/10868916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-10-28T08:00:03Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [],
+      "attributed_round": 18
+    },
+    {
       "source": "https://www.autosport.com/rss/f1/news/",
       "title": "Antonelli pole shows Mercedes is 'finally seeing the results' of car upgrades",
       "summary": "Formula 1 championship leader Kimi Antonelli reckons his United States Grand Prix pole is the reward for Mercedes' efforts to finetune its comprehensive but troubled Malaysia upgrade.<br />Antonelli held off Red Bull tandem Max Verstappen and Isack Hadjar on Austin's Circuit of the Americas as Ferrari flattered to deceive in Saturday's qualifying shootout by taking fourth and fifth.<br />With the ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/antonelli-pole-shows-mercedes-is-seeing-results-of-car-upgrades/10868072/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
@@ -76,18 +103,45 @@
       "attributed_round": 18
     },
     {
-      "source": "https://www.autosport.com/rss/f1/news/",
-      "title": "Mercedes explains why its upgrade made its F1 car harder to drive",
-      "summary": "If Mercedes left\u00a0Sepang with more questions than answers, the Singapore Grand Prix weekend finally provided the engineering team with the first real clues to unlocking their new package. Although it was a sprint weekend, the reopening of parc ferme and the decision to split configurations between the two drivers offered a valuable opportunity to experiment and gather critical data.<br />The data ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mercedes-explains-why-its-upgrade-made-its-f1-car-harder-to-drive/10866035/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
-      "link": "https://www.autosport.com/f1/news/mercedes-explains-why-its-upgrade-made-its-f1-car-harder-to-drive/10866035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-10-18T11:00:03Z",
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "FIA partners with AWS to help drive future F1 regulations",
+      "summary": "The FIA has announced a wide-ranging partnership with Amazon Web Services as it aims to upgrade its digital capabilities.<br />AWS will join as its Official AI and Cloud Computing Partner, as the governing body will use AWS's suite of AI tools to improve its capability to produce future technical regulations.<br />The FIA also runs its aerodynamic simulations on AWS\u2019s High Performance Computing ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/fia-partners-with-aws-to-help-drive-future-f1-regulations/10868911/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/fia-partners-with-aws-to-help-drive-future-f1-regulations/10868911/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-28T08:00:03Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [],
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "Kimi Antonelli extends F1 title lead with US GP win Mercedes didn\u2019t expect",
+      "summary": "The telemetry inside the Mercedes garage after Friday practice at the Circuit of the Americas pointed towards the Brackley squad waiting to pack up for a miserable, point-less weekend. The car was off the pace, the drivers were complaining about the balance, and the recent aerodynamic upgrades looked like a massive misstep.<br />Fast forward to Sunday afternoon, and 19-year-old Andrea Kimi Antonelli ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mercedes-admits-they-were-clueless-before-kimi-antonellis-austin-miracle-a-remarkable-turnaround/10868571/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/mercedes-admits-they-were-clueless-before-kimi-antonellis-austin-miracle-a-remarkable-turnaround/10868571/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-27T22:05:19Z",
       "matched_keywords": [
         "upgrade"
       ],
       "constructors": [
         "Mercedes"
       ],
-      "attributed_round": 17
+      "attributed_round": 18
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "McLaren boss claims the MCL40 had podium pace despite a \u201cdisappointing\u201d P5 and P7",
+      "summary": "In modern Formula 1, raw race pace means absolutely nothing if you completely bottle your qualifying laps on Saturday afternoon. Without track position, you are simply burning up your tyres in dirty air while the race leaders cruise off into the distance.<br />That is the reality\u00a0McLaren faced at the United States Grand Prix.<br />Despite bringing a highly effective upgrade package to the Circuit of ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mclaren-boss-claims-the-mcl40-had-podium-pace-despite-a-disappointing-5th-and-7th/10868598/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/mclaren-boss-claims-the-mcl40-had-podium-pace-despite-a-disappointing-5th-and-7th/10868598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-10-27T14:27:14Z",
+      "matched_keywords": [
+        "upgrade",
+        "upgrade package"
+      ],
+      "constructors": [
+        "McLaren"
+      ],
+      "attributed_round": 18
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
@@ -118,27 +172,5 @@
       "attributed_round": 18
     }
   ],
-  "effects": [
-    {
-      "constructor": "Mercedes",
-      "upgrade_round": 17,
-      "before_rounds": [
-        16,
-        15,
-        14
-      ],
-      "after_rounds": [
-        18
-      ],
-      "constructor_before_mean": 0.7626880520493946,
-      "constructor_after_mean": 0.14356356675706397,
-      "field_before_mean": 2.061272318578922,
-      "field_after_mean": 1.5098343460123698,
-      "constructor_delta": -0.6191244852923307,
-      "field_delta": -0.5514379725665524,
-      "relative_delta": -0.0676865127257783,
-      "n_before": 3,
-      "n_after": 1
-    }
-  ]
+  "effects": []
 }

@@ -1,12 +1,9 @@
 🔧 *2026 upgrade tracker*
-8 mentions checked · 1 measured effects
-
-📈 Measured effects:
-  Mercedes R17: -0.068pp (n=3/1) -- improved vs field
+12 mentions checked · 0 measured effects
 
 📰 Recent mentions:
+  [autosport.com] FIA announces new partnership to help drive future F1 regulations (unattributed)
+  [motorsport.com] FIA partners with AWS to help drive future F1 regulations (unattributed)
+  [motorsport.com] Kimi Antonelli extends F1 title lead with US GP win Mercedes didn’t expect (Mercedes)
+  [motorsport.com] McLaren boss claims the MCL40 had podium pace despite a “disappointing” P5 and P7 (McLaren)
   [motorsport.com] Fred Vasseur reveals two costly moments that denied Ferrari US GP double podium (Ferrari, Mercedes, Cadillac)
-  [motorsport.com] George Russell confused by lack of pace at F1 US GP despite upgraded W17 (unattributed)
-  [autosport.com] Antonelli pole shows Mercedes is 'finally seeing the results' of car upgrades (Ferrari, Red Bull, Mercedes)
-  [autosport.com] The unexpected issue Honda faced with upgraded F1 power unit (Aston Martin)
-  [autosport.com] McLaren's aims for its final F1 2026 upgrades amid decline in form (McLaren)
