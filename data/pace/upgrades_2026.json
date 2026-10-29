@@ -2,21 +2,6 @@
   "season": 2026,
   "mentions": [
     {
-      "source": "https://www.formula1.com/en/latest/all.xml",
-      "title": "What went into Ferrari's upgrade package in the US?",
-      "summary": "Mark Hughes and Giorgio Piola delve into the upgrades Ferrari introduced at the United States Grand Prix.",
-      "link": "https://www.formula1.com/en/latest/article/what-went-into-ferraris-latest-upgrade-package-in-the-united-states.3I72X1Dos3Nty2sNxMfDD4",
-      "published_at": null,
-      "matched_keywords": [
-        "upgrade",
-        "upgrade package"
-      ],
-      "constructors": [
-        "Ferrari"
-      ],
-      "attributed_round": null
-    },
-    {
       "source": "https://www.autosport.com/rss/f1/news/",
       "title": "FIA announces new partnership to help drive future F1 regulations",
       "summary": "The FIA has announced a wide-ranging partnership with Amazon Web Services as it aims to upgrade its digital capabilities.<br />AWS will join as its Official AI and Cloud Computing Partner, as the governing body will use AWS's suite of AI tools to improve its capability to produce future technical regulations.<br />The FIA also runs its aerodynamic simulations on AWS\u2019s High Performance Computing ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/fia-announces-new-partnership-to-help-drive-future-f1-regulations/10868916/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
@@ -157,18 +142,6 @@
         "Mercedes",
         "Cadillac"
       ],
-      "attributed_round": 18
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "George Russell confused by lack of pace at F1 US GP despite upgraded W17",
-      "summary": "George Russell is desperately searching for answers after \u201cnot being quick enough\u201d at the United States Grand Prix as team-mate Kimi Antonelli closes in on the Formula 1 world title.<br />Antonelli dominated Sunday\u2019s race at Austin from pole, whereas Russell started sixth but finished eighth, having received a five-second penalty for gaining an advantage by running off-track\u00a0on the opening ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/george-russell-confused-by-lack-of-pace-at-f1-us-gp-despite-upgraded-w17/10868418/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/george-russell-confused-by-lack-of-pace-at-f1-us-gp-despite-upgraded-w17/10868418/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-10-25T23:42:10Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [],
       "attributed_round": 18
     }
   ],
