@@ -1,11 +1,12 @@
 F1 Fantasy daily digest -- 2026 round 19
-Generated 2026-10-29 14:17 UTC
+Generated 2026-10-30 14:07 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 19 (FP1 R19 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
   - Inside COTA's Turn 1 clubhouse and its plans to build a second track (25 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Horner reveals Red Bull call to thank him for F1 engine project after maiden win [Red Bull] (22 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Who would replace Charles Leclerc at Ferrari if he misses a race for his baby’s birth? [Ferrari] (29 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Spotlight: Antonelli to miss Thursday’s media day in Mexico due to “viral illness” | Brief (29 Oct) -- https://www.racefans.net/feed/
 
 UPGRADE PACKAGES:
   - FIA announces new partnership to help drive future F1 regulations (28 Oct) -- https://www.autosport.com/rss/f1/news/
@@ -14,15 +15,14 @@ UPGRADE PACKAGES:
   - McLaren's aims for its final F1 2026 upgrades amid decline in form [McLaren] (23 Oct) -- https://www.autosport.com/rss/f1/news/
   - The reasons behind Ferrari's US GP upgrades [Ferrari] (23 Oct) -- https://www.autosport.com/rss/f1/news/
   - F1 United States GP: Leclerc beats Verstappen to top FP1 in upgraded Ferrari [Ferrari, Red Bull] (23 Oct) -- https://www.autosport.com/rss/f1/news/
-  - FIA partners with AWS to help drive future F1 regulations (28 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Kimi Antonelli extends F1 title lead with US GP win Mercedes didn’t expect [Mercedes] (27 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - "Two steps forward, one step back" – Oscar Piastri explains the route out of McLaren's car woes [McLaren] (30 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
+  - Sauber veteran Zehnder to leave Audi at end of 2026 [Audi] -- https://www.formula1.com/en/latest/all.xml
+  - Why F1 teams and manufacturers face more unknowns in Mexico than ever (30 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Alonso doubles down on poor F1 driving standards – and says those targeted know who they are [Aston Martin] (29 Oct) -- https://www.autosport.com/rss/f1/news/
   - F1 publishes first Social Impact Report; key student scholarship renewed (28 Oct) -- https://www.autosport.com/rss/f1/news/
   - The unusual Aston Martin, Honda and Red Bull Powertrains rumours put into perspective [Red Bull, Aston Martin] (28 Oct) -- https://www.autosport.com/rss/f1/news/
   - FIA announces new partnership to help drive future F1 regulations (28 Oct) -- https://www.autosport.com/rss/f1/news/
   - The role Friday practice played in Hamilton failing to achieve a podium at the US GP [Ferrari] (27 Oct) -- https://www.autosport.com/rss/f1/news/
   - Russell scrambling for answers after "not being quick enough" at US GP (25 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Leclerc and Hamilton's differing theories behind Ferrari's Austin qualifying disappointment [Ferrari] (24 Oct) -- https://www.autosport.com/rss/f1/news/
-  - F1 United States GP: Ferrari completes perfect practice record as Hamilton tops FP3 [Ferrari] (24 Oct) -- https://www.autosport.com/rss/f1/news/
-  - The unexpected issue Honda faced with upgraded F1 power unit [Aston Martin] (24 Oct) -- https://www.autosport.com/rss/f1/news/
