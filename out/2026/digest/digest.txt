@@ -1,28 +1,30 @@
 F1 Fantasy daily digest -- 2026 round 19
-Generated 2026-10-31 13:39 UTC
+Generated 2026-11-01 14:16 UTC
 
-Confirmed lineup changes: no qualifying or practice session data yet for round 19 (FP1 R19 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
+CONFIRMED LINEUP CHANGES (from session data, not rumour):
+  - OCO not entered this round (was Haas F1 Team)
+  -  newly entered, driving for Haas F1 Team
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
+  - Ocon denies physical altercation rumours in first statement since being dropped by Haas for Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Haas drops Ocon for F1 Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
   - Inside COTA's Turn 1 clubhouse and its plans to build a second track (25 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Ryo Hirakawa could have "easily" made Q2 in F1 Mexico GP without late traffic [Haas F1 Team] (31 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Esteban Ocon issues statement after Haas benching, denies physical altercation rumours [Haas F1 Team] (31 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Haas drops Esteban Ocon for F1 Mexico GP [Haas F1 Team] (31 Oct) -- https://www.motorsport.com/rss/f1/news/
   - George Russell tips Frederik Vesti for F1 2027 Cadillac seat [Mercedes, Cadillac] (31 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Spotlight: Antonelli to miss Thursday’s media day in Mexico due to “viral illness” | Brief (29 Oct) -- https://www.racefans.net/feed/
 
 UPGRADE PACKAGES:
   - FIA announces new partnership to help drive future F1 regulations (28 Oct) -- https://www.autosport.com/rss/f1/news/
   - Antonelli pole shows Mercedes is 'finally seeing the results' of car upgrades [Ferrari, Red Bull, Mercedes] (25 Oct) -- https://www.autosport.com/rss/f1/news/
-  - The unexpected issue Honda faced with upgraded F1 power unit [Aston Martin] (24 Oct) -- https://www.autosport.com/rss/f1/news/
-  - McLaren's aims for its final F1 2026 upgrades amid decline in form [McLaren] (23 Oct) -- https://www.autosport.com/rss/f1/news/
-  - The reasons behind Ferrari's US GP upgrades [Ferrari] (23 Oct) -- https://www.autosport.com/rss/f1/news/
-  - F1 United States GP: Leclerc beats Verstappen to top FP1 in upgraded Ferrari [Ferrari, Red Bull] (23 Oct) -- https://www.autosport.com/rss/f1/news/
-  - "Two steps forward, one step back" – Oscar Piastri explains the route out of McLaren's car woes [McLaren] (30 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Mercedes out of performance window at Mexico GP - George Russell [Red Bull, Mercedes] (31 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
-  - Verstappen and Lawson get grid drops after ‘clumsy’ clash [Red Bull, Racing Bulls] -- https://www.formula1.com/en/latest/all.xml
-  - What the teams said – Friday in Mexico City -- https://www.formula1.com/en/latest/all.xml
-  - How 10 F1 rookies got on during FP1 in Mexico City -- https://www.formula1.com/en/latest/all.xml
-  - Are Ferrari the favourites after Friday practice in Mexico City? [Ferrari] -- https://www.formula1.com/en/latest/all.xml
-  - Hamilton reflects on ‘really unfortunate’ Mexico FP2 stoppage -- https://www.formula1.com/en/latest/all.xml
-  - Verstappen reacts to Lawson FP2 incident in Mexico -- https://www.formula1.com/en/latest/all.xml
+  - Alonso's 'frustration is beyond imagination' after issues [Aston Martin] -- https://www.formula1.com/en/latest/all.xml
+  - 5 late-notice F1 debutants and how they fared -- https://www.formula1.com/en/latest/all.xml
+  - Lawson disqualified from F1 qualifying in Mexico – here's why [Racing Bulls] (01 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Verstappen clears the air with Lawson, but keeps opinion on Racing Bulls F1 seat to himself [Red Bull, Racing Bulls] (01 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Ocon denies physical altercation rumours in first statement since being dropped by Haas for Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
+  - F1 Mexico GP: Norris tops final practice by 0.001s from Antonelli (31 Oct) -- https://www.autosport.com/rss/f1/news/
+  - Haas drops Ocon for F1 Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
   - Stewards penalise Verstappen, Lawson after “unacceptable” F1 Mexico GP practice clash [Racing Bulls] (31 Oct) -- https://www.autosport.com/rss/f1/news/
-  - The confusion surrounding Colton Herta's F1 superlicence explained (30 Oct) -- https://www.autosport.com/rss/f1/news/
