@@ -1,30 +1,24 @@
 F1 Fantasy daily digest -- 2026 round 19
-Generated 2026-11-01 14:16 UTC
+Generated 2026-11-02 17:04 UTC
 
 CONFIRMED LINEUP CHANGES (from session data, not rumour):
   - OCO not entered this round (was Haas F1 Team)
-  -  newly entered, driving for Haas F1 Team
+  - HIR newly entered, driving for Haas F1 Team
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
   - Ocon denies physical altercation rumours in first statement since being dropped by Haas for Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
   - Haas drops Ocon for F1 Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Inside COTA's Turn 1 clubhouse and its plans to build a second track (25 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Ryo Hirakawa could have "easily" made Q2 in F1 Mexico GP without late traffic [Haas F1 Team] (31 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Esteban Ocon issues statement after Haas benching, denies physical altercation rumours [Haas F1 Team] (31 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - Haas drops Esteban Ocon for F1 Mexico GP [Haas F1 Team] (31 Oct) -- https://www.motorsport.com/rss/f1/news/
-  - George Russell tips Frederik Vesti for F1 2027 Cadillac seat [Mercedes, Cadillac] (31 Oct) -- https://www.motorsport.com/rss/f1/news/
+  - Hirakawa scores points on his F1 debut after both Alpine drivers are penalised | Formula 1 [Alpine] (02 Nov) -- https://www.racefans.net/feed/
 
 UPGRADE PACKAGES:
   - FIA announces new partnership to help drive future F1 regulations (28 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Antonelli pole shows Mercedes is 'finally seeing the results' of car upgrades [Ferrari, Red Bull, Mercedes] (25 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Mercedes out of performance window at Mexico GP - George Russell [Red Bull, Mercedes] (31 Oct) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
-  - Alonso's 'frustration is beyond imagination' after issues [Aston Martin] -- https://www.formula1.com/en/latest/all.xml
-  - 5 late-notice F1 debutants and how they fared -- https://www.formula1.com/en/latest/all.xml
+  - Bonnington names Antonelli’s top three races in title year -- https://www.formula1.com/en/latest/all.xml
+  - Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash [McLaren] (02 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP [Alpine, Haas F1 Team] (02 Nov) -- https://www.autosport.com/rss/f1/news/
+  - FIA stewards explain Leclerc’s five-second penalty in F1 Mexico GP [Ferrari] (01 Nov) -- https://www.autosport.com/rss/f1/news/
   - Lawson disqualified from F1 qualifying in Mexico – here's why [Racing Bulls] (01 Nov) -- https://www.autosport.com/rss/f1/news/
   - Verstappen clears the air with Lawson, but keeps opinion on Racing Bulls F1 seat to himself [Red Bull, Racing Bulls] (01 Nov) -- https://www.autosport.com/rss/f1/news/
   - Ocon denies physical altercation rumours in first statement since being dropped by Haas for Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
   - F1 Mexico GP: Norris tops final practice by 0.001s from Antonelli (31 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Haas drops Ocon for F1 Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Stewards penalise Verstappen, Lawson after “unacceptable” F1 Mexico GP practice clash [Racing Bulls] (31 Oct) -- https://www.autosport.com/rss/f1/news/
