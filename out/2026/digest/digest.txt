@@ -1,9 +1,7 @@
-F1 Fantasy daily digest -- 2026 round 19
-Generated 2026-11-02 17:04 UTC
+F1 Fantasy daily digest -- 2026 round 20
+Generated 2026-11-03 15:06 UTC
 
-CONFIRMED LINEUP CHANGES (from session data, not rumour):
-  - OCO not entered this round (was Haas F1 Team)
-  - HIR newly entered, driving for Haas F1 Team
+Confirmed lineup changes: no qualifying or practice session data yet for round 20 (FP1 R20 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
   - Ocon denies physical altercation rumours in first statement since being dropped by Haas for Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
@@ -14,7 +12,7 @@ UPGRADE PACKAGES:
   - FIA announces new partnership to help drive future F1 regulations (28 Oct) -- https://www.autosport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
-  - Bonnington names Antonelli’s top three races in title year -- https://www.formula1.com/en/latest/all.xml
+  - The reason behind Honda’s power unit lasting five laps in Mexico GP [Aston Martin] (03 Nov) -- https://www.autosport.com/rss/f1/news/
   - Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash [McLaren] (02 Nov) -- https://www.autosport.com/rss/f1/news/
   - Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP [Alpine, Haas F1 Team] (02 Nov) -- https://www.autosport.com/rss/f1/news/
   - FIA stewards explain Leclerc’s five-second penalty in F1 Mexico GP [Ferrari] (01 Nov) -- https://www.autosport.com/rss/f1/news/
