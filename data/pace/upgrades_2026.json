@@ -2,16 +2,46 @@
   "season": 2026,
   "mentions": [
     {
-      "source": "https://www.autosport.com/rss/f1/news/",
-      "title": "FIA announces new partnership to help drive future F1 regulations",
-      "summary": "The FIA has announced a wide-ranging partnership with Amazon Web Services as it aims to upgrade its digital capabilities.<br />AWS will join as its Official AI and Cloud Computing Partner, as the governing body will use AWS's suite of AI tools to improve its capability to produce future technical regulations.<br />The FIA also runs its aerodynamic simulations on AWS\u2019s High Performance Computing ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/fia-announces-new-partnership-to-help-drive-future-f1-regulations/10868916/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
-      "link": "https://www.autosport.com/f1/news/fia-announces-new-partnership-to-help-drive-future-f1-regulations/10868916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-10-28T08:00:03Z",
+      "source": "https://www.formula1.com/en/latest/all.xml",
+      "title": "How Mercedes got their front wing upgrade in the sweet spot",
+      "summary": "Mark Hughes and Giorgio Piola divulge how Mercedes managed to get their front wing upgrade to work from Austin onwards.",
+      "link": "https://www.formula1.com/en/latest/article/how-mercedes-got-their-temperamental-front-wing-upgrade-in-the-sweet-spot.1aj2enCvE05FHuszFII7yI",
+      "published_at": null,
       "matched_keywords": [
         "upgrade"
       ],
-      "constructors": [],
-      "attributed_round": 18
+      "constructors": [
+        "Mercedes"
+      ],
+      "attributed_round": null
+    },
+    {
+      "source": "https://www.autosport.com/rss/f1/news/",
+      "title": "McLaren to bring upgrades to Brazil GP with F1 2027 in mind",
+      "summary": "McLaren will introduce upgrades to its MCL40 Formula 1 car at this weekend\u2019s Brazil Grand Prix, featuring a front wing concept which is expected to feature on its 2027 challenger.<br />The team had surged to the front when it substantially updated the MCL40 in Hungary, with Lando Norris winning that race and the following one at Zandvoort, but it has since slipped back in the pecking order despite ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
+      "link": "https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-11-03T16:48:36Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "McLaren"
+      ],
+      "attributed_round": 19
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "McLaren to introduce 2027 F1 front wing at Brazil GP",
+      "summary": "McLaren will introduce upgrades to its MCL40 Formula 1 car at this weekend\u2019s Brazil Grand Prix, featuring a front wing concept which is expected to feature on its 2027 challenger.<br />The team had surged to the front when it substantially updated the MCL40 in Hungary, with Lando Norris winning that race and the following one at Zandvoort, but it has since slipped back in the pecking order despite ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mclaren-to-introduce-2027-f1-front-wing-at-brazil-gp/10871326/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/mclaren-to-introduce-2027-f1-front-wing-at-brazil-gp/10871326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-11-03T16:43:26Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "McLaren"
+      ],
+      "attributed_round": 19
     }
   ],
   "effects": []
