@@ -1,5 +1,5 @@
 F1 Fantasy daily digest -- 2026 round 20
-Generated 2026-11-04 15:25 UTC
+Generated 2026-11-05 15:27 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 20 (FP1 R20 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
@@ -9,10 +9,8 @@ LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
   - Haas drops Ocon for F1 Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
   - Why Daniel Ricciardo is staying away from the F1 paddock (04 Nov) -- https://www.motorsport.com/rss/f1/news/
   - Rafael Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas [Haas F1 Team] (03 Nov) -- https://www.motorsport.com/rss/f1/news/
-  - Hirakawa scores points on his F1 debut after both Alpine drivers are penalised | Formula 1 [Alpine] (02 Nov) -- https://www.racefans.net/feed/
 
 UPGRADE PACKAGES:
-  - How Mercedes got their front wing upgrade in the sweet spot [Mercedes] -- https://www.formula1.com/en/latest/all.xml
   - McLaren to bring upgrades to Brazil GP with F1 2027 in mind [McLaren] (03 Nov) -- https://www.autosport.com/rss/f1/news/
   - McLaren to introduce 2027 F1 front wing at Brazil GP [McLaren] (03 Nov) -- https://www.motorsport.com/rss/f1/news/
 
