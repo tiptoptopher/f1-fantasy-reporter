@@ -1,20 +1,21 @@
 F1 Fantasy daily digest -- 2026 round 20
-Generated 2026-11-05 15:27 UTC
+Generated 2026-11-06 15:02 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 20 (FP1 R20 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
+  - Which rookies are getting FP1 outings in Brazil? -- https://www.formula1.com/en/latest/all.xml
   - Ocon to skip the rest of F1 2026 with Camara to debut for Haas in Brazil [Haas F1 Team] (03 Nov) -- https://www.autosport.com/rss/f1/news/
   - Ocon denies physical altercation rumours in first statement since being dropped by Haas for Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
   - Haas drops Ocon for F1 Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Why Daniel Ricciardo is staying away from the F1 paddock (04 Nov) -- https://www.motorsport.com/rss/f1/news/
-  - Rafael Camara to debut in F1 Brazil GP as Esteban Ocon out at Haas [Haas F1 Team] (03 Nov) -- https://www.motorsport.com/rss/f1/news/
+  - Ferrari confirms Charles Leclerc's Brazilian GP schedule after birth of first child [Ferrari] (05 Nov) -- https://www.motorsport.com/rss/f1/news/
 
 UPGRADE PACKAGES:
+  - Norris wary of new McLaren upgrades in Sao Paulo [McLaren] -- https://www.formula1.com/en/latest/all.xml
   - McLaren to bring upgrades to Brazil GP with F1 2027 in mind [McLaren] (03 Nov) -- https://www.autosport.com/rss/f1/news/
-  - McLaren to introduce 2027 F1 front wing at Brazil GP [McLaren] (03 Nov) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
+  - Permane signs new Racing Bulls F1 deal [Red Bull, Alpine, Racing Bulls] (06 Nov) -- https://www.autosport.com/rss/f1/news/
   - Liverpool FC owners emerge as potential buyers of Cadillac F1 shares amid TWG uncertainty [Cadillac] (04 Nov) -- https://www.autosport.com/rss/f1/news/
   - Herta to contest FP1 for Cadillac in Brazil to obtain final superlicence point [Cadillac] (04 Nov) -- https://www.autosport.com/rss/f1/news/
   - The reason behind Honda’s power unit lasting five laps in Mexico GP [Aston Martin] (03 Nov) -- https://www.autosport.com/rss/f1/news/
@@ -22,4 +23,3 @@ PENALTIES / RELIABILITY:
   - Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP [Alpine, Haas F1 Team] (02 Nov) -- https://www.autosport.com/rss/f1/news/
   - FIA stewards explain Leclerc’s five-second penalty in F1 Mexico GP [Ferrari] (01 Nov) -- https://www.autosport.com/rss/f1/news/
   - Lawson disqualified from F1 qualifying in Mexico – here's why [Racing Bulls] (01 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Verstappen clears the air with Lawson, but keeps opinion on Racing Bulls F1 seat to himself [Red Bull, Racing Bulls] (01 Nov) -- https://www.autosport.com/rss/f1/news/

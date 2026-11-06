@@ -2,25 +2,25 @@
   "season": 2026,
   "mentions": [
     {
-      "source": "https://www.autosport.com/rss/f1/news/",
-      "title": "McLaren to bring upgrades to Brazil GP with F1 2027 in mind",
-      "summary": "McLaren will introduce upgrades to its MCL40 Formula 1 car at this weekend\u2019s Brazil Grand Prix, featuring a front wing concept which is expected to feature on its 2027 challenger.<br />The team had surged to the front when it substantially updated the MCL40 in Hungary, with Lando Norris winning that race and the following one at Zandvoort, but it has since slipped back in the pecking order despite ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
-      "link": "https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-11-03T16:48:36Z",
+      "source": "https://www.formula1.com/en/latest/all.xml",
+      "title": "Norris wary of new McLaren upgrades in Sao Paulo",
+      "summary": "McLaren will introduce new upgrades for the Sao Paulo Grand Prix this weekend, with Lando Norris stating he wants \"to believe that we can still make improvements\" to this year's car.",
+      "link": "https://www.formula1.com/en/latest/article/want-to-believe-that-we-can-still-make-improvements-norris-wary-of-new-mclaren-upgrades-in-sao-paulo.6NvdXqDIqBz1Mw1xveJv0k",
+      "published_at": null,
       "matched_keywords": [
         "upgrade"
       ],
       "constructors": [
         "McLaren"
       ],
-      "attributed_round": 19
+      "attributed_round": null
     },
     {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "McLaren to introduce 2027 F1 front wing at Brazil GP",
-      "summary": "McLaren will introduce upgrades to its MCL40 Formula 1 car at this weekend\u2019s Brazil Grand Prix, featuring a front wing concept which is expected to feature on its 2027 challenger.<br />The team had surged to the front when it substantially updated the MCL40 in Hungary, with Lando Norris winning that race and the following one at Zandvoort, but it has since slipped back in the pecking order despite ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mclaren-to-introduce-2027-f1-front-wing-at-brazil-gp/10871326/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/mclaren-to-introduce-2027-f1-front-wing-at-brazil-gp/10871326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-11-03T16:43:26Z",
+      "source": "https://www.autosport.com/rss/f1/news/",
+      "title": "McLaren to bring upgrades to Brazil GP with F1 2027 in mind",
+      "summary": "McLaren will introduce upgrades to its MCL40 Formula 1 car at this weekend\u2019s Brazil Grand Prix, featuring a front wing concept which is expected to feature on its 2027 challenger.<br />The team had surged to the front when it substantially updated the MCL40 in Hungary, with Lando Norris winning that race and the following one at Zandvoort, but it has since slipped back in the pecking order despite ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
+      "link": "https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-11-03T16:48:36Z",
       "matched_keywords": [
         "upgrade"
       ],
