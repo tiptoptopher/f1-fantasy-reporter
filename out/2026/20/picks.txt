@@ -2,26 +2,26 @@
 Autódromo José Carlos Pace, São Paulo
 
 📊 Top expected points:
-  RUS: 25.5 (p10 -2.0 / p90 45.0)
-  ANT: 25.2 (p10 -2.0 / p90 45.0)
-  LEC: 22.6 (p10 0.0 / p90 42.0)
-  HAM: 22.6 (p10 -2.0 / p90 42.0)
-  VER: 19.9 (p10 -9.0 / p90 40.0)
+  RUS: 26.0 (p10 2.0 / p90 46.0)
+  ANT: 24.9 (p10 -5.0 / p90 44.0)
+  LEC: 23.0 (p10 0.0 / p90 42.0)
+  HAM: 22.8 (p10 0.9 / p90 43.0)
+  VER: 19.6 (p10 -9.0 / p90 40.0)
 
-🏗️ Captain suggestion: RUS (EV 51.0)
+🏗️ Captain suggestion: RUS (EV 52.0)
 
 📈 Likely price risers:
   LEC: 100% (Δ+0.28M)
   VER: 100% (Δ+0.26M)
-  HAM: 92% (Δ+0.19M)
+  HAM: 93% (Δ+0.19M)
+  HUL: 87% (Δ+0.40M)
   ANT: 87% (Δ+0.12M)
-  HUL: 85% (Δ+0.37M)
 
 📉 Likely budget losers -- think twice before backing these:
   COL: 100% (Δ-0.60M)
   PIA: 100% (Δ-0.25M)
+  ALO: 99% (Δ-0.59M)
   RUS: 99% (Δ-0.20M)
-  ALO: 99% (Δ-0.58M)
-  LIN: 98% (Δ-0.55M)
+  TSU: 98% (Δ-0.56M)
 
-🧩 Optimal team: HUL, BOR, PER, HAD, ALB + Mercedes, Ferrari (162.6 pts, $99.6M)
+🧩 Optimal team: HUL, BOR, PER, HAD, ALB + Mercedes, Ferrari (161.9 pts, $99.6M)

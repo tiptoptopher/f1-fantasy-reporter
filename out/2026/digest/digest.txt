@@ -1,25 +1,27 @@
 F1 Fantasy daily digest -- 2026 round 20
-Generated 2026-11-06 15:02 UTC
+Generated 2026-11-07 14:00 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 20 (FP1 R20 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
-  - Which rookies are getting FP1 outings in Brazil? -- https://www.formula1.com/en/latest/all.xml
   - Ocon to skip the rest of F1 2026 with Camara to debut for Haas in Brazil [Haas F1 Team] (03 Nov) -- https://www.autosport.com/rss/f1/news/
   - Ocon denies physical altercation rumours in first statement since being dropped by Haas for Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
   - Haas drops Ocon for F1 Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Ferrari confirms Charles Leclerc's Brazilian GP schedule after birth of first child [Ferrari] (05 Nov) -- https://www.motorsport.com/rss/f1/news/
+  - Racing Bulls promises "right decision" as Liam Lawson's F1 future remains in doubt [Red Bull, Racing Bulls] (07 Nov) -- https://www.motorsport.com/rss/f1/news/
 
 UPGRADE PACKAGES:
-  - Norris wary of new McLaren upgrades in Sao Paulo [McLaren] -- https://www.formula1.com/en/latest/all.xml
+  - McLaren 'seemed to gain performance' with upgrades – Norris [McLaren] -- https://www.formula1.com/en/latest/all.xml
   - McLaren to bring upgrades to Brazil GP with F1 2027 in mind [McLaren] (03 Nov) -- https://www.autosport.com/rss/f1/news/
+  - McLaren’s upgrade is "a pleasant surprise" – but will it stay on the car in Brazil? [McLaren, Mercedes] (06 Nov) -- https://www.motorsport.com/rss/f1/news/
+  - "Unacceptable downshifts" – Max Verstappen explains what's behind a recurring F1 radio complaint [McLaren] (06 Nov) -- https://www.motorsport.com/rss/f1/news/
+  - Williams has not upgraded 2026 car to “save the cost cap dollars for next year” – Vowles | Formula 1 [Williams] (06 Nov) -- https://www.racefans.net/feed/
 
 PENALTIES / RELIABILITY:
-  - Permane signs new Racing Bulls F1 deal [Red Bull, Alpine, Racing Bulls] (06 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Liverpool FC owners emerge as potential buyers of Cadillac F1 shares amid TWG uncertainty [Cadillac] (04 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Herta to contest FP1 for Cadillac in Brazil to obtain final superlicence point [Cadillac] (04 Nov) -- https://www.autosport.com/rss/f1/news/
-  - The reason behind Honda’s power unit lasting five laps in Mexico GP [Aston Martin] (03 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Piastri out of F1 Mexico GP points after post-race penalty for Lindblad clash [McLaren] (02 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Gasly and Colapinto penalised post-race, Hirakawa scores on F1 debut at Mexico GP [Alpine, Haas F1 Team] (02 Nov) -- https://www.autosport.com/rss/f1/news/
-  - FIA stewards explain Leclerc’s five-second penalty in F1 Mexico GP [Ferrari] (01 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Lawson disqualified from F1 qualifying in Mexico – here's why [Racing Bulls] (01 Nov) -- https://www.autosport.com/rss/f1/news/
+  - What the teams said – Friday in Brazil -- https://www.formula1.com/en/latest/all.xml
+  - Ferrari have 'plenty to work on' in Brazil – Leclerc [Ferrari] -- https://www.formula1.com/en/latest/all.xml
+  - McLaren 'seemed to gain performance' with upgrades – Norris [McLaren] -- https://www.formula1.com/en/latest/all.xml
+  - Ocon axing ‘surprised everybody at Haas’ [Haas F1 Team] (07 Nov) -- https://www.autosport.com/rss/f1/news/
+  - F1 Brazilian GP: Antonelli quickest in tricky FP2 (06 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks [Ferrari] (06 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Herta qualifies for F1 superlicence as Bottas remains bullish on 2027 seat [Cadillac] (06 Nov) -- https://www.autosport.com/rss/f1/news/
+  - F1 Brazilian GP: Norris fastest in opening practice from new champion Antonelli (06 Nov) -- https://www.autosport.com/rss/f1/news/
