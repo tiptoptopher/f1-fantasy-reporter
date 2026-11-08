@@ -1,27 +1,28 @@
 F1 Fantasy daily digest -- 2026 round 20
-Generated 2026-11-07 14:00 UTC
+Generated 2026-11-08 14:17 UTC
 
-Confirmed lineup changes: no qualifying or practice session data yet for round 20 (FP1 R20 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
+CONFIRMED LINEUP CHANGES (from session data, not rumour):
+  - HIR not entered this round (was Haas F1 Team)
+  -  newly entered, driving for Haas F1 Team
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
+  - Russell rues ‘misjudgement’ that cost him Sao Paulo pole -- https://www.formula1.com/en/latest/all.xml
   - Ocon to skip the rest of F1 2026 with Camara to debut for Haas in Brazil [Haas F1 Team] (03 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Ocon denies physical altercation rumours in first statement since being dropped by Haas for Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
-  - Haas drops Ocon for F1 Mexico GP [Haas F1 Team] (31 Oct) -- https://www.autosport.com/rss/f1/news/
   - Racing Bulls promises "right decision" as Liam Lawson's F1 future remains in doubt [Red Bull, Racing Bulls] (07 Nov) -- https://www.motorsport.com/rss/f1/news/
 
 UPGRADE PACKAGES:
-  - McLaren 'seemed to gain performance' with upgrades – Norris [McLaren] -- https://www.formula1.com/en/latest/all.xml
   - McLaren to bring upgrades to Brazil GP with F1 2027 in mind [McLaren] (03 Nov) -- https://www.autosport.com/rss/f1/news/
+  - McLaren’s 2027-spec front wing is making its F1 car more predictable [McLaren, Mercedes] (08 Nov) -- https://www.motorsport.com/rss/f1/news/
   - McLaren’s upgrade is "a pleasant surprise" – but will it stay on the car in Brazil? [McLaren, Mercedes] (06 Nov) -- https://www.motorsport.com/rss/f1/news/
   - "Unacceptable downshifts" – Max Verstappen explains what's behind a recurring F1 radio complaint [McLaren] (06 Nov) -- https://www.motorsport.com/rss/f1/news/
   - Williams has not upgraded 2026 car to “save the cost cap dollars for next year” – Vowles | Formula 1 [Williams] (06 Nov) -- https://www.racefans.net/feed/
 
 PENALTIES / RELIABILITY:
-  - What the teams said – Friday in Brazil -- https://www.formula1.com/en/latest/all.xml
-  - Ferrari have 'plenty to work on' in Brazil – Leclerc [Ferrari] -- https://www.formula1.com/en/latest/all.xml
-  - McLaren 'seemed to gain performance' with upgrades – Norris [McLaren] -- https://www.formula1.com/en/latest/all.xml
+  - Why Russell was so angry in Brazilian GP qualifying despite already having a grid penalty (07 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Hamilton set for new penalty, will start F1 Brazilian GP from back of grid [Ferrari] (07 Nov) -- https://www.autosport.com/rss/f1/news/
+  - F1 Brazilian GP: Verstappen edges out Antonelli to top FP3 as Hamilton hits mechanical trouble [Ferrari, Audi] (07 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Hamilton, Leclerc and Verstappen hit with F1 grid penalties for Brazilian GP [Ferrari] (07 Nov) -- https://www.autosport.com/rss/f1/news/
   - Ocon axing ‘surprised everybody at Haas’ [Haas F1 Team] (07 Nov) -- https://www.autosport.com/rss/f1/news/
   - F1 Brazilian GP: Antonelli quickest in tricky FP2 (06 Nov) -- https://www.autosport.com/rss/f1/news/
   - Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks [Ferrari] (06 Nov) -- https://www.autosport.com/rss/f1/news/
   - Herta qualifies for F1 superlicence as Bottas remains bullish on 2027 seat [Cadillac] (06 Nov) -- https://www.autosport.com/rss/f1/news/
-  - F1 Brazilian GP: Norris fastest in opening practice from new champion Antonelli (06 Nov) -- https://www.autosport.com/rss/f1/news/

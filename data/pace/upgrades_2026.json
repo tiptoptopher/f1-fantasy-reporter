@@ -2,20 +2,6 @@
   "season": 2026,
   "mentions": [
     {
-      "source": "https://www.formula1.com/en/latest/all.xml",
-      "title": "McLaren 'seemed to gain performance' with upgrades \u2013\u00a0Norris",
-      "summary": "Lando Norris believes that McLaren \"seemed to gain performance\" during Friday practice ahead of the Sao Paulo Grand Prix, with the team having brought several upgrades this weekend.",
-      "link": "https://www.formula1.com/en/latest/article/we-seemed-to-gain-performance-norris-offers-update-on-mclarens-upgrades-in-sao-paulo.6fULeVhwADSsEp722opGBk",
-      "published_at": null,
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "McLaren"
-      ],
-      "attributed_round": null
-    },
-    {
       "source": "https://www.autosport.com/rss/f1/news/",
       "title": "McLaren to bring upgrades to Brazil GP with F1 2027 in mind",
       "summary": "McLaren will introduce upgrades to its MCL40 Formula 1 car at this weekend\u2019s Brazil Grand Prix, featuring a front wing concept which is expected to feature on its 2027 challenger.<br />The team had surged to the front when it substantially updated the MCL40 in Hungary, with Lando Norris winning that race and the following one at Zandvoort, but it has since slipped back in the pecking order despite ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
@@ -28,6 +14,23 @@
         "McLaren"
       ],
       "attributed_round": 19
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "McLaren\u2019s 2027-spec front wing is making its F1 car more predictable",
+      "summary": "McLaren team principal Andrea Stella says the 2027-spec front wing concept introduced on the MCL40 at Formula 1\u2019s Brazilian Grand Prix has improved the car\u2019s driveability and predictability.<br />The Woking-based outfit launched an upgrade package at Interlagos - featuring not just this front wing but also a rear wing, a beam wing and new floor furniture - after McLaren lost ground to Mercedes ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mclarens-2027-spec-front-wing-is-making-its-f1-car-more-predictable/10872891/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/mclarens-2027-spec-front-wing-is-making-its-f1-car-more-predictable/10872891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-11-08T12:07:45Z",
+      "matched_keywords": [
+        "upgrade",
+        "upgrade package",
+        "new floor"
+      ],
+      "constructors": [
+        "McLaren",
+        "Mercedes"
+      ],
+      "attributed_round": 20
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
