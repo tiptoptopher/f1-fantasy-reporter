@@ -1,0 +1,27 @@
+🏁 *Race picks* -- Las Vegas Grand Prix
+Las Vegas Strip Street Circuit, Las Vegas
+
+📊 Top expected points:
+  RUS: 26.2 (p10 2.0 / p90 46.0)
+  ANT: 25.0 (p10 -2.0 / p90 45.0)
+  LEC: 22.8 (p10 0.0 / p90 43.0)
+  HAM: 22.1 (p10 -5.0 / p90 42.0)
+  VER: 20.6 (p10 -7.0 / p90 41.0)
+
+🏗️ Captain suggestion: RUS (EV 52.4)
+
+📈 Likely price risers:
+  VER: 100% (Δ+0.28M)
+  LEC: 98% (Δ+0.23M)
+  BOR: 88% (Δ+0.44M)
+  HAM: 87% (Δ+0.13M)
+  HAD: 82% (Δ+0.28M)
+
+📉 Likely budget losers -- think twice before backing these:
+  BEA: 100% (Δ-0.59M)
+  ALO: 100% (Δ-0.60M)
+  TSU: 98% (Δ-0.56M)
+  OCO: 97% (Δ-0.53M)
+  COL: 97% (Δ-0.54M)
+
+🧩 Optimal team: COL, BOR, PER, HAD, ALB + Mercedes, Ferrari (164.7 pts, $99.3M)

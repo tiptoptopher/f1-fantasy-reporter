@@ -31,51 +31,29 @@
         "Mercedes"
       ],
       "attributed_round": 20
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "McLaren\u2019s upgrade is \"a pleasant surprise\" \u2013 but will it stay on the car in Brazil?",
-      "summary": "After one of the most turbulent world championship defences since Jenson Button in 2010, Lando Norris gave McLaren\u2019s latest batch of car upgrades a cautious thumbs-up on the Friday of the Sao Paulo GP. Norris topped the first practice session, edging out Mercedes\u2019 Kimi Antonelli by 0.082s, and was among the quickest in terms of average pace on his long runs through FP2.<br />\"Certainly FP1 was a ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mclarens-upgrade-is-a-pleasant-surprise-but-will-it-stay-on-the-car-in-brazil/10872338/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/mclarens-upgrade-is-a-pleasant-surprise-but-will-it-stay-on-the-car-in-brazil/10872338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-11-06T21:49:40Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "McLaren",
-        "Mercedes"
-      ],
-      "attributed_round": 20
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "\"Unacceptable downshifts\" \u2013 Max Verstappen explains what's behind a recurring F1 radio complaint",
-      "summary": "Verstappen finished the opening practice session of the Formula 1 weekend in Sao Paulo in third place, just over two tenths behind fastest man Lando Norris in the upgraded McLaren, which features a new front wing that serves as the baseline for 2027.<br />Although the start looked promising in terms of outright pace, Verstappen was not entirely satisfied with the feeling in his RB22 on Friday ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/unacceptable-downshifts-max-verstappen-explains-whats-behind-a-recurring-f1-radio-complaint/10872196/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/unacceptable-downshifts-max-verstappen-explains-whats-behind-a-recurring-f1-radio-complaint/10872196/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-11-06T17:26:25Z",
-      "matched_keywords": [
-        "upgrade",
-        "new front wing"
-      ],
-      "constructors": [
-        "McLaren"
-      ],
-      "attributed_round": 20
-    },
-    {
-      "source": "https://www.racefans.net/feed/",
-      "title": "Williams has not upgraded 2026 car to \u201csave the cost cap dollars for next year\u201d \u2013 Vowles | Formula 1",
-      "summary": "Williams team principal James Vowles says the decision not to bring further upgrades for its car was \"horribly painful\".",
-      "link": "https://www.racefans.net/2026/11/06/williams-has-not-upgraded-2026-car-to-save-the-cost-cap-dollars-for-next-year-vowles/",
-      "published_at": "2026-11-06T17:30:57Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [
-        "Williams"
-      ],
-      "attributed_round": 20
     }
   ],
-  "effects": []
+  "effects": [
+    {
+      "constructor": "McLaren",
+      "upgrade_round": 19,
+      "before_rounds": [
+        18,
+        17,
+        16
+      ],
+      "after_rounds": [
+        20
+      ],
+      "constructor_before_mean": 0.5966878169541308,
+      "constructor_after_mean": null,
+      "field_before_mean": 1.6926675325106249,
+      "field_after_mean": null,
+      "constructor_delta": null,
+      "field_delta": null,
+      "relative_delta": null,
+      "n_before": 3,
+      "n_after": 1
+    }
+  ]
 }
