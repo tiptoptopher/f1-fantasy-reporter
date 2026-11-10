@@ -3,6 +3,18 @@
   "mentions": [
     {
       "source": "https://www.autosport.com/rss/f1/news/",
+      "title": "FIA reveals ADUO results in final review of 2026 F1 season",
+      "summary": "The FIA has announced its final Additional Development and Upgrade Opportunities (ADUO) results for the 2026 Formula 1 season, with no changes granted for any of the power unit manufacturers.<br />From this season, the FIA installed a mechanism in the F1 regulations which allowed power unit manufacturers the ability to make updates, if they fell behind the leading engine, in the form of tokens ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/fia-reveals-aduo-results-in-final-review-of-2026-f1-season/10873566/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
+      "link": "https://www.autosport.com/f1/news/fia-reveals-aduo-results-in-final-review-of-2026-f1-season/10873566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-11-10T11:45:39Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [],
+      "attributed_round": 20
+    },
+    {
+      "source": "https://www.autosport.com/rss/f1/news/",
       "title": "McLaren to bring upgrades to Brazil GP with F1 2027 in mind",
       "summary": "McLaren will introduce upgrades to its MCL40 Formula 1 car at this weekend\u2019s Brazil Grand Prix, featuring a front wing concept which is expected to feature on its 2027 challenger.<br />The team had surged to the front when it substantially updated the MCL40 in Hungary, with Lando Norris winning that race and the following one at Zandvoort, but it has since slipped back in the pecking order despite ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
       "link": "https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -14,6 +26,18 @@
         "McLaren"
       ],
       "attributed_round": 19
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "FIA reveals latest ADUO results in final review of 2026 F1 season",
+      "summary": "The FIA has announced its final Additional Development and Upgrade Opportunities (ADUO) results for the 2026 Formula 1 season, with no changes granted for any of the power unit manufacturers.<br />From this season, the FIA installed a mechanism in the F1 regulations which allowed power unit manufacturers the ability to make updates, if they fell behind the leading engine, in the form of tokens ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/fia-reveals-latest-aduo-results-in-final-review-of-2026-f1-season/10873562/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/fia-reveals-latest-aduo-results-in-final-review-of-2026-f1-season/10873562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-11-10T11:42:46Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [],
+      "attributed_round": 20
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
@@ -31,6 +55,18 @@
         "Mercedes"
       ],
       "attributed_round": 20
+    },
+    {
+      "source": "https://www.racefans.net/feed/",
+      "title": "No F1 engine manufacturers to get extra upgrades after FIA\u2019s third ADUO evaluation | Formula 1",
+      "summary": "The FIA's single-seater director Nikolas Tombazis defended F1's ADUO rules but indicated they may be revised in coming seasons.",
+      "link": "https://www.racefans.net/2026/11/10/no-f1-engine-manufacturers-to-get-extra-upgrades-after-fias-third-aduo-evaluation/",
+      "published_at": "2026-11-10T11:20:33Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [],
+      "attributed_round": 20
     }
   ],
   "effects": [
@@ -46,12 +82,12 @@
         20
       ],
       "constructor_before_mean": 0.5966878169541308,
-      "constructor_after_mean": null,
+      "constructor_after_mean": 2.5067727246527114,
       "field_before_mean": 1.6926675325106249,
-      "field_after_mean": null,
-      "constructor_delta": null,
-      "field_delta": null,
-      "relative_delta": null,
+      "field_after_mean": 4.643757303276578,
+      "constructor_delta": 1.9100849076985806,
+      "field_delta": 2.951089770765953,
+      "relative_delta": -1.0410048630673723,
       "n_before": 3,
       "n_after": 1
     }

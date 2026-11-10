@@ -1,22 +1,26 @@
 F1 Fantasy daily digest -- 2026 round 21
-Generated 2026-11-09 17:28 UTC
+Generated 2026-11-10 15:36 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 21 (FP1 R21 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
   - Ocon to skip the rest of F1 2026 with Camara to debut for Haas in Brazil [Haas F1 Team] (03 Nov) -- https://www.autosport.com/rss/f1/news/
+  - George Russell teases imminent karting announcement as F1 fans spot major clue [Mercedes] (09 Nov) -- https://www.motorsport.com/rss/f1/news/
   - Social Media: No hand injury after breaking another champagne bottle, says Norris | Brief (08 Nov) -- https://www.racefans.net/feed/
 
 UPGRADE PACKAGES:
+  - FIA reveals ADUO results in final review of 2026 F1 season (10 Nov) -- https://www.autosport.com/rss/f1/news/
   - McLaren to bring upgrades to Brazil GP with F1 2027 in mind [McLaren] (03 Nov) -- https://www.autosport.com/rss/f1/news/
+  - FIA reveals latest ADUO results in final review of 2026 F1 season (10 Nov) -- https://www.motorsport.com/rss/f1/news/
   - McLaren’s 2027-spec front wing is making its F1 car more predictable [McLaren, Mercedes] (08 Nov) -- https://www.motorsport.com/rss/f1/news/
+  - No F1 engine manufacturers to get extra upgrades after FIA’s third ADUO evaluation | Formula 1 (10 Nov) -- https://www.racefans.net/feed/
 
 PENALTIES / RELIABILITY:
+  - P10 in Sao Paulo GP 'the maximum possible' – Hulkenberg [Audi] -- https://www.formula1.com/en/latest/all.xml
+  - FIA reveals ADUO results in final review of 2026 F1 season (10 Nov) -- https://www.autosport.com/rss/f1/news/
   - Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP [Ferrari, Racing Bulls] (08 Nov) -- https://www.autosport.com/rss/f1/news/
   - Why Russell was so angry in Brazilian GP qualifying despite already having a grid penalty (07 Nov) -- https://www.autosport.com/rss/f1/news/
   - Hamilton set for new penalty, will start F1 Brazilian GP from back of grid [Ferrari] (07 Nov) -- https://www.autosport.com/rss/f1/news/
   - F1 Brazilian GP: Verstappen edges out Antonelli to top FP3 as Hamilton hits mechanical trouble [Ferrari, Audi] (07 Nov) -- https://www.autosport.com/rss/f1/news/
   - Hamilton, Leclerc and Verstappen hit with F1 grid penalties for Brazilian GP [Ferrari] (07 Nov) -- https://www.autosport.com/rss/f1/news/
   - Ocon axing ‘surprised everybody at Haas’ [Haas F1 Team] (07 Nov) -- https://www.autosport.com/rss/f1/news/
-  - F1 Brazilian GP: Antonelli quickest in tricky FP2 (06 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Vasseur issues reminder to Hamilton and Leclerc in post-Mexico Ferrari talks [Ferrari] (06 Nov) -- https://www.autosport.com/rss/f1/news/
