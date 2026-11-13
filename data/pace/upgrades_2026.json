@@ -14,18 +14,19 @@
       "attributed_round": 20
     },
     {
-      "source": "https://www.autosport.com/rss/f1/news/",
-      "title": "McLaren to bring upgrades to Brazil GP with F1 2027 in mind",
-      "summary": "McLaren will introduce upgrades to its MCL40 Formula 1 car at this weekend\u2019s Brazil Grand Prix, featuring a front wing concept which is expected to feature on its 2027 challenger.<br />The team had surged to the front when it substantially updated the MCL40 in Hungary, with Lando Norris winning that race and the following one at Zandvoort, but it has since slipped back in the pecking order despite ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
-      "link": "https://www.autosport.com/f1/news/mclaren-to-bring-upgrades-to-brazil-gp-with-f1-2027-in-mind/10871328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-      "published_at": "2026-11-03T16:48:36Z",
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "\"It's horribly painful\" - Williams drops 2026 car upgrades to benefit 2027",
+      "summary": "Williams F1 team boss James\u00a0Vowles says it was \"horribly painful\" for the squad to forego 2026 aero upgrades and save the resources for 2027 instead.<br />Williams has been forced into playing the long game for some time now, but was hoping its progress behind the scenes in 2025 would carry over into the new regulations. Instead, Williams faced a huge wake-up call as the huge workload required to ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/horribly-painful-williams-2026-car-upgrades-benefit-2027/10874290/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/horribly-painful-williams-2026-car-upgrades-benefit-2027/10874290/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-11-13T12:15:32Z",
       "matched_keywords": [
-        "upgrade"
+        "upgrade",
+        "aero upgrade"
       ],
       "constructors": [
-        "McLaren"
+        "Williams"
       ],
-      "attributed_round": 19
+      "attributed_round": 20
     },
     {
       "source": "https://www.motorsport.com/rss/f1/news/",
@@ -52,27 +53,5 @@
       "attributed_round": 20
     }
   ],
-  "effects": [
-    {
-      "constructor": "McLaren",
-      "upgrade_round": 19,
-      "before_rounds": [
-        18,
-        17,
-        16
-      ],
-      "after_rounds": [
-        20
-      ],
-      "constructor_before_mean": 0.5966878169541308,
-      "constructor_after_mean": 2.5067727246527114,
-      "field_before_mean": 1.6926675325106249,
-      "field_after_mean": 4.643757303276578,
-      "constructor_delta": 1.9100849076985806,
-      "field_delta": 2.951089770765953,
-      "relative_delta": -1.0410048630673723,
-      "n_before": 3,
-      "n_after": 1
-    }
-  ]
+  "effects": []
 }

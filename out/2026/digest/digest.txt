@@ -1,5 +1,5 @@
 F1 Fantasy daily digest -- 2026 round 21
-Generated 2026-11-12 15:58 UTC
+Generated 2026-11-13 15:23 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 21 (FP1 R21 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
@@ -8,13 +8,11 @@ LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
   - Tsolov lands reserve driver role for F1 2027 [Red Bull, Racing Bulls] (12 Nov) -- https://www.autosport.com/rss/f1/news/
   - Ocon to skip the rest of F1 2026 with Camara to debut for Haas in Brazil [Haas F1 Team] (03 Nov) -- https://www.autosport.com/rss/f1/news/
   - Tsolov named Red Bull, Racing Bulls reserve driver after missing out on 2027 F1 race seat [Red Bull, Racing Bulls] (12 Nov) -- https://www.motorsport.com/rss/f1/news/
-  - George Russell teases imminent karting announcement as F1 fans spot major clue [Mercedes] (09 Nov) -- https://www.motorsport.com/rss/f1/news/
   - Racing Bulls keep Lawson and Lindblad as Tsolov gets Red Bull reserve role | Formula 1 [Red Bull, Racing Bulls] (12 Nov) -- https://www.racefans.net/feed/
-  - Social Media: No hand injury after breaking another champagne bottle, says Norris | Brief (08 Nov) -- https://www.racefans.net/feed/
 
 UPGRADE PACKAGES:
   - FIA reveals ADUO results in final review of 2026 F1 season (10 Nov) -- https://www.autosport.com/rss/f1/news/
-  - McLaren to bring upgrades to Brazil GP with F1 2027 in mind [McLaren] (03 Nov) -- https://www.autosport.com/rss/f1/news/
+  - "It's horribly painful" - Williams drops 2026 car upgrades to benefit 2027 [Williams] (13 Nov) -- https://www.motorsport.com/rss/f1/news/
   - FIA reveals latest ADUO results in final review of 2026 F1 season (10 Nov) -- https://www.motorsport.com/rss/f1/news/
   - No F1 engine manufacturers to get extra upgrades after FIA’s third ADUO evaluation | Formula 1 (10 Nov) -- https://www.racefans.net/feed/
 
