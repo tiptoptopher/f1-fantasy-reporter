@@ -1,22 +1,22 @@
 F1 Fantasy daily digest -- 2026 round 21
-Generated 2026-11-13 15:23 UTC
+Generated 2026-11-14 14:08 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 21 (FP1 R21 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
-  - Tsolov to serve as Red Bull and Racing Bulls reserve driver [Red Bull, Racing Bulls] -- https://www.formula1.com/en/latest/all.xml
   - Tsolov lands reserve driver role for F1 2027 [Red Bull, Racing Bulls] (12 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Ocon to skip the rest of F1 2026 with Camara to debut for Haas in Brazil [Haas F1 Team] (03 Nov) -- https://www.autosport.com/rss/f1/news/
   - Tsolov named Red Bull, Racing Bulls reserve driver after missing out on 2027 F1 race seat [Red Bull, Racing Bulls] (12 Nov) -- https://www.motorsport.com/rss/f1/news/
   - Racing Bulls keep Lawson and Lindblad as Tsolov gets Red Bull reserve role | Formula 1 [Red Bull, Racing Bulls] (12 Nov) -- https://www.racefans.net/feed/
 
 UPGRADE PACKAGES:
+  - McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas [McLaren] (14 Nov) -- https://www.autosport.com/rss/f1/news/
   - FIA reveals ADUO results in final review of 2026 F1 season (10 Nov) -- https://www.autosport.com/rss/f1/news/
+  - McLaren to upgrade MCL40 car at its bogey F1 track Las Vegas [McLaren] (14 Nov) -- https://www.motorsport.com/rss/f1/news/
   - "It's horribly painful" - Williams drops 2026 car upgrades to benefit 2027 [Williams] (13 Nov) -- https://www.motorsport.com/rss/f1/news/
-  - FIA reveals latest ADUO results in final review of 2026 F1 season (10 Nov) -- https://www.motorsport.com/rss/f1/news/
   - No F1 engine manufacturers to get extra upgrades after FIA’s third ADUO evaluation | Formula 1 (10 Nov) -- https://www.racefans.net/feed/
 
 PENALTIES / RELIABILITY:
+  - The surprising convergence behind F1's increasingly competitive 2026 season [Mercedes] (13 Nov) -- https://www.autosport.com/rss/f1/news/
   - FIA reveals ADUO results in final review of 2026 F1 season (10 Nov) -- https://www.autosport.com/rss/f1/news/
   - Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP [Ferrari, Racing Bulls] (08 Nov) -- https://www.autosport.com/rss/f1/news/
   - Why Russell was so angry in Brazilian GP qualifying despite already having a grid penalty (07 Nov) -- https://www.autosport.com/rss/f1/news/
@@ -24,4 +24,3 @@ PENALTIES / RELIABILITY:
   - F1 Brazilian GP: Verstappen edges out Antonelli to top FP3 as Hamilton hits mechanical trouble [Ferrari, Audi] (07 Nov) -- https://www.autosport.com/rss/f1/news/
   - Hamilton, Leclerc and Verstappen hit with F1 grid penalties for Brazilian GP [Ferrari] (07 Nov) -- https://www.autosport.com/rss/f1/news/
   - Ocon axing ‘surprised everybody at Haas’ [Haas F1 Team] (07 Nov) -- https://www.autosport.com/rss/f1/news/
-  - F1 Brazilian GP: Antonelli quickest in tricky FP2 (06 Nov) -- https://www.autosport.com/rss/f1/news/

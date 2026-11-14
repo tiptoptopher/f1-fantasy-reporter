@@ -3,6 +3,20 @@
   "mentions": [
     {
       "source": "https://www.autosport.com/rss/f1/news/",
+      "title": "McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas",
+      "summary": "McLaren will introduce upgrades to its MCL40 at Formula 1\u2019s Las Vegas Grand Prix, with the new parts labelled as \u201cthe foundation for next year\u2019s car\u201d.<br />The team launched its 2027 front wing concept in Brazil, with team principal Andrea Stella describing it as an improvement for driveability and predictability; McLaren returned to form at Interlagos, with Lando Norris clinching pole ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/mclaren-to-upgrade-mcl40-f1-car-at-its-bogey-track-las-vegas/10874450/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
+      "link": "https://www.autosport.com/f1/news/mclaren-to-upgrade-mcl40-f1-car-at-its-bogey-track-las-vegas/10874450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+      "published_at": "2026-11-14T09:13:34Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "McLaren"
+      ],
+      "attributed_round": 20
+    },
+    {
+      "source": "https://www.autosport.com/rss/f1/news/",
       "title": "FIA reveals ADUO results in final review of 2026 F1 season",
       "summary": "The FIA has announced its final Additional Development and Upgrade Opportunities (ADUO) results for the 2026 Formula 1 season, with no changes granted for any of the power unit manufacturers.<br />From this season, the FIA installed a mechanism in the F1 regulations which allowed power unit manufacturers the ability to make updates, if they fell behind the leading engine, in the form of tokens ...<a class=\"more\" href=\"https://www.autosport.com/f1/news/fia-reveals-aduo-results-in-final-review-of-2026-f1-season/10873566/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=uk\">Keep reading</a>",
       "link": "https://www.autosport.com/f1/news/fia-reveals-aduo-results-in-final-review-of-2026-f1-season/10873566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
@@ -11,6 +25,20 @@
         "upgrade"
       ],
       "constructors": [],
+      "attributed_round": 20
+    },
+    {
+      "source": "https://www.motorsport.com/rss/f1/news/",
+      "title": "McLaren to upgrade MCL40 car at its bogey F1 track Las Vegas",
+      "summary": "McLaren will introduce upgrades to its MCL40 at Formula 1\u2019s Las Vegas Grand Prix, with the new parts labelled as \u201cthe foundation for next year\u2019s car\u201d.<br />The team launched its 2027 front wing concept in Brazil, with team principal Andrea Stella describing it as an improvement for driveability and predictability; McLaren returned to form at Interlagos, with Lando Norris clinching pole ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/mclaren-to-upgrade-mcl40-car-at-its-bogey-f1-track-las-vegas/10874307/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
+      "link": "https://www.motorsport.com/f1/news/mclaren-to-upgrade-mcl40-car-at-its-bogey-f1-track-las-vegas/10874307/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+      "published_at": "2026-11-14T09:09:51Z",
+      "matched_keywords": [
+        "upgrade"
+      ],
+      "constructors": [
+        "McLaren"
+      ],
       "attributed_round": 20
     },
     {
@@ -26,18 +54,6 @@
       "constructors": [
         "Williams"
       ],
-      "attributed_round": 20
-    },
-    {
-      "source": "https://www.motorsport.com/rss/f1/news/",
-      "title": "FIA reveals latest ADUO results in final review of 2026 F1 season",
-      "summary": "The FIA has announced its final Additional Development and Upgrade Opportunities (ADUO) results for the 2026 Formula 1 season, with no changes granted for any of the power unit manufacturers.<br />From this season, the FIA installed a mechanism in the F1 regulations which allowed power unit manufacturers the ability to make updates, if they fell behind the leading engine, in the form of tokens ...<a class=\"more\" href=\"https://www.motorsport.com/f1/news/fia-reveals-latest-aduo-results-in-final-review-of-2026-f1-season/10873562/?utm_source=RSS&amp;utm_medium=referral&amp;utm_campaign=RSS-F1&amp;utm_term=News&amp;utm_content=www\">Keep reading</a>",
-      "link": "https://www.motorsport.com/f1/news/fia-reveals-latest-aduo-results-in-final-review-of-2026-f1-season/10873562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-      "published_at": "2026-11-10T11:42:46Z",
-      "matched_keywords": [
-        "upgrade"
-      ],
-      "constructors": [],
       "attributed_round": 20
     },
     {
