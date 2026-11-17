@@ -1,10 +1,11 @@
 F1 Fantasy daily digest -- 2026 round 21
-Generated 2026-11-16 17:00 UTC
+Generated 2026-11-17 16:53 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 21 (FP1 R21 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
   - Tsolov lands reserve driver role for F1 2027 [Red Bull, Racing Bulls] (12 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Williams, Aston Martin among new F1 liveries for Las Vegas GP as Acura "replaces" Honda [Mercedes, Aston Martin, Williams] (16 Nov) -- https://www.motorsport.com/rss/f1/news/
   - Christian Horner blames Red Bull leadership structure for missing F1’s future stars [Red Bull] (15 Nov) -- https://www.motorsport.com/rss/f1/news/
   - Racing Bulls keep Lawson and Lindblad as Tsolov gets Red Bull reserve role | Formula 1 [Red Bull, Racing Bulls] (12 Nov) -- https://www.racefans.net/feed/
 
@@ -12,7 +13,6 @@ UPGRADE PACKAGES:
   - McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas [McLaren] (14 Nov) -- https://www.autosport.com/rss/f1/news/
   - FIA reveals ADUO results in final review of 2026 F1 season (10 Nov) -- https://www.autosport.com/rss/f1/news/
   - McLaren to upgrade MCL40 car at its bogey F1 track Las Vegas [McLaren] (14 Nov) -- https://www.motorsport.com/rss/f1/news/
-  - "It's horribly painful" - Williams drops 2026 car upgrades to benefit 2027 [Williams] (13 Nov) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
   - Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1 [Haas F1 Team] (16 Nov) -- https://www.autosport.com/rss/f1/news/
