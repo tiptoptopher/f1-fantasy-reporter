@@ -1,5 +1,5 @@
 F1 Fantasy daily digest -- 2026 round 21
-Generated 2026-11-17 16:53 UTC
+Generated 2026-11-18 16:26 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 21 (FP1 R21 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
@@ -10,16 +10,16 @@ LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
   - Racing Bulls keep Lawson and Lindblad as Tsolov gets Red Bull reserve role | Formula 1 [Red Bull, Racing Bulls] (12 Nov) -- https://www.racefans.net/feed/
 
 UPGRADE PACKAGES:
+  - Why Russell won't run Mercedes' upgraded turbocharger in Vegas [Mercedes] -- https://www.formula1.com/en/latest/all.xml
   - McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas [McLaren] (14 Nov) -- https://www.autosport.com/rss/f1/news/
   - FIA reveals ADUO results in final review of 2026 F1 season (10 Nov) -- https://www.autosport.com/rss/f1/news/
-  - McLaren to upgrade MCL40 car at its bogey F1 track Las Vegas [McLaren] (14 Nov) -- https://www.motorsport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
+  - Piastri set for grid penalty at Las Vegas Grand Prix [McLaren] -- https://www.formula1.com/en/latest/all.xml
+  - The factors behind the abortive 2030 F1 rules announcement (18 Nov) -- https://www.autosport.com/rss/f1/news/
+  - The Antonelli you don't know: Daily life with F1's newest champion (18 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Piastri to receive 10-place grid drop at Las Vegas GP [McLaren, Mercedes] (18 Nov) -- https://www.autosport.com/rss/f1/news/
   - Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1 [Haas F1 Team] (16 Nov) -- https://www.autosport.com/rss/f1/news/
   - Retaining Lawson isn't enough – Red Bull must stop treating him like a failure [Red Bull] (15 Nov) -- https://www.autosport.com/rss/f1/news/
   - The surprising convergence behind F1's increasingly competitive 2026 season [Mercedes] (13 Nov) -- https://www.autosport.com/rss/f1/news/
   - FIA reveals ADUO results in final review of 2026 F1 season (10 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Leclerc penalised for Lawson clash; Antonelli and Oliver Bearman also punished after F1 Brazilian GP [Ferrari, Racing Bulls] (08 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Why Russell was so angry in Brazilian GP qualifying despite already having a grid penalty (07 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Hamilton set for new penalty, will start F1 Brazilian GP from back of grid [Ferrari] (07 Nov) -- https://www.autosport.com/rss/f1/news/
-  - F1 Brazilian GP: Verstappen edges out Antonelli to top FP3 as Hamilton hits mechanical trouble [Ferrari, Audi] (07 Nov) -- https://www.autosport.com/rss/f1/news/

@@ -2,26 +2,26 @@
 Las Vegas Strip Street Circuit, Las Vegas
 
 📊 Top expected points:
-  RUS: 28.4 (p10 4.0 / p90 47.0)
-  ANT: 26.1 (p10 0.0 / p90 46.0)
-  LEC: 23.4 (p10 -3.0 / p90 43.0)
-  HAM: 21.3 (p10 0.0 / p90 39.0)
-  NOR: 20.2 (p10 -9.0 / p90 41.0)
+  RUS: 28.6 (p10 2.0 / p90 48.0)
+  ANT: 25.9 (p10 0.0 / p90 45.1)
+  LEC: 23.5 (p10 0.0 / p90 44.0)
+  HAM: 21.4 (p10 -2.0 / p90 40.0)
+  NOR: 19.8 (p10 -9.0 / p90 40.0)
 
-🏗️ Captain suggestion: RUS (EV 56.9)
+🏗️ Captain suggestion: RUS (EV 57.2)
 
 📈 Likely price risers:
-  VER: 100% (Δ+0.28M)
-  LEC: 97% (Δ+0.24M)
-  HAM: 90% (Δ+0.13M)
-  BOR: 85% (Δ+0.42M)
-  HAD: 85% (Δ+0.31M)
+  VER: 100% (Δ+0.27M)
+  LEC: 98% (Δ+0.24M)
+  HAM: 89% (Δ+0.13M)
+  BOR: 87% (Δ+0.43M)
+  ANT: 84% (Δ+0.09M)
 
 📉 Likely budget losers -- think twice before backing these:
   BEA: 100% (Δ-0.60M)
-  ALO: 99% (Δ-0.59M)
-  TSU: 98% (Δ-0.56M)
+  ALO: 100% (Δ-0.59M)
   COL: 98% (Δ-0.56M)
-  OCO: 97% (Δ-0.53M)
+  TSU: 98% (Δ-0.56M)
+  PIA: 97% (Δ-0.19M)
 
-🧩 Optimal team: BOR, BOT, CAM, BEA, HAD + Mercedes, Ferrari (170.2 pts, $99.5M)
+🧩 Optimal team: BOR, PER, CAM, BEA, HAD + Mercedes, Ferrari (171.0 pts, $99.5M)
