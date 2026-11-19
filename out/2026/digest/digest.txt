@@ -1,25 +1,22 @@
 F1 Fantasy daily digest -- 2026 round 21
-Generated 2026-11-18 16:26 UTC
+Generated 2026-11-19 16:33 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 21 (FP1 R21 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
   - Tsolov lands reserve driver role for F1 2027 [Red Bull, Racing Bulls] (12 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Williams, Aston Martin among new F1 liveries for Las Vegas GP as Acura "replaces" Honda [Mercedes, Aston Martin, Williams] (16 Nov) -- https://www.motorsport.com/rss/f1/news/
-  - Christian Horner blames Red Bull leadership structure for missing F1’s future stars [Red Bull] (15 Nov) -- https://www.motorsport.com/rss/f1/news/
-  - Racing Bulls keep Lawson and Lindblad as Tsolov gets Red Bull reserve role | Formula 1 [Red Bull, Racing Bulls] (12 Nov) -- https://www.racefans.net/feed/
 
 UPGRADE PACKAGES:
-  - Why Russell won't run Mercedes' upgraded turbocharger in Vegas [Mercedes] -- https://www.formula1.com/en/latest/all.xml
   - McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas [McLaren] (14 Nov) -- https://www.autosport.com/rss/f1/news/
   - FIA reveals ADUO results in final review of 2026 F1 season (10 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Russell explains why he chose not to use Mercedes’ turbo upgrade in Las Vegas | Formula 1 [Mercedes] (19 Nov) -- https://www.racefans.net/feed/
 
 PENALTIES / RELIABILITY:
-  - Piastri set for grid penalty at Las Vegas Grand Prix [McLaren] -- https://www.formula1.com/en/latest/all.xml
+  - Who has the best F1 power unit: Red Bull or Mercedes? Russell shares interesting theory [Red Bull, Mercedes] (19 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Honda reveals key F1 power unit change for 2027 (19 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Why Verstappen's ideal F1 rules would make some circuits off-limits (19 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Alonso won't stay for V8 return: "F1 has lost 16 years of pure racing" [Audi] (19 Nov) -- https://www.autosport.com/rss/f1/news/
   - The factors behind the abortive 2030 F1 rules announcement (18 Nov) -- https://www.autosport.com/rss/f1/news/
   - The Antonelli you don't know: Daily life with F1's newest champion (18 Nov) -- https://www.autosport.com/rss/f1/news/
   - Piastri to receive 10-place grid drop at Las Vegas GP [McLaren, Mercedes] (18 Nov) -- https://www.autosport.com/rss/f1/news/
   - Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1 [Haas F1 Team] (16 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Retaining Lawson isn't enough – Red Bull must stop treating him like a failure [Red Bull] (15 Nov) -- https://www.autosport.com/rss/f1/news/
-  - The surprising convergence behind F1's increasingly competitive 2026 season [Mercedes] (13 Nov) -- https://www.autosport.com/rss/f1/news/
-  - FIA reveals ADUO results in final review of 2026 F1 season (10 Nov) -- https://www.autosport.com/rss/f1/news/
