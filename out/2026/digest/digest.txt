@@ -1,10 +1,12 @@
 F1 Fantasy daily digest -- 2026 round 21
-Generated 2026-11-19 16:33 UTC
+Generated 2026-11-20 16:08 UTC
 
 Confirmed lineup changes: no qualifying or practice session data yet for round 21 (FP1 R21 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
 
 LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
+  - Aron leaves Alpine as Vesti doubles up in reserve role [Mercedes, Alpine] -- https://www.formula1.com/en/latest/all.xml
   - Tsolov lands reserve driver role for F1 2027 [Red Bull, Racing Bulls] (12 Nov) -- https://www.autosport.com/rss/f1/news/
+  - “He’s decided on a direction”: Cadillac offered reserve role to “disappointed” Herta | Formula 1 [Cadillac] (20 Nov) -- https://www.racefans.net/feed/
 
 UPGRADE PACKAGES:
   - McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas [McLaren] (14 Nov) -- https://www.autosport.com/rss/f1/news/
@@ -12,11 +14,11 @@ UPGRADE PACKAGES:
   - Russell explains why he chose not to use Mercedes’ turbo upgrade in Las Vegas | Formula 1 [Mercedes] (19 Nov) -- https://www.racefans.net/feed/
 
 PENALTIES / RELIABILITY:
-  - Who has the best F1 power unit: Red Bull or Mercedes? Russell shares interesting theory [Red Bull, Mercedes] (19 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Honda reveals key F1 power unit change for 2027 (19 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Why Verstappen's ideal F1 rules would make some circuits off-limits (19 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Alonso won't stay for V8 return: "F1 has lost 16 years of pure racing" [Audi] (19 Nov) -- https://www.autosport.com/rss/f1/news/
-  - The factors behind the abortive 2030 F1 rules announcement (18 Nov) -- https://www.autosport.com/rss/f1/news/
-  - The Antonelli you don't know: Daily life with F1's newest champion (18 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Piastri to receive 10-place grid drop at Las Vegas GP [McLaren, Mercedes] (18 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Haas sticks with Camara for Las Vegas GP, Hirakawa in for FP1 [Haas F1 Team] (16 Nov) -- https://www.autosport.com/rss/f1/news/
+  - What the teams said – Thursday in Las Vegas -- https://www.formula1.com/en/latest/all.xml
+  - Alpine ‘hopeful’ after Gasly earns P2 during second practice [Alpine] -- https://www.formula1.com/en/latest/all.xml
+  - Hamilton reflects on Ferrari's practice running in Las Vegas [Ferrari] -- https://www.formula1.com/en/latest/all.xml
+  - Red Bull working to fix Verstappen's Vegas practice issues [Red Bull] -- https://www.formula1.com/en/latest/all.xml
+  - "Same as Brazil" – Red Bull "trying to understand" the root cause of Verstappen's complaints [Red Bull] (20 Nov) -- https://www.autosport.com/rss/f1/news/
+  - F1 Las Vegas GP: Russell fastest in damp FP2 from Gasly [Mercedes, Alpine] (20 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Cadillac ditches plan to produce own V6 hybrid engine ahead of F1’s V8 push [Cadillac] (20 Nov) -- https://www.autosport.com/rss/f1/news/
+  - FIA to phase in full-time F1 stewards from 2027 (19 Nov) -- https://www.autosport.com/rss/f1/news/
