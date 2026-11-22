@@ -1,19 +1,15 @@
 F1 Fantasy daily digest -- 2026 round 21
-Generated 2026-11-21 15:21 UTC
-
-LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
-  - Tsolov lands reserve driver role for F1 2027 [Red Bull, Racing Bulls] (12 Nov) -- https://www.autosport.com/rss/f1/news/
-  - “He’s decided on a direction”: Cadillac offered reserve role to “disappointed” Herta | Formula 1 [Cadillac] (20 Nov) -- https://www.racefans.net/feed/
+Generated 2026-11-22 15:17 UTC
 
 UPGRADE PACKAGES:
   - McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas [McLaren] (14 Nov) -- https://www.autosport.com/rss/f1/news/
 
 PENALTIES / RELIABILITY:
-  - What the teams said – Qualifying in Las Vegas -- https://www.formula1.com/en/latest/all.xml
+  - Perez hit with five-place penalty in Qatar for Camara clash [Haas F1 Team, Cadillac] -- https://www.formula1.com/en/latest/all.xml
+  - Hamilton reacts to ‘really harsh’ Las Vegas GP penalty [Ferrari] -- https://www.formula1.com/en/latest/all.xml
+  - Hadjar penalised after backing up Russell in Las Vegas GP, Perez given grid drop for Qatar GP [Red Bull, Mercedes] (22 Nov) -- https://www.autosport.com/rss/f1/news/
+  - Verstappen hits back after Russell criticism: “He’s so far below my level” (22 Nov) -- https://www.autosport.com/rss/f1/news/
+  - “My mistake was to lift” – Why Antonelli lost power in Las Vegas GP victory battle (22 Nov) -- https://www.autosport.com/rss/f1/news/
+  - F1 Las Vegas GP: Verstappen wins thriller as Russell hits the wall late on [Mercedes] (22 Nov) -- https://www.autosport.com/rss/f1/news/
   - Verstappen reveals mysterious Red Bull F1 car issue that cannot be fixed in Las Vegas [Red Bull] (21 Nov) -- https://www.autosport.com/rss/f1/news/
   - Verstappen responds to Russell after Las Vegas GP practice clash over 'gentleman's agreement' [Mercedes] (21 Nov) -- https://www.autosport.com/rss/f1/news/
-  - Russell slams Verstappen after Las Vegas GP practice clash: ‘He walks around like he’s bigger and better than everyone’ [Red Bull, Mercedes] (21 Nov) -- https://www.autosport.com/rss/f1/news/
-  - F1 Las Vegas GP: Antonelli tops qualifying but Verstappen gets pole [Red Bull, Mercedes] (21 Nov) -- https://www.autosport.com/rss/f1/news/
-  - F1 Las Vegas GP: Russell fastest in final practice after Verstappen collision [Mercedes] (21 Nov) -- https://www.autosport.com/rss/f1/news/
-  - F1 set for V8 return from 2030 (20 Nov) -- https://www.autosport.com/rss/f1/news/
-  - "Same as Brazil" – Red Bull "trying to understand" the root cause of Verstappen's complaints [Red Bull] (20 Nov) -- https://www.autosport.com/rss/f1/news/
