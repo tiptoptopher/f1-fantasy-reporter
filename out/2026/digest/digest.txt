@@ -1,12 +1,14 @@
-F1 Fantasy daily digest -- 2026 round 21
-Generated 2026-11-22 15:17 UTC
+F1 Fantasy daily digest -- 2026 round 22
+Generated 2026-11-23 19:14 UTC
 
-UPGRADE PACKAGES:
-  - McLaren to upgrade MCL40 F1 car at its bogey track Las Vegas [McLaren] (14 Nov) -- https://www.autosport.com/rss/f1/news/
+Confirmed lineup changes: no qualifying or practice session data yet for round 22 (FP1 R22 2026: The data you are trying to access has not been loaded yet. See `Session.load`)
+
+LINEUP NEWS (rumoured/reported, not yet confirmed in session data):
+  - Verstappen expects F1’s ‘yo-yo racing’ won’t be fixed until 2030 engines arrive | Formula 1 (23 Nov) -- https://www.racefans.net/feed/
 
 PENALTIES / RELIABILITY:
-  - Perez hit with five-place penalty in Qatar for Camara clash [Haas F1 Team, Cadillac] -- https://www.formula1.com/en/latest/all.xml
-  - Hamilton reacts to ‘really harsh’ Las Vegas GP penalty [Ferrari] -- https://www.formula1.com/en/latest/all.xml
+  - Herta replaced at Hitech to end F2 season early (23 Nov) -- https://www.autosport.com/rss/f1/news/
+  - F1 plans two-team engine supply limit under 2030 V8 rules [Mercedes] (22 Nov) -- https://www.autosport.com/rss/f1/news/
   - Hadjar penalised after backing up Russell in Las Vegas GP, Perez given grid drop for Qatar GP [Red Bull, Mercedes] (22 Nov) -- https://www.autosport.com/rss/f1/news/
   - Verstappen hits back after Russell criticism: “He’s so far below my level” (22 Nov) -- https://www.autosport.com/rss/f1/news/
   - “My mistake was to lift” – Why Antonelli lost power in Las Vegas GP victory battle (22 Nov) -- https://www.autosport.com/rss/f1/news/

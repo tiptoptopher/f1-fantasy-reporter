@@ -1,0 +1,27 @@
+🏁 *Race picks* -- Qatar Grand Prix
+Lusail International Circuit, Lusail
+
+📊 Top expected points:
+  RUS: 28.3 (p10 2.0 / p90 47.0)
+  ANT: 26.9 (p10 4.0 / p90 46.0)
+  LEC: 22.5 (p10 -2.0 / p90 42.0)
+  HAM: 21.5 (p10 -1.0 / p90 40.0)
+  NOR: 20.7 (p10 -9.0 / p90 41.0)
+
+🏗️ Captain suggestion: RUS (EV 56.6)
+
+📈 Likely price risers:
+  VER: 100% (Δ+0.30M)
+  HAM: 94% (Δ+0.19M)
+  ANT: 89% (Δ+0.12M)
+  NOR: 88% (Δ+0.16M)
+  BOR: 88% (Δ+0.46M)
+
+📉 Likely budget losers -- think twice before backing these:
+  ALB: 99% (Δ-0.58M)
+  OCO: 99% (Δ-0.57M)
+  TSU: 98% (Δ-0.56M)
+  LIN: 98% (Δ-0.56M)
+  ALO: 96% (Δ-0.54M)
+
+🧩 Optimal team: COL, BOT, CAM, BEA, HAD + Mercedes, Ferrari (171.2 pts, $100.0M)
