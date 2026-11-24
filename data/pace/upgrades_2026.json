@@ -1,5 +1,21 @@
 {
   "season": 2026,
-  "mentions": [],
+  "mentions": [
+    {
+      "source": "https://www.formula1.com/en/latest/all.xml",
+      "title": "The RB22 tweaks that helped Verstappen take victory in Las Vegas",
+      "summary": "Red Bull made tweaks to their RB22 for the Las Vegas Grand Prix, with a new front wing endplate to complement recent tweaks to the sidepod, as Mark Hughes explains, with technical illustrations from Giorgio Piola.",
+      "link": "https://www.formula1.com/en/latest/article/the-rb22-tweaks-that-helped-verstappen-take-victory-in-las-vegas.67NV2uD7vnuxKuW9SHi685",
+      "published_at": null,
+      "matched_keywords": [
+        "new front wing",
+        "sidepod"
+      ],
+      "constructors": [
+        "Red Bull"
+      ],
+      "attributed_round": null
+    }
+  ],
   "effects": []
 }
